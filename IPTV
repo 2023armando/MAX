@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" tvg-id="Canal 1 (1RFEF)" group-title="1RFEF", Canal 1 (1RFEF) (SOLO EVENTOS) 437d --> NEW ERA V
+http://127.0.0.1:6878/ace/getstream?id=c1ee6e1e0ef5928d8261f855c417de21794f437d
