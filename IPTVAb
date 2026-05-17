@@ -1847,6 +1847,10 @@ http://200.59.191.177:8000/play/a0kw/index.m3u8?
 #EXTVLCOPT:network-caching=1000
 
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ESTRELLA NEWS" tvg-logo="https://static-ottera.com/prod/est/linear_channel/thumbnails/square/estrella_news_-_1920x1920.jpg?T6OWijU0x8Zuj6N.JhEOEB7xOG4RrAGf" group-title="⭐ CANALES PREMIUM UHD",ESTRELLA NEWS
+http://liontv.es:8080/live/NESTORCHI/GRETF/1430323.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESTRELLA GAMES" tvg-logo="https://static-ottera.com/prod/est/linear_channel/thumbnails/square/estrella_games_-_1920x1920_1.jpg?0eiD4Wfb6Dnv_D4iRCu4_0Qoxd_s1KYG" group-title="⭐ CANALES PREMIUM UHD",ESTRELLA GAMES
+http://liontv.es:8080/live/NESTORCHI/GRETF/1430324.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DAZN ES | DAZN LIGA HD" tvg-logo="http://mastertv.pro:8080/images/f86528c06f450aad676a73f8e703da23.png" group-title="DAZN ES",DAZN ES | DAZN LIGA HD
 http://liontv.es:8080/live/NESTORCHI/GRETF/499538.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS | CANAL EXCLUSIVO LION TV PREMIUM HN" tvg-logo="https://archive.org/download/ln_20230429/CL.jpg" group-title="⚽ CHAMPIONS LEAGUE",CHAMPIONS | CANAL EXCLUSIVO LION TV PREMIUM HN
@@ -1875,6 +1879,8 @@ http://liontv.es:8080/live/NESTORCHI/GRETF/61813.m3u8
 http://liontv.es:8080/live/NESTORCHI/GRETF/362752.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS | ESPN 1 ARG" tvg-logo="https://archive.org/download/ln_20230429/CL.jpg" group-title="⚽ CHAMPIONS LEAGUE",CHAMPIONS | ESPN 1 ARG
 http://liontv.es:8080/live/NESTORCHI/GRETF/362747.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEX: IMAGEN TV" tvg-logo="http://51.222.43.170:36995/images/94993d63d73addcc1d1a32dc3100bd07.png" group-title="⭐ CANALES PREMIUM UHD",MEX: IMAGEN TV
+http://liontv.es:8080/live/NESTORCHI/GRETF/347296.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS | ESPN 1 COL" tvg-logo="https://archive.org/download/ln_20230429/CL.jpg" group-title="⚽ CHAMPIONS LEAGUE",CHAMPIONS | ESPN 1 COL
 http://liontv.es:8080/live/NESTORCHI/GRETF/362746.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LA LIGA | ESPN 1 COL" tvg-logo="https://archive.org/download/whats-app-image-2023-09-24-at-2.53.23-am_202309/WhatsApp%20Image%202023-09-23%20at%209.32.25%20PM.jpeg" group-title="⚽ LIGA ESPAÑOLA",LA LIGA | ESPN 1 COL
@@ -1895,8 +1901,14 @@ http://liontv.es:8080/live/NESTORCHI/GRETF/362744.m3u8
 http://liontv.es:8080/live/NESTORCHI/GRETF/362751.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DAZN ES | DAZN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="DAZN ES",DAZN ES | DAZN 2 HD
 http://liontv.es:8080/live/NESTORCHI/GRETF/61822.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEX: FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png" group-title="⭐ CANALES PREMIUM UHD",MEX: FX
+http://liontv.es:8080/live/NESTORCHI/GRETF/338213.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS | ESPN 1 SD 2MB" tvg-logo="https://archive.org/download/ln_20230429/CL.jpg" group-title="⚽ CHAMPIONS LEAGUE",CHAMPIONS | ESPN 1 SD 2MB
 http://liontv.es:8080/live/NESTORCHI/GRETF/362745.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEX: LAS ESTRELLAS" tvg-logo="https://i.ibb.co/4ZJyHjZ/Las-Estrellas-1-1.jpg" group-title="⭐ CANALES PREMIUM UHD",MEX: LAS ESTRELLAS
+http://liontv.es:8080/live/NESTORCHI/GRETF/347292.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT | Cinema Dinamita HD℠" tvg-logo="https://archive.org/download/nota_cinema-dinamita-llega-a-la-plataforma-xfinity-tv-de-comcast/nota_cinema-dinamita-llega-a-la-plataforma-xfinity-tv-de-comcast.jpg" group-title="⭐ CANALES PREMIUM UHD",LAT | Cinema Dinamita HD℠
+http://liontv.es:8080/live/NESTORCHI/GRETF/353358.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DAZN ES | DAZN 3 HD" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn3.png?resize=440%2C264&ssl=1" group-title="DAZN ES",DAZN ES | DAZN 3 HD
 http://liontv.es:8080/live/NESTORCHI/GRETF/61825.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LA LIGA | ESPN 2 ARG ᴴᴰ" tvg-logo="https://archive.org/download/whats-app-image-2023-09-24-at-2.53.23-am_202309/WhatsApp%20Image%202023-09-23%20at%209.32.25%20PM.jpeg" group-title="⚽ LIGA ESPAÑOLA",LA LIGA | ESPN 2 ARG ᴴᴰ
@@ -1909,24 +1921,452 @@ http://liontv.es:8080/live/NESTORCHI/GRETF/74.m3u8
 http://liontv.es:8080/live/NESTORCHI/GRETF/61836.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dep | EUROSPORT 2 HD" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=1756" group-title="⚽ DEPORTES +3Mbps",Dep | EUROSPORT 2 HD
 http://liontv.es:8080/live/NESTORCHI/GRETF/345266.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPT-LAT | ViX Deportes 5" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="⚽ EVENTOS VIX +",SPT-LAT | ViX Deportes 5
+http://liontv.es:8080/live/NESTORCHI/GRETF/858893.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS | ESPN PREMIUM" tvg-logo="https://archive.org/download/ln_20230429/CL.jpg" group-title="⚽ CHAMPIONS LEAGUE",CHAMPIONS | ESPN PREMIUM
 http://liontv.es:8080/live/NESTORCHI/GRETF/843877.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS | FOX SPORTS 2 ARG" tvg-logo="https://archive.org/download/ln_20230429/CL.jpg" group-title="⚽ CHAMPIONS LEAGUE",CHAMPIONS | FOX SPORTS 2 ARG
 http://liontv.es:8080/live/NESTORCHI/GRETF/843878.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS | ESPN 2 ARG" tvg-logo="https://archive.org/download/ln_20230429/CL.jpg" group-title="⚽ CHAMPIONS LEAGUE",CHAMPIONS | ESPN 2 ARG
 http://liontv.es:8080/live/NESTORCHI/GRETF/843873.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPT-LAT | ViX Deportes 1" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="⚽ EVENTOS VIX +",SPT-LAT | ViX Deportes 1
+http://liontv.es:8080/live/NESTORCHI/GRETF/858889.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LA LIGA | ESPN 1 ARG ᴴᴰ" tvg-logo="https://archive.org/download/whats-app-image-2023-09-24-at-2.53.23-am_202309/WhatsApp%20Image%202023-09-23%20at%209.32.25%20PM.jpeg" group-title="⚽ LIGA ESPAÑOLA",LA LIGA | ESPN 1 ARG ᴴᴰ
 http://liontv.es:8080/live/NESTORCHI/GRETF/1364655.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS | CBS SPORTS NETWORK" tvg-logo="https://archive.org/download/ln_20230429/CL.jpg" group-title="⚽ CHAMPIONS LEAGUE",CHAMPIONS | CBS SPORTS NETWORK
 http://liontv.es:8080/live/NESTORCHI/GRETF/875900.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS |  FOX SPORTS 1 ARG" tvg-logo="https://archive.org/download/ln_20230429/CL.jpg" group-title="⚽ CHAMPIONS LEAGUE",CHAMPIONS |  FOX SPORTS 1 ARG
 http://liontv.es:8080/live/NESTORCHI/GRETF/843875.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPT-LAT | ViX Deportes 10" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="⚽ EVENTOS VIX +",SPT-LAT | ViX Deportes 10
+http://liontv.es:8080/live/NESTORCHI/GRETF/858898.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPT-LAT | ViX Deportes 6" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="⚽ EVENTOS VIX +",SPT-LAT | ViX Deportes 6
+http://liontv.es:8080/live/NESTORCHI/GRETF/858894.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS | ESPN 3 ARG" tvg-logo="https://archive.org/download/ln_20230429/CL.jpg" group-title="⚽ CHAMPIONS LEAGUE",CHAMPIONS | ESPN 3 ARG
 http://liontv.es:8080/live/NESTORCHI/GRETF/843874.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPT-LAT | ViX Deportes 9" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="⚽ EVENTOS VIX +",SPT-LAT | ViX Deportes 9
+http://liontv.es:8080/live/NESTORCHI/GRETF/858897.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPT-LAT | ViX Deportes 3" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="⚽ EVENTOS VIX +",SPT-LAT | ViX Deportes 3
+http://liontv.es:8080/live/NESTORCHI/GRETF/858891.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPT-LAT | ViX Deportes 4" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="⚽ EVENTOS VIX +",SPT-LAT | ViX Deportes 4
+http://liontv.es:8080/live/NESTORCHI/GRETF/858892.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPT-LAT | ViX Deportes 2" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="⚽ EVENTOS VIX +",SPT-LAT | ViX Deportes 2
+http://liontv.es:8080/live/NESTORCHI/GRETF/858890.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS | FOX SPORTS 3 ARG" tvg-logo="https://archive.org/download/ln_20230429/CL.jpg" group-title="⚽ CHAMPIONS LEAGUE",CHAMPIONS | FOX SPORTS 3 ARG
 http://liontv.es:8080/live/NESTORCHI/GRETF/843876.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPT-LAT | ViX Deportes 7" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="⚽ EVENTOS VIX +",SPT-LAT | ViX Deportes 7
+http://liontv.es:8080/live/NESTORCHI/GRETF/858895.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPT-LAT | ViX Deportes 8" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="⚽ EVENTOS VIX +",SPT-LAT | ViX Deportes 8
+http://liontv.es:8080/live/NESTORCHI/GRETF/858896.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS | UNIVISION" tvg-logo="https://archive.org/download/ln_20230429/CL.jpg" group-title="⚽ CHAMPIONS LEAGUE",CHAMPIONS | UNIVISION
 http://liontv.es:8080/live/NESTORCHI/GRETF/847719.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | AMC FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/210.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | AMC FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | AXN FHD" tvg-logo="https://go4.pw/LATINO/AXNTV.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | AXN FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/778651.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | AZ-CINEMA FHD" tvg-logo="https://asatlinkpr.compradish.com/sites/compradish.com/pages/images/logo-ch-azteca-cinema.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | AZ-CINEMA FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/331594.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | CINECANAL FHD" tvg-logo="https://go4.pw/LATINO/MEXICO/cienecanal.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | CINECANAL FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/772989.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | CINE DINAMITA FHD" tvg-logo="https://www.newslinereport.com/online/nota_cinema-dinamita-llega-a-la-plataforma-xfinity-tv-de-comcast.jpg" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | CINE DINAMITA FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/511176.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | CINE LATINO FHD" tvg-logo="https://go4.pw/LATINO/cine latino.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | CINE LATINO FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/331591.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | CINE MARVEL FHD" tvg-logo="https://www.freepnglogos.com/uploads/marvel-logo-png/image-marvel-studios-logo-disney-wiki-18.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | CINE MARVEL FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/332123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | CINEMAX FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/509.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | CINEMAX FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/129.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | CINE MEXICANO FHD" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2017/02/CineMexicano_Logo.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | CINE MEXICANO FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/780792.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | FREE TV SUREÑO FHD" tvg-logo="https://redge.media/uploads/gradient_on_light_ec3a48812f.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | FREE TV SUREÑO FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/342884.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | CLARO CINEMA FHD" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/885/CH_LOGO/160/160/0/0/213917850797501.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | CLARO CINEMA FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/1422378.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | DE PELICULA CLASICO FHD" tvg-logo="http://51.222.152.107:81/posters/1618974359150.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | DE PELICULA CLASICO FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/327375.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES |  DE PELICULA FHD" tvg-logo="https://go4.pw/LATINO/MEXICO/DPel%20cula_Plus.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES |  DE PELICULA FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/327374.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | DE PELICULA PLUS FHD" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/01/De-Pelicula-Plus-Logo-2017.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | DE PELICULA PLUS FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/327376.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | DHE FHD" tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | DHE FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | EPIX DRIVE IN FHD" tvg-logo="https://logodix.com/logo/1104724.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | EPIX DRIVE IN FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/354406.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | EPIX HITS FHD" tvg-logo="https://dishpromotions.com/wp-content/uploads/EPIXH-logo.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | EPIX HITS FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/354407.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | EUROCHANNEL FHD" tvg-logo="https://th.bing.com/th/id/OIP.9vQJCRgOi1HryrV6iQ-giwHaCN?pid=ImgDet&rs=1" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | EUROCHANNEL FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/838250.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | EUROPA EUROPA FHD" tvg-logo="https://th.bing.com/th/id/R.53c404d9ff6d9b48461191d966fb8afe?rik=9Q8bSbidk7BJkg&riu=http%3a%2f%2ftelevision.com.ar%2fwp-content%2fuploads%2f2016%2f06%2feuropalogo.jpg&ehk=9NXX4ygZodGw8Ox3awTqiJMwB8fQMUVSQYjF4z4ok5I%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | EUROPA EUROPA FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/838249.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | FX FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/217.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | FX FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/124.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | GOLDEN EDGE FHD" tvg-logo="https://go4.pw/Mexico/edge.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | GOLDEN EDGE FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/134.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | GOLDEN FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/503.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | GOLDEN FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | GOLDEN PLUS FHD" tvg-logo="https://go4.pw/LATINO/MEXICO/GOLDEN.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | GOLDEN PLUS FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/135.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | GOLDEN PREMIER 2 FHD" tvg-logo="https://go4.pw/LATINO/MEXICO/GOLDEN.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | GOLDEN PREMIER 2 FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/1399235.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | GOLDEN PREMIER FHD" tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_11/large.large.1689826971_GoldenPremier2020.png.55867f88ed97ec1141ed81ba0f75a494.png.926c708c6f8ba665429c99b39b760a32.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | GOLDEN PREMIER FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES |  HBO 2 FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1525.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES |  HBO 2 FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/87726.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | HBO 2 WEST FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1525.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | HBO 2 WEST FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | HBO EXTREME FHD" tvg-logo="https://www.codice.tv/wp-content/uploads/2022/04/hbo-xtreme1.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | HBO EXTREME FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/349873.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | HBO FAMILY FHD" tvg-logo="https://go4.pw/usa/HBO_Family_East_HD.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | HBO FAMILY FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/349869.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | HBO FHD" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/HBO-logo-1.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | HBO FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/138.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | HBO MUNDI FHD" tvg-logo="https://archive.org/download/logo.brootv_hbo/HBO_MUNDI.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | HBO MUNDI FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/349870.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | HBO PLUS FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Logohboplus2019.svg/revision/latest/scale-to-width-down/1000?cb=20200122002249&path-prefix=es" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | HBO PLUS FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/349871.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | HBO POP FHD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhux9A5Ndss9srav2M7LBo0str36oCSzlmPELBmQ0_HT9-zl-D_XGWHVkSKOumpMnE5x5Gb5dijT2afmSO77CAiYjDIbCrYrTOVfBCV-2BU1gXnfoypkNm1qQLmHBMltwl-PnmfC-K5UVoxDJUAGSxVvU1PBEbaf9XDHv2Aro6HbjA3ZDU4j_8rQQ2/s1600/hbo-pop.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | HBO POP FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/349868.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | HBO SIGNATURE FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/HBO_Signature_2012.png/revision/latest?cb=20151009181232&path-prefix=es" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | HBO SIGNATURE FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/349872.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | MOVISTAR ACCION FHD" tvg-logo="https://go4.pw/SPAIN/AC.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | MOVISTAR ACCION FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/491901.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | MOVISTAR COMEDIA FHD" tvg-logo="https://go4.pw/SPAIN/CO.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | MOVISTAR COMEDIA FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/478804.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | MOVISTAR DRAMA FHD" tvg-logo="https://go4.pw/EUROPE/SPAIN/M.DRAMA.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | MOVISTAR DRAMA FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/478803.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | MOVISTAR ESTRENOS FHD" tvg-logo="https://go4.pw/SPAIN/ES.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | MOVISTAR ESTRENOS FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/478801.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | MULTIPREMIER FHD" tvg-logo="https://th.bing.com/th/id/R.6f0172ed5e1f71a90df9480089306348?rik=WjPZ9PJLc23zaQ&pid=ImgRaw&r=0" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | MULTIPREMIER FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/838251.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | PARAMOUNT FHD" tvg-logo="https://go4.pw/USA/SD/11.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | PARAMOUNT FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/349866.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | SONY MOVIES FHD" tvg-logo="https://go4.pw/AMERICA/USA/SONYMOVIESHD.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | SONY MOVIES FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/150.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | SPACE EAST FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/518.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | SPACE EAST FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/152.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | SPACE FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1518.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | SPACE FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/61858.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | STAR CHANNEL FHD" tvg-logo="https://elcomercio.pe/resizer/3aspnZC__0mIEzEVI7-AwYPTXro=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KMAWWZJ7NBF2DNBSD5XW6X2BFU.jpg" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | STAR CHANNEL FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/153.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | STARZ ENCORE CINEMA FHD" tvg-logo="https://images.seeklogo.com/logo-png/45/1/starz-cinema-logo-png_seeklogo-452970.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | STARZ ENCORE CINEMA FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | STARZ ENCORE CLASSIC FHD" tvg-logo="https://go4.pw/AMERICA/USA/STARZ.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | STARZ ENCORE CLASSIC FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | STARZ ENCORE FAMILY & KIDS FHD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore-family.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | STARZ ENCORE FAMILY & KIDS FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/164.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | STARZ ENCORE WESTERN FHD" tvg-logo="https://go4.pw/AMERICA/USA/STARZ.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | STARZ ENCORE WESTERN FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/165.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | STARZ FHD" tvg-logo="https://go4.pw/AMERICA/USA/STARZ.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | STARZ FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/163.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | STARZ WEST FHD" tvg-logo="https://go4.pw/AMERICA/USA/STARZ.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | STARZ WEST FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/516035.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | STUDIO UNIVERSAL FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/508.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | STUDIO UNIVERSAL FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | SYFY FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/219.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | SYFY FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/331592.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | TBS FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/216.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | TBS FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/331614.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | TCM FHD" tvg-logo="https://go4.pw/LATINO/TCM.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | TCM FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | TNT FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1502.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | TNT FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/169.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | TNT SERIES FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/213.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | TNT SERIES FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/170.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | UNIVERSAL CINEMA FHD" tvg-logo="https://www.universalplus.com/files/channels/731381553.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | UNIVERSAL CINEMA FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/351494.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | UNIVERSAL COMEDY FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Universal_Comedy_2021.png/revision/latest?cb=20220102015318&path-prefix=es" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | UNIVERSAL COMEDY FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/351490.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | UNIVERSAL CRIME ESTE FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest?cb=20220102014712&path-prefix=es" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | UNIVERSAL CRIME ESTE FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/351491.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | UNIVERSAL PREMIER FHD" tvg-logo="https://go4.pw/LATINO/MEXICO/UNIVERSAL.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | UNIVERSAL PREMIER FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/349882.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | UNIVERSAL REALITY FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Universal_Reality_2021.png/revision/latest?cb=20220102015650&path-prefix=es" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | UNIVERSAL REALITY FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/351493.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | UNIVERSAL TV FHD" tvg-logo="https://logos.xbots.com.mx/57.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | UNIVERSAL TV FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/171.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | WARNER CHANNEL FHD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner-hd_m.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | WARNER CHANNEL FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/349867.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | A&E ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A&E_Network_(Australia)_logo.svg/1200px-A&E_Network_(Australia)_logo.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | A&E ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338216.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | AMC ®" tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-1.png" group-title="⭐ CANALES PREMIUM UHD",UHD | AMC ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338215.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="⭐ CANALES PREMIUM UHD",UHD | ANIMAL PLANET
+http://liontv.es:8080/live/NESTORCHI/GRETF/338178.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | AXN®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="⭐ CANALES PREMIUM UHD",UHD | AXN®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | AZ CLICK ®" tvg-logo="https://www.ipuntotv.com/IMAGES/AZTV-click-logo.png" group-title="⭐ CANALES PREMIUM UHD",UHD | AZ CLICK ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338222.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | Azteca 13" tvg-logo="http://51.222.43.170:36995/images/ec28d705801481e5beb86b361da4753c.png" group-title="⭐ CANALES PREMIUM UHD",UHD | Azteca 13
+http://liontv.es:8080/live/NESTORCHI/GRETF/347291.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD |  Azteca 7" tvg-logo="http://51.222.43.170:8001/images/af54c1b77a4b34a39179b39dba0c1579.png" group-title="⭐ CANALES PREMIUM UHD",UHD |  Azteca 7
+http://liontv.es:8080/live/NESTORCHI/GRETF/347295.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="⭐ CANALES PREMIUM UHD",UHD | BOOMERANG
+http://liontv.es:8080/live/NESTORCHI/GRETF/338180.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX |  Canal 5 Nacional HD℠" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="⭐ CANALES PREMIUM UHD",MX |  Canal 5 Nacional HD℠
+http://liontv.es:8080/live/NESTORCHI/GRETF/347294.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | CANAL ONCE" tvg-logo="http://51.222.43.170:36995/images/f3d78bb40aaa54bb7e97f17fa98201dd.png" group-title="⭐ CANALES PREMIUM UHD",UHD | CANAL ONCE
+http://liontv.es:8080/live/NESTORCHI/GRETF/347301.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | CARTOON NETWORK ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1594px-Cartoon_Network_2010_logo.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | CARTOON NETWORK ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | CINECANAL ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="⭐ CANALES PREMIUM UHD",UHD | CINECANAL ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338182.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | CINEMAX ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="⭐ CANALES PREMIUM UHD",UHD | CINEMAX ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338239.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | CLARO SPORTS ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1280px-Claro_Sports_logo.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | CLARO SPORTS ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338248.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | CNN CHILE®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/1200px-CNN_Chile_logo_2017.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | CNN CHILE®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338270.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | COMEDY CENTRAL ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | COMEDY CENTRAL ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | DHE ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/1280px-Canal_DHE_logo.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | DHE ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338223.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | DISCOVERY CHANNEL®" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png" group-title="⭐ CANALES PREMIUM UHD",UHD | DISCOVERY CHANNEL®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338185.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | DISCOVERY CIVILITATION ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Civilization_logo.svg/800px-Discovery_Civilization_logo.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | DISCOVERY CIVILITATION ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338186.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | DISCOVERY HOME&HEALT ®" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png" group-title="⭐ CANALES PREMIUM UHD",UHD | DISCOVERY HOME&HEALT ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338262.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | DISCOVERY ID ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | DISCOVERY ID ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338188.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | DISCOVERY KIDS ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | DISCOVERY KIDS ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338189.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | DISCOVERY SCIENCE ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | DISCOVERY SCIENCE ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338190.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | DISCOVERY THEATER ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | DISCOVERY THEATER ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338212.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | DISCOVERY TLC ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/1200px-TLC_Logo_Germany.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | DISCOVERY TLC ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | DISCOVERY TURBO ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | DISCOVERY TURBO ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338191.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | DISCOVERY WORLD ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | DISCOVERY WORLD ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338192.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Disney_Channel_2014_HD.png/800px-Disney_Channel_2014_HD.png" group-title="⭐ CANALES PREMIUM UHD",UHD | DISNEY CHANNEL
+http://liontv.es:8080/live/NESTORCHI/GRETF/338193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | DISNEY JR ®" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/01/Disney-Junior-Logo.png" group-title="⭐ CANALES PREMIUM UHD",UHD | DISNEY JR ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338194.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | DISNEY XD ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | DISNEY XD ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338195.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | DISTRITO COMEDIA" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="⭐ CANALES PREMIUM UHD",UHD | DISTRITO COMEDIA
+http://liontv.es:8080/live/NESTORCHI/GRETF/347302.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | ECDF" tvg-logo="https://static.elcanaldelfutbol.com/static/images/logo_foot.png" group-title="⭐ CANALES PREMIUM UHD",UHD | ECDF
+http://liontv.es:8080/live/NESTORCHI/GRETF/338272.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | E ENTERTAIMENTS ®" tvg-logo="https://i.pinimg.com/originals/4e/fd/fd/4efdfddc6dafa48064a41f9b6f1d6293.png" group-title="⭐ CANALES PREMIUM UHD",UHD | E ENTERTAIMENTS ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338224.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | ESPN ®" tvg-logo="https://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" group-title="⭐ CANALES PREMIUM UHD",UHD | ESPN ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | ESPN 2 ®" tvg-logo="https://i.pinimg.com/originals/da/cc/72/dacc72028a780576222fd09cfa427059.png" group-title="⭐ CANALES PREMIUM UHD",UHD | ESPN 2 ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338196.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | ESPN 2 SUR ®" tvg-logo="https://i.pinimg.com/originals/da/cc/72/dacc72028a780576222fd09cfa427059.png" group-title="⭐ CANALES PREMIUM UHD",UHD | ESPN 2 SUR ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338232.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="⭐ CANALES PREMIUM UHD",UHD | ESPN 3
+http://liontv.es:8080/live/NESTORCHI/GRETF/338197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | ESPN 4 SUR ®" tvg-logo="https://i.ibb.co/7KGCnFV/d21fac40-d2d4-4d52-ad5f-4a1347135bfe.jpg" group-title="⭐ CANALES PREMIUM UHD",UHD | ESPN 4 SUR ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338234.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | ESPN SUR ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn+.png" group-title="⭐ CANALES PREMIUM UHD",UHD | ESPN SUR ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338231.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | ESTRELLA TV MIAMI®" tvg-logo="https://i.ibb.co/K9F7CGM/Estrella-TV.jpg" group-title="⭐ CANALES PREMIUM UHD",UHD | ESTRELLA TV MIAMI®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338255.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | EURO NEWS ESPAÑOL ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" group-title="⭐ CANALES PREMIUM UHD",UHD | EURO NEWS ESPAÑOL ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338258.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | FILMS-ARTS" tvg-logo="http://revistamomentos.co/wp-content/uploads/2017/06/Logo-Film-Arts.png" group-title="⭐ CANALES PREMIUM UHD",UHD | FILMS-ARTS
+http://liontv.es:8080/live/NESTORCHI/GRETF/342993.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | FOOD NETWORK HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="⭐ CANALES PREMIUM UHD",UHD | FOOD NETWORK HQ
+http://liontv.es:8080/live/NESTORCHI/GRETF/338274.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | FORO TV" tvg-logo="http://51.222.43.170:36995/images/8768018dbed34f01a6afee7f43e958ea.png" group-title="⭐ CANALES PREMIUM UHD",UHD | FORO TV
+http://liontv.es:8080/live/NESTORCHI/GRETF/347297.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | FOX NEWS UHD ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/768px-Fox_News_Channel_logo.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | FOX NEWS UHD ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338267.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | FOX SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo_fox_sports_2012.png" group-title="⭐ CANALES PREMIUM UHD",UHD | FOX SPORTS 1
+http://liontv.es:8080/live/NESTORCHI/GRETF/338165.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/1200px-FOX_Deportes_logo.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | FOX SPORTS 2
+http://liontv.es:8080/live/NESTORCHI/GRETF/338166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | FOX SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | FOX SPORTS 3
+http://liontv.es:8080/live/NESTORCHI/GRETF/338167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | FOX SPORTS 3 SUR ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | FOX SPORTS 3 SUR ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338235.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | FOX SPORTS HD" tvg-logo="http://51.222.43.170:36995/images/08bb571993eade318886f494a9679e86.png" group-title="⭐ CANALES PREMIUM UHD",UHD | FOX SPORTS HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/347304.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US | FX Movie Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png" group-title="⭐ CANALES PREMIUM UHD",US | FX Movie Channel
+http://liontv.es:8080/live/NESTORCHI/GRETF/338242.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | GOLDEN PREMIER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/847px-Logo_Golden_TV.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | GOLDEN PREMIER
+http://liontv.es:8080/live/NESTORCHI/GRETF/338238.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | GOLDEN UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/847px-Logo_Golden_TV.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | GOLDEN UHD®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338265.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | GOLF CHANNEL ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png" group-title="⭐ CANALES PREMIUM UHD",UHD | GOLF CHANNEL ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338225.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="⭐ CANALES PREMIUM UHD",UHD | HBO 2
+http://liontv.es:8080/live/NESTORCHI/GRETF/338169.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | HBO 2 ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="⭐ CANALES PREMIUM UHD",UHD | HBO 2 ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338184.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | HBO MUNDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | HBO MUNDI
+http://liontv.es:8080/live/NESTORCHI/GRETF/338174.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | HBO PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="⭐ CANALES PREMIUM UHD",UHD | HBO PLUS
+http://liontv.es:8080/live/NESTORCHI/GRETF/338171.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | HBO PLUS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png" group-title="⭐ CANALES PREMIUM UHD",UHD | HBO PLUS 2
+http://liontv.es:8080/live/NESTORCHI/GRETF/346221.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | HBO POP
+http://liontv.es:8080/live/NESTORCHI/GRETF/338173.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | HBO SIGNATURE
+http://liontv.es:8080/live/NESTORCHI/GRETF/338172.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | HBO UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | HBO UHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/338168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | HBO XTREME ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | HBO XTREME ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338245.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | HISTORY 2 ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="⭐ CANALES PREMIUM UHD",UHD | HISTORY 2 ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338246.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | HISTORY  UHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/d07b76ebf71f8cfd877a7016bc3bc639.png" group-title="⭐ CANALES PREMIUM UHD",UHD | HISTORY  UHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/338214.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | HOLA TV" tvg-logo="https://pbs.twimg.com/profile_images/1101491804858433541/Y4ymYB5E_400x400.png" group-title="⭐ CANALES PREMIUM UHD",UHD | HOLA TV
+http://liontv.es:8080/live/NESTORCHI/GRETF/338251.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | MÁS CHIC ®" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/a/a4/M%25_3Fs_Chic.png" group-title="⭐ CANALES PREMIUM UHD",UHD | MÁS CHIC ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338263.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | MTV®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/1472px-MTV_Logo_2010.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | MTV®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338226.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | MTV LIVE" tvg-logo="http://51.222.43.170:36995/images/1d5288594747ab7bc87ae79442422726.png" group-title="⭐ CANALES PREMIUM UHD",UHD | MTV LIVE
+http://liontv.es:8080/live/NESTORCHI/GRETF/347300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | NATGEO®" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/National-Geographic-Logo.png" group-title="⭐ CANALES PREMIUM UHD",UHD | NATGEO®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338177.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | NICK ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_(Logo).png" group-title="⭐ CANALES PREMIUM UHD",UHD | NICK ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338219.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | NICK 2 ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Nick_2_Logo_alternative.png" group-title="⭐ CANALES PREMIUM UHD",UHD | NICK 2 ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338218.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | NICK JR UHD ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | NICK JR UHD ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338264.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | PARAMOUNT MX" tvg-logo="https://i.imgur.com/YlxkxAq.png" group-title="⭐ CANALES PREMIUM UHD",UHD | PARAMOUNT MX
+http://liontv.es:8080/live/NESTORCHI/GRETF/338201.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | PASIONES ®" tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/PASIONESHD/EXPORTACION_WEB/SS/PASIONESHD_t-290x163.png" group-title="⭐ CANALES PREMIUM UHD",UHD | PASIONES ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338202.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | SKY SPORTS UHD ®" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-vector-logo.png" group-title="⭐ CANALES PREMIUM UHD",UHD | SKY SPORTS UHD ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338276.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | SONY ®" tvg-logo="https://assets.stickpng.com/images/5848242ecef1014c0b5e49c8.png" group-title="⭐ CANALES PREMIUM UHD",UHD | SONY ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338203.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | SPACE ®" tvg-logo="https://i0.wp.com/webadictos.com/media/2020/03/space-tv.png?fit=600%2C323&ssl=1" group-title="⭐ CANALES PREMIUM UHD",UHD | SPACE ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | STAR CHANNEL UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="⭐ CANALES PREMIUM UHD",UHD | STAR CHANNEL UHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/338158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | STAR MOVIE UHD" tvg-logo="https://seeklogo.com/images/S/star-movies-logo-D9674609C3-seeklogo.com.png" group-title="⭐ CANALES PREMIUM UHD",UHD | STAR MOVIE UHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/338163.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | STAR TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="⭐ CANALES PREMIUM UHD",UHD | STAR TVE HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/338227.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | STUDIO UNIVERSAL ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | STUDIO UNIVERSAL ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338205.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | SUNDANCE ®" tvg-logo="https://findvectorlogo.com/wp-content/uploads/2019/08/sundancetv-vector-logo.png" group-title="⭐ CANALES PREMIUM UHD",UHD | SUNDANCE ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338228.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | SYFY ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/1200px-SYFY.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | SYFY ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | TEEN NICK ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_logo_2009.svg/1280px-TeenNick_logo_2009.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | TEEN NICK ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338247.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | TELEMUNDO ®" tvg-logo="https://www.briya.org/wp-content/uploads/2019/01/telemundo-logo.png" group-title="⭐ CANALES PREMIUM UHD",UHD | TELEMUNDO ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338220.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | TNT
+http://liontv.es:8080/live/NESTORCHI/GRETF/338175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="⭐ CANALES PREMIUM UHD",UHD | TNT SERIES
+http://liontv.es:8080/live/NESTORCHI/GRETF/338176.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4K | TNT Sports Ultimate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="⭐ CANALES PREMIUM UHD",4K | TNT Sports Ultimate
+http://liontv.es:8080/live/NESTORCHI/GRETF/338268.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | TUDN" tvg-logo="http://51.222.43.170:36995/images/06c9460347bd5f1229d48626ba513feb.png" group-title="⭐ CANALES PREMIUM UHD",UHD | TUDN
+http://liontv.es:8080/live/NESTORCHI/GRETF/347303.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | TYC SPORTS ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | TYC SPORTS ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338269.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | UNICABLE" tvg-logo="http://51.222.43.170:36995/images/ba098b8ef3a43cc97c8e1b101c3e6e69.png" group-title="⭐ CANALES PREMIUM UHD",UHD | UNICABLE
+http://liontv.es:8080/live/NESTORCHI/GRETF/347298.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | UNIMAS ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | UNIMAS ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338250.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | UNIMAS MIAMI ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | UNIMAS MIAMI ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338256.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | UNIMAS NEW YORK®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | UNIMAS NEW YORK®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338257.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | UNIVERSAL CHANNEL ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1200px-Universal_Channel_Logo_2013.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | UNIVERSAL CHANNEL ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338208.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | UNIVERSAL CRIME UHD" tvg-logo="https://i.imgur.com/okjyXsZ.png" group-title="⭐ CANALES PREMIUM UHD",UHD | UNIVERSAL CRIME UHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/338161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | UNIVERSAL PREMIERE UHD" tvg-logo="https://i.imgur.com/jGJqcCV.png" group-title="⭐ CANALES PREMIUM UHD",UHD | UNIVERSAL PREMIERE UHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/338160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | UNIVERSAL REALITY  UHD" tvg-logo="https://i.imgur.com/u4qg3dJ.png" group-title="⭐ CANALES PREMIUM UHD",UHD | UNIVERSAL REALITY  UHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/338159.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT |  Univision Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="⭐ CANALES PREMIUM UHD",LAT |  Univision Network HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/338249.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | VH1 ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | VH1 ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338230.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | WARNER ®" tvg-logo="https://assets.stickpng.com/images/58483b6d84e35b574e745381.png" group-title="⭐ CANALES PREMIUM UHD",UHD | WARNER ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338209.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | WIN SPORTS ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | WIN SPORTS ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338221.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 01" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 01
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442328.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 02" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 02
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442329.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 03" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 03
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442330.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 04" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 04
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442331.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 05" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 05
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442332.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 06" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 06
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442333.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 07" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 07
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442334.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 08" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 08
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442335.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 09" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 09
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442336.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 10" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 10
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442337.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 11" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 11
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442338.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 12" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 12
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442339.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 13" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 13
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442340.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 14" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 14
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442341.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 15" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 15
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442342.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 16" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 16
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442343.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 17" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 17
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442344.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 18" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 18
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442345.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 19" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 19
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442346.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 20" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 20
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442347.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 21" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 21
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442348.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 22" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 22
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442349.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 23" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 23
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442350.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 24" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 24
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442351.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 25" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 25
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442352.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 26" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 26
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442353.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 27" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 27
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442354.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 28" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 28
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442355.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 29" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 29
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442356.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 30" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 30
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442357.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 31" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 31
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442358.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 32" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 32
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442359.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 33" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 33
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 34" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 34
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442361.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 35" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 35
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442362.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 36" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 36
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442363.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 37" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 37
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442364.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | ESPN PLUS ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1280px-ESPN_Plus.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | ESPN PLUS ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338210.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DHD | BEIN SPORTS  EXTRA USA" tvg-logo="https://ia800809.us.archive.org/25/items/BeinSportsUsaHd/bein%20sports%20usa%20hd.png" group-title="⚽ DEPORTES ʜᴅ",DHD | BEIN SPORTS  EXTRA USA
 http://liontv.es:8080/live/NESTORCHI/GRETF/64.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DHD | BEIN SPORTS Ñ" tvg-logo="http://easytv.mx/wp-content/uploads/tv-logos/DEPORTES/beinsportn.png" group-title="⚽ DEPORTES ʜᴅ",DHD | BEIN SPORTS Ñ
@@ -2245,78 +2685,96 @@ http://liontv.es:8080/live/NESTORCHI/GRETF/345294.m3u8
 http://liontv.es:8080/live/NESTORCHI/GRETF/345261.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | WWE NETWORK HD" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=1300" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | WWE NETWORK HD
 http://liontv.es:8080/live/NESTORCHI/GRETF/345290.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 1 ESPAÑA FHD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="SPAIN DEPORTES",ES| DAZN 1 ESPAÑA FHD
-http://liontv.es:8080/live/NESTORCHI/GRETF/1621099.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 1 ESPAÑA HEVC" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="SPAIN DEPORTES",ES| DAZN 1 ESPAÑA HEVC
-http://liontv.es:8080/live/NESTORCHI/GRETF/1621085.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 1 ESPAÑA SD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="SPAIN DEPORTES",ES| DAZN 1 ESPAÑA SD
-http://liontv.es:8080/live/NESTORCHI/GRETF/1621106.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 1 ESPAÑA HD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="SPAIN DEPORTES",ES| DAZN 1 ESPAÑA HD
-http://liontv.es:8080/live/NESTORCHI/GRETF/1621108.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 2 ESPAÑA FHD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="SPAIN DEPORTES",ES| DAZN 2 ESPAÑA FHD
-http://liontv.es:8080/live/NESTORCHI/GRETF/1621087.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 2 ESPAÑA HD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="SPAIN DEPORTES",ES| DAZN 2 ESPAÑA HD
-http://liontv.es:8080/live/NESTORCHI/GRETF/1621097.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 2 ESPAÑA HEVC" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="SPAIN DEPORTES",ES| DAZN 2 ESPAÑA HEVC
-http://liontv.es:8080/live/NESTORCHI/GRETF/1621094.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 2 ESPAÑA SD" tvg-logo="https://lo1.in/sp/DAZN%202%20ESPA%C3%91A.png" group-title="SPAIN DEPORTES",ES| DAZN 2 ESPAÑA SD
-http://liontv.es:8080/live/NESTORCHI/GRETF/1621088.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 3 ESPAÑA FHD" tvg-logo="https://lo1.in/sp/DAZN%203%20ESPA%C3%91A.png" group-title="SPAIN DEPORTES",ES| DAZN 3 ESPAÑA FHD
-http://liontv.es:8080/live/NESTORCHI/GRETF/1621113.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 3 ESPAÑA HD" tvg-logo="https://lo1.in/sp/DAZN%203%20ESPA%C3%91A.png" group-title="SPAIN DEPORTES",ES| DAZN 3 ESPAÑA HD
-http://liontv.es:8080/live/NESTORCHI/GRETF/1621092.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 3 ESPAÑA HEVC" tvg-logo="https://lo1.in/sp/DAZN%203%20ESPA%C3%91A.png" group-title="SPAIN DEPORTES",ES| DAZN 3 ESPAÑA HEVC
-http://liontv.es:8080/live/NESTORCHI/GRETF/1621111.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 3 ESPAÑA SD" tvg-logo="https://lo1.in/sp/DAZN%203%20ESPA%C3%91A.png" group-title="SPAIN DEPORTES",ES| DAZN 3 ESPAÑA SD
-http://liontv.es:8080/live/NESTORCHI/GRETF/1621110.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 4 ESPAÑA FHD" tvg-logo="https://lo1.in/sp/DAZN%204%20ESPA%C3%91A.png" group-title="SPAIN DEPORTES",ES| DAZN 4 ESPAÑA FHD
-http://liontv.es:8080/live/NESTORCHI/GRETF/1621091.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 4 ESPAÑA HD" tvg-logo="https://lo1.in/sp/DAZN%204%20ESPA%C3%91A.png" group-title="SPAIN DEPORTES",ES| DAZN 4 ESPAÑA HD
-http://liontv.es:8080/live/NESTORCHI/GRETF/1621089.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 4 ESPAÑA HEVC" tvg-logo="https://lo1.in/sp/DAZN%204%20ESPA%C3%91A.png" group-title="SPAIN DEPORTES",ES| DAZN 4 ESPAÑA HEVC
-http://liontv.es:8080/live/NESTORCHI/GRETF/1621101.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 4 ESPAÑA SD" tvg-logo="https://lo1.in/sp/DAZN%204%20ESPA%C3%91A.png" group-title="SPAIN DEPORTES",ES| DAZN 4 ESPAÑA SD
-http://liontv.es:8080/live/NESTORCHI/GRETF/1621098.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN ACB 1" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="SPAIN DEPORTES",ES| DAZN ACB 1
-http://liontv.es:8080/live/NESTORCHI/GRETF/1621090.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN ACB 2" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="SPAIN DEPORTES",ES| DAZN ACB 2
-http://liontv.es:8080/live/NESTORCHI/GRETF/1621105.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN ACB 3" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="SPAIN DEPORTES",ES| DAZN ACB 3
-http://liontv.es:8080/live/NESTORCHI/GRETF/1621100.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN ACB 4" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="SPAIN DEPORTES",ES| DAZN ACB 4
-http://liontv.es:8080/live/NESTORCHI/GRETF/1621096.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN ACB 5" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="SPAIN DEPORTES",ES| DAZN ACB 5
-http://liontv.es:8080/live/NESTORCHI/GRETF/1621067.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN Baloncesto 1 FHD" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="SPAIN DEPORTES",ES| DAZN Baloncesto 1 FHD
-http://liontv.es:8080/live/NESTORCHI/GRETF/1621053.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN Baloncesto 2 FHD" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="SPAIN DEPORTES",ES| DAZN Baloncesto 2 FHD
-http://liontv.es:8080/live/NESTORCHI/GRETF/1621041.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN Baloncesto 3 FHD" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="SPAIN DEPORTES",ES| DAZN Baloncesto 3 FHD
-http://liontv.es:8080/live/NESTORCHI/GRETF/1621074.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN F1 ESPAÑA FHD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="SPAIN DEPORTES",ES| DAZN F1 ESPAÑA FHD
-http://liontv.es:8080/live/NESTORCHI/GRETF/1621039.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN F1 ESPAÑA HD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="SPAIN DEPORTES",ES| DAZN F1 ESPAÑA HD
-http://liontv.es:8080/live/NESTORCHI/GRETF/1621036.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN F1 ESPAÑA HEVC" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="SPAIN DEPORTES",ES| DAZN F1 ESPAÑA HEVC
-http://liontv.es:8080/live/NESTORCHI/GRETF/1621058.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN F1 ESPAÑA SD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="SPAIN DEPORTES",ES| DAZN F1 ESPAÑA SD
-http://liontv.es:8080/live/NESTORCHI/GRETF/1621082.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LA LIGA 1 FHD" tvg-logo="https://lo1.in/it/dzn.png" group-title="SPAIN DEPORTES",ES| DAZN LA LIGA 1 FHD
-http://liontv.es:8080/live/NESTORCHI/GRETF/1621083.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LA LIGA 1 HD" tvg-logo="https://lo1.in/it/dzn.png" group-title="SPAIN DEPORTES",ES| DAZN LA LIGA 1 HD
-http://liontv.es:8080/live/NESTORCHI/GRETF/1621043.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LA LIGA 1 HEVC" tvg-logo="https://lo1.in/it/dzn.png" group-title="SPAIN DEPORTES",ES| DAZN LA LIGA 1 HEVC
-http://liontv.es:8080/live/NESTORCHI/GRETF/1621081.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LA LIGA 1 SD" tvg-logo="https://lo1.in/it/dzn.png" group-title="SPAIN DEPORTES",ES| DAZN LA LIGA 1 SD
-http://liontv.es:8080/live/NESTORCHI/GRETF/1621071.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LA LIGA 2 FHD" tvg-logo="https://lo1.in/it/dzn.png" group-title="SPAIN DEPORTES",ES| DAZN LA LIGA 2 FHD
-http://liontv.es:8080/live/NESTORCHI/GRETF/1621061.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LA LIGA 2 HD" tvg-logo="https://lo1.in/it/dzn.png" group-title="SPAIN DEPORTES",ES| DAZN LA LIGA 2 HD
-http://liontv.es:8080/live/NESTORCHI/GRETF/1621072.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LA LIGA 2 HEVC" tvg-logo="https://lo1.in/it/dzn.png" group-title="SPAIN DEPORTES",ES| DAZN LA LIGA 2 HEVC
-http://liontv.es:8080/live/NESTORCHI/GRETF/1621038.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LA LIGA 2 SD" tvg-logo="https://lo1.in/it/dzn.png" group-title="SPAIN DEPORTES",ES| DAZN LA LIGA 2 SD
-http://liontv.es:8080/live/NESTORCHI/GRETF/1621073.m3u8
+#EXTINF:-1 tvg-id="ffbb6bfe-2bd3-4b04-823b-e43438f30777" tvg-name="24/7 4K UHD - 01" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/018/107/390/small_2x/4k-ultra-hd-resolution-sign-icon-png.png" group-title="▶️ 24/7 4K & 60 FPS",24/7 4K UHD - 01
+http://liontv.es:8080/live/NESTORCHI/GRETF/817480.m3u8
+#EXTINF:-1 tvg-id="d3d85a09-517e-4ee0-8837-7c80fa6d6645" tvg-name="24/7 4K UHD - 02" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/018/107/390/small_2x/4k-ultra-hd-resolution-sign-icon-png.png" group-title="▶️ 24/7 4K & 60 FPS",24/7 4K UHD - 02
+http://liontv.es:8080/live/NESTORCHI/GRETF/817481.m3u8
+#EXTINF:-1 tvg-id="49e76ea6-7f93-4327-8a70-039870d7c318" tvg-name="24/7 4K UHD - 03" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/018/107/390/small_2x/4k-ultra-hd-resolution-sign-icon-png.png" group-title="▶️ 24/7 4K & 60 FPS",24/7 4K UHD - 03
+http://liontv.es:8080/live/NESTORCHI/GRETF/817482.m3u8
+#EXTINF:-1 tvg-id="c36e18f7-8926-47ad-9b5b-10f0be683ea4" tvg-name="24/7 60 FPS - ACCION" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/018/107/390/small_2x/4k-ultra-hd-resolution-sign-icon-png.png" group-title="▶️ 24/7 4K & 60 FPS",24/7 60 FPS - ACCION
+http://liontv.es:8080/live/NESTORCHI/GRETF/817475.m3u8
+#EXTINF:-1 tvg-id="50465317-63cf-42af-854e-f18160f696ed" tvg-name="24/7 60 FPS - ANIMADOS" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/018/107/390/small_2x/4k-ultra-hd-resolution-sign-icon-png.png" group-title="▶️ 24/7 4K & 60 FPS",24/7 60 FPS - ANIMADOS
+http://liontv.es:8080/live/NESTORCHI/GRETF/817476.m3u8
+#EXTINF:-1 tvg-id="4fdc4fe9-4eba-4196-9750-8ab6869333cf" tvg-name="24/7 60 FPS - COMEDIA" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/018/107/390/small_2x/4k-ultra-hd-resolution-sign-icon-png.png" group-title="▶️ 24/7 4K & 60 FPS",24/7 60 FPS - COMEDIA
+http://liontv.es:8080/live/NESTORCHI/GRETF/817477.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 60 FPS - DRAMA" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/018/107/390/small_2x/4k-ultra-hd-resolution-sign-icon-png.png" group-title="▶️ 24/7 4K & 60 FPS",24/7 60 FPS - DRAMA
+http://liontv.es:8080/live/NESTORCHI/GRETF/817478.m3u8
+#EXTINF:-1 tvg-id="6f043bf3-c49c-45be-ac1e-c27874ada528" tvg-name="24/7 60 FPS - TERROR Y SUSPENSO" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/018/107/390/small_2x/4k-ultra-hd-resolution-sign-icon-png.png" group-title="▶️ 24/7 4K & 60 FPS",24/7 60 FPS - TERROR Y SUSPENSO
+http://liontv.es:8080/live/NESTORCHI/GRETF/817479.m3u8
+#EXTINF:-1 tvg-id="899f681d-9fb0-4730-aa68-e4ec5ac864ff" tvg-name="24/7 Peliculas de Drama" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/018/107/390/small_2x/4k-ultra-hd-resolution-sign-icon-png.png" group-title="▶️ 24/7 4K & 60 FPS",24/7 Peliculas de Drama
+http://liontv.es:8080/live/NESTORCHI/GRETF/817470.m3u8
+#EXTINF:-1 tvg-id="6632a26c-5992-4de6-bfa4-fbf9b6b82837" tvg-name="24/7 Peliculas de Accion" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/018/107/390/small_2x/4k-ultra-hd-resolution-sign-icon-png.png" group-title="▶️ 24/7 4K & 60 FPS",24/7 Peliculas de Accion
+http://liontv.es:8080/live/NESTORCHI/GRETF/817465.m3u8
+#EXTINF:-1 tvg-id="1eb785e2-783d-4218-8e36-2c0619087e22" tvg-name="24/7 Peliculas de Animacion" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/018/107/390/small_2x/4k-ultra-hd-resolution-sign-icon-png.png" group-title="▶️ 24/7 4K & 60 FPS",24/7 Peliculas de Animacion
+http://liontv.es:8080/live/NESTORCHI/GRETF/817466.m3u8
+#EXTINF:-1 tvg-id="2f5f6d52-4b62-4acf-b011-ef13aeb18bbe" tvg-name="24/7 Peliculas de Aventuras" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/018/107/390/small_2x/4k-ultra-hd-resolution-sign-icon-png.png" group-title="▶️ 24/7 4K & 60 FPS",24/7 Peliculas de Aventuras
+http://liontv.es:8080/live/NESTORCHI/GRETF/817467.m3u8
+#EXTINF:-1 tvg-id="fc3562a0-8b0c-45b5-b484-4736aeb5bee1" tvg-name="24/7 Peliculas de Ciencia Ficcion" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/018/107/390/small_2x/4k-ultra-hd-resolution-sign-icon-png.png" group-title="▶️ 24/7 4K & 60 FPS",24/7 Peliculas de Ciencia Ficcion
+http://liontv.es:8080/live/NESTORCHI/GRETF/817468.m3u8
+#EXTINF:-1 tvg-id="3c32b829-aafb-40e0-bb7d-b908dffc5516" tvg-name="24/7 Peliculas de Comedia" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/018/107/390/small_2x/4k-ultra-hd-resolution-sign-icon-png.png" group-title="▶️ 24/7 4K & 60 FPS",24/7 Peliculas de Comedia
+http://liontv.es:8080/live/NESTORCHI/GRETF/817469.m3u8
+#EXTINF:-1 tvg-id="15c3f0b8-6696-44fa-b9c2-c2e7ea287082" tvg-name="24/7 Peliculas de Sagas" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/018/107/390/small_2x/4k-ultra-hd-resolution-sign-icon-png.png" group-title="▶️ 24/7 4K & 60 FPS",24/7 Peliculas de Sagas
+http://liontv.es:8080/live/NESTORCHI/GRETF/817474.m3u8
+#EXTINF:-1 tvg-id="f7799567-9384-4f83-9294-1cb0e28033d3" tvg-name="24/7 Peliculas de Suspenso" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/018/107/390/small_2x/4k-ultra-hd-resolution-sign-icon-png.png" group-title="▶️ 24/7 4K & 60 FPS",24/7 Peliculas de Suspenso
+http://liontv.es:8080/live/NESTORCHI/GRETF/817471.m3u8
+#EXTINF:-1 tvg-id="1414bab3-0bd5-4911-b301-463d57fc4011" tvg-name="24/7 Peliculas de Terror" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/018/107/390/small_2x/4k-ultra-hd-resolution-sign-icon-png.png" group-title="▶️ 24/7 4K & 60 FPS",24/7 Peliculas de Terror
+http://liontv.es:8080/live/NESTORCHI/GRETF/817472.m3u8
+#EXTINF:-1 tvg-id="c92d31d3-1f57-4f07-b9f6-db1e3bade23d" tvg-name="24/7 Peliculas Familiares" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/018/107/390/small_2x/4k-ultra-hd-resolution-sign-icon-png.png" group-title="▶️ 24/7 4K & 60 FPS",24/7 Peliculas Familiares
+http://liontv.es:8080/live/NESTORCHI/GRETF/817473.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PREMIER | CANAL EXCLUSIVO LION TV" tvg-logo="https://i.ibb.co/9HrXZf11/Imagen-de-Whats-App-2025-11-01-a-las-03-10-52-61d7c892.jpg" group-title="⚽ PREMIER LEAGUE",LIGA PREMIER | CANAL EXCLUSIVO LION TV
+http://liontv.es:8080/live/NESTORCHI/GRETF/1599552.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PREMIER | ESPN OP1" tvg-logo="https://i.ibb.co/9HrXZf11/Imagen-de-Whats-App-2025-11-01-a-las-03-10-52-61d7c892.jpg" group-title="⚽ PREMIER LEAGUE",LIGA PREMIER | ESPN OP1
+http://liontv.es:8080/live/NESTORCHI/GRETF/1599545.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PREMIER | ESPN OP2" tvg-logo="https://i.ibb.co/9HrXZf11/Imagen-de-Whats-App-2025-11-01-a-las-03-10-52-61d7c892.jpg" group-title="⚽ PREMIER LEAGUE",LIGA PREMIER | ESPN OP2
+http://liontv.es:8080/live/NESTORCHI/GRETF/1599544.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PREMIER | ESPN 2 AR" tvg-logo="https://i.ibb.co/9HrXZf11/Imagen-de-Whats-App-2025-11-01-a-las-03-10-52-61d7c892.jpg" group-title="⚽ PREMIER LEAGUE",LIGA PREMIER | ESPN 2 AR
+http://liontv.es:8080/live/NESTORCHI/GRETF/1599547.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PREMIER | ESPN 3 AR" tvg-logo="https://i.ibb.co/9HrXZf11/Imagen-de-Whats-App-2025-11-01-a-las-03-10-52-61d7c892.jpg" group-title="⚽ PREMIER LEAGUE",LIGA PREMIER | ESPN 3 AR
+http://liontv.es:8080/live/NESTORCHI/GRETF/1599546.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PREMIER | NBC UNIVERSO HD" tvg-logo="https://i.ibb.co/9HrXZf11/Imagen-de-Whats-App-2025-11-01-a-las-03-10-52-61d7c892.jpg" group-title="⚽ PREMIER LEAGUE",LIGA PREMIER | NBC UNIVERSO HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/1599543.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PREMIER | TELEMUNDO" tvg-logo="https://i.ibb.co/9HrXZf11/Imagen-de-Whats-App-2025-11-01-a-las-03-10-52-61d7c892.jpg" group-title="⚽ PREMIER LEAGUE",LIGA PREMIER | TELEMUNDO
+http://liontv.es:8080/live/NESTORCHI/GRETF/1599542.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PREMIER | DAZN 1 HD" tvg-logo="https://i.ibb.co/9HrXZf11/Imagen-de-Whats-App-2025-11-01-a-las-03-10-52-61d7c892.jpg" group-title="⚽ PREMIER LEAGUE",LIGA PREMIER | DAZN 1 HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/1599551.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PREMIER | DAZN 2 HD" tvg-logo="https://i.ibb.co/9HrXZf11/Imagen-de-Whats-App-2025-11-01-a-las-03-10-52-61d7c892.jpg" group-title="⚽ PREMIER LEAGUE",LIGA PREMIER | DAZN 2 HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/1599550.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PREMIER | DAZN 3 HD" tvg-logo="https://i.ibb.co/9HrXZf11/Imagen-de-Whats-App-2025-11-01-a-las-03-10-52-61d7c892.jpg" group-title="⚽ PREMIER LEAGUE",LIGA PREMIER | DAZN 3 HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/1599549.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PREMIER | DAZN 4 HD" tvg-logo="https://i.ibb.co/9HrXZf11/Imagen-de-Whats-App-2025-11-01-a-las-03-10-52-61d7c892.jpg" group-title="⚽ PREMIER LEAGUE",LIGA PREMIER | DAZN 4 HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/1599548.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PREMIER | TNT SPORTS MX" tvg-logo="https://i.ibb.co/9HrXZf11/Imagen-de-Whats-App-2025-11-01-a-las-03-10-52-61d7c892.jpg" group-title="⚽ PREMIER LEAGUE",LIGA PREMIER | TNT SPORTS MX
+http://liontv.es:8080/live/NESTORCHI/GRETF/1599541.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PREMIER | USA NETWORK" tvg-logo="https://i.ibb.co/9HrXZf11/Imagen-de-Whats-App-2025-11-01-a-las-03-10-52-61d7c892.jpg" group-title="⚽ PREMIER LEAGUE",LIGA PREMIER | USA NETWORK
+http://liontv.es:8080/live/NESTORCHI/GRETF/1599532.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PREMIER | SKY SPORTS HD" tvg-logo="https://i.ibb.co/9HrXZf11/Imagen-de-Whats-App-2025-11-01-a-las-03-10-52-61d7c892.jpg" group-title="⚽ PREMIER LEAGUE",LIGA PREMIER | SKY SPORTS HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/1599535.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PREMIER | PREMIER SPORTS 1" tvg-logo="https://i.ibb.co/9HrXZf11/Imagen-de-Whats-App-2025-11-01-a-las-03-10-52-61d7c892.jpg" group-title="⚽ PREMIER LEAGUE",LIGA PREMIER | PREMIER SPORTS 1
+http://liontv.es:8080/live/NESTORCHI/GRETF/1599536.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PREMIER | HUB PREMIER 2 4K" tvg-logo="https://i.ibb.co/9HrXZf11/Imagen-de-Whats-App-2025-11-01-a-las-03-10-52-61d7c892.jpg" group-title="⚽ PREMIER LEAGUE",LIGA PREMIER | HUB PREMIER 2 4K
+http://liontv.es:8080/live/NESTORCHI/GRETF/1599539.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PREMIER | CANAL+ ÉVENEMENT 4K" tvg-logo="https://i.ibb.co/9HrXZf11/Imagen-de-Whats-App-2025-11-01-a-las-03-10-52-61d7c892.jpg" group-title="⚽ PREMIER LEAGUE",LIGA PREMIER | CANAL+ ÉVENEMENT 4K
+http://liontv.es:8080/live/NESTORCHI/GRETF/1599537.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PREMIER | NOW HK NOW SPORTS 4K 616" tvg-logo="https://i.ibb.co/9HrXZf11/Imagen-de-Whats-App-2025-11-01-a-las-03-10-52-61d7c892.jpg" group-title="⚽ PREMIER LEAGUE",LIGA PREMIER | NOW HK NOW SPORTS 4K 616
+http://liontv.es:8080/live/NESTORCHI/GRETF/1599538.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PREMIER | SKY SPORTS MAIN EVENT 4K" tvg-logo="https://i.ibb.co/9HrXZf11/Imagen-de-Whats-App-2025-11-01-a-las-03-10-52-61d7c892.jpg" group-title="⚽ PREMIER LEAGUE",LIGA PREMIER | SKY SPORTS MAIN EVENT 4K
+http://liontv.es:8080/live/NESTORCHI/GRETF/1599534.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PREMIER | TNT SPORT ULTIMATE 4K" tvg-logo="https://i.ibb.co/9HrXZf11/Imagen-de-Whats-App-2025-11-01-a-las-03-10-52-61d7c892.jpg" group-title="⚽ PREMIER LEAGUE",LIGA PREMIER | TNT SPORT ULTIMATE 4K
+http://liontv.es:8080/live/NESTORCHI/GRETF/1599533.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 ARGENTINA" tvg-logo="https://i.ibb.co/zhhmBDSw/B33-DYSWWX5-GLZBOIBE7-VA4-NZXU.jpg" group-title="⚽ EVENTOS ESPN DISNEY+",ESPN 1 ARGENTINA
+http://liontv.es:8080/live/NESTORCHI/GRETF/1613614.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 ARGENTINA" tvg-logo="https://i.ibb.co/zhhmBDSw/B33-DYSWWX5-GLZBOIBE7-VA4-NZXU.jpg" group-title="⚽ EVENTOS ESPN DISNEY+",ESPN 2 ARGENTINA
+http://liontv.es:8080/live/NESTORCHI/GRETF/1613615.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 ARGENTINA" tvg-logo="https://i.ibb.co/zhhmBDSw/B33-DYSWWX5-GLZBOIBE7-VA4-NZXU.jpg" group-title="⚽ EVENTOS ESPN DISNEY+",ESPN 3 ARGENTINA
+http://liontv.es:8080/live/NESTORCHI/GRETF/1613616.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 ARGENTINA" tvg-logo="https://i.ibb.co/zhhmBDSw/B33-DYSWWX5-GLZBOIBE7-VA4-NZXU.jpg" group-title="⚽ EVENTOS ESPN DISNEY+",ESPN 4 ARGENTINA
+http://liontv.es:8080/live/NESTORCHI/GRETF/1613617.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 ARGENTINA" tvg-logo="https://i.ibb.co/zhhmBDSw/B33-DYSWWX5-GLZBOIBE7-VA4-NZXU.jpg" group-title="⚽ EVENTOS ESPN DISNEY+",ESPN 5 ARGENTINA
+http://liontv.es:8080/live/NESTORCHI/GRETF/1613820.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 ARGENTINA" tvg-logo="https://i.ibb.co/zhhmBDSw/B33-DYSWWX5-GLZBOIBE7-VA4-NZXU.jpg" group-title="⚽ EVENTOS ESPN DISNEY+",ESPN 6 ARGENTINA
+http://liontv.es:8080/live/NESTORCHI/GRETF/1613819.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 7 ARGENTINA" tvg-logo="https://i.ibb.co/zhhmBDSw/B33-DYSWWX5-GLZBOIBE7-VA4-NZXU.jpg" group-title="⚽ EVENTOS ESPN DISNEY+",ESPN 7 ARGENTINA
+http://liontv.es:8080/live/NESTORCHI/GRETF/1613818.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 1 ESPAÑA HD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="DAZN ES",ES| DAZN 1 ESPAÑA HD
 http://liontv.es:8080/live/NESTORCHI/GRETF/1621386.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 2 ESPAÑA HD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="DAZN ES",ES| DAZN 2 ESPAÑA HD
