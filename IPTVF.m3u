@@ -1,0 +1,2849 @@
+#EXTM3U
+
+# ===== TV GENERAL =====
+#EXTINF:-1 group-title="TV GENERAL",(HCO) CNH HUANUCO
+http://cablemaxsigloxxi.com:8000/play/a0ob/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",(HCO) CONTINENTAL
+http://cablemaxsigloxxi.com:8000/play/a0or/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",(HCO) REAL TV
+http://cablemaxsigloxxi.com:8000/play/a0ni/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL", (HCO) TELERUMBA
+http://cablemaxsigloxxi.com:8000/play/a0mb/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",(HCO) TV ORION
+http://cablemaxsigloxxi.com:8000/play/a0nh/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",(HUANUCO) HDSRL
+http://cablemaxsigloxxi.com:8000/play/a066/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",1 TV URANIO
+http://cablemaxsigloxxi.com:8000/play/a0kn/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",123 TV (35e)
+http://200.59.191.177:8000/play/a0lb/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",13 C
+http://cablemaxsigloxxi.com:8000/play/a0u5/index.m3u8?hls
+#EXTINF:0,21-Canal 26
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,21-Cronica TV
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,21-La Nacion +
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,21-TN
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,22-AMERICA TV
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,22-canal7mls
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,22-canal7mlsmain
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,22-El Nueve
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,22-EL TRECE
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,22-TELEFE
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,22-TV PUBLICA
+#EXTVLCOPT:network-caching=1000
+#EXTINF:11,22.7- IP Informacion Periodistica
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,24-Garage tv
+#EXTVLCOPT:network-caching=1000
+#EXTINF:11,26TV
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,28-AyE
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,28-Comedy Central
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,28-VOLVER
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,29-Multipremier
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,29-USA NETWORK
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,30-Cine.ar
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,30-Euro Channel
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,30-Europa Europa
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,30-VOS TV
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,31-CARACOL
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,31-CarasTV
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,31-Life Time
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,31-SUN CHANNEL
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,31-TV SUCRE
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,32-Azcorazon
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,32-Canal de las Estrellas
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,32-Rural
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,32-TELEMUNDO
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,34-Argentinisima
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,34-El Gourmet
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,34-Encuentro
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,35-Canal a
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,35-CANAL LUZ
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,35-Ciudad Magazine
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,35-Estrella tv
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,36-Ayni TV
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,36-Bolivia Tv
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,36-Bolivision
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,36-RED DTV
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,36-RED UNO SCZ
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,36-TVPANDO
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",A&E
+http://200.59.191.177:8000/play/a00l/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",A&E
+http://cablemaxsigloxxi.com:8000/play/a06g/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",A&E HD
+http://152.230.246.26:8001/play/a00f/index.m3u8
+#EXTINF:0,A&E HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:12,A&E HD
+http://181.209.105.115:2525/play/ae/index.m3u8
+#EXTINF:0,ABC TV
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",Adult Swim
+http://152.230.246.26:8001/play/a02e/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Adult Swim
+http://cablemaxsigloxxi.com:8000/play/a03e/index.m3u8?hls
+#EXTINF:0,Adult swim HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",Alba TV (35e)
+http://200.59.191.177:8000/play/a0lc/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",AMAZONICA TV
+http://cablemaxsigloxxi.com:8000/play/a0m4/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",AMERICA
+http://cablemaxsigloxxi.com:8000/play/a05m/index.m3u8?hls
+#EXTINF:0,America TV
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",America TV HD
+http://152.230.246.26:8001/play/a04b/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",America TV HD
+http://200.59.191.177:8000/play/a0q0/index.m3u8?
+#EXTINF:0,America TV HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:12,America TV HD
+http://181.209.105.115:2525/play/america/index.m3u8
+#EXTINF:0, anduti Tv
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",Antofagasta TV
+http://152.230.246.26:8001/play/a0by/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",ANTV (35e)
+http://200.59.191.177:8000/play/a0l9/index.m3u8?
+#EXTINF:0,Argentinisima
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Arrow Classic Rock
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",Atres Series
+http://152.230.246.26:8001/play/a00m/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Atres Series T
+http://152.230.246.26:8001/play/a0c6/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",ATV(MAX949092800)
+http://cablemaxsigloxxi.com:8000/play/a08f/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",ATV+
+http://cablemaxsigloxxi.com:8000/play/a0nm/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",Avila TV (35e)
+http://200.59.191.177:8000/play/a0lg/index.m3u8?
+#EXTINF:0,AyE
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,ayni tv
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",AZ CORAZON
+http://cablemaxsigloxxi.com:8000/play/a0ki/index.m3u8?hls
+#EXTINF:0,AZ CORAZON
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",BH TV
+http://cablemaxsigloxxi.com:8000/play/a011/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",BIOBIO TV
+http://152.230.246.26:8001/play/a0bc/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",BNB DIGITAL
+http://cablemaxsigloxxi.com:8000/play/a0f2/index.m3u8?hls
+#EXTINF:0,BNR Nieuwsradio
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,BOLIVIA TV
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",Bolivia TV (35e)
+http://200.59.191.177:8000/play/a0m4/index.m3u8?
+#EXTINF:0,BOLIVISION
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Bruno Masi Tv
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,C9N Digital
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,C9N HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Cadena 3
+http://181.209.105.115:2525/play/cadena3/index.m3u8
+#EXTINF:0,Cadena Master Tv
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,CAMARA Camboriu
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Cambyreta Tv
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",Canal 13
+http://200.59.191.177:8000/play/a0qc/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",Canal 13 HD
+http://152.230.246.26:8001/play/a00d/index.m3u8
+#EXTINF:0,Canal 26
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Canal 26
+http://181.209.105.115:2525/play/c26/index.m3u8
+#EXTINF:0,Canal 7
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Canal 8 Villarrica
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,CANAL A
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Canal a
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Canal a
+http://181.209.105.115:2525/play/canala/index.m3u8
+#EXTINF:0,Canal de la Ciudad
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",Canal de las Estrellas
+http://200.59.191.177:8000/play/a0pc/index.m3u8?
+#EXTINF:0,CANAL DE LAS ESTRELLAS
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Canal Extra
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",CANAL I (35e)
+http://200.59.191.177:8000/play/a0lo/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",Canal Las Estrellas
+http://152.230.246.26:8001/play/a06x/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",CANAL LUZ
+http://cablemaxsigloxxi.com:8000/play/a0nl/index.m3u8?hls
+#EXTINF:0,Canal Luz
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",Canal Publico de Argentina
+http://200.59.191.177:8000/play/a00e/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",CanalB
+http://cablemaxsigloxxi.com:8000/play/a0b1/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",Caracol
+http://200.59.191.177:8000/play/a001/index.m3u8?
+#EXTINF:0,CARACOL
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,CARAS tv
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",CCS Documental
+http://200.59.191.177:8000/play/a006/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",CCS Movies
+http://200.59.191.177:8000/play/a005/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",CGNT ESPA
+http://cablemaxsigloxxi.com:8000/play/a05q/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",CGTN (35e)
+http://200.59.191.177:8000/play/a0lq/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",CGTN Documentary (35e)
+http://200.59.191.177:8000/play/a0lr/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",CHV
+http://200.59.191.177:8000/play/a0od/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",CHV HD
+http://152.230.246.26:8001/play/a016/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",CHV HD
+http://cablemaxsigloxxi.com:8000/play/a073/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",CHV HD
+http://cablemaxsigloxxi.com:8000/play/a0sa/index.m3u8?hls
+#EXTINF:0,cine
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,CINE.AR
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Cine.AR
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Cine.AR
+http://181.209.105.115:2525/play/cinear/index.m3u8
+#EXTINF:0,cine2
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,ciudad magazine
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",Clave (35e)
+http://200.59.191.177:8000/play/a0m7/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",Colombeia (35e)
+http://200.59.191.177:8000/play/a0la/index.m3u8?
+#EXTINF:0,Comedy Central
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",Comedy Central HD
+http://152.230.246.26:8001/play/a00g/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Comedy Central HD
+http://200.59.191.177:8000/play/a0pn/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",Comedy Central HD
+http://cablemaxsigloxxi.com:8000/play/a07t/index.m3u8?hls
+#EXTINF:0,Comedy Central HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Comedy Central HD
+http://181.209.105.115:2525/play/comedycentral/index.m3u8
+#EXTINF:0,COMODINES
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",ConCiencia (35e)
+http://200.59.191.177:8000/play/a0ld/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",CONECTADOS TV
+http://cablemaxsigloxxi.com:8000/play/a0a5/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",CORPORACION TV
+http://cablemaxsigloxxi.com:8000/play/a01p/index.m3u8?hls
+#EXTINF:0,Cosmos HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Cr nica
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Cronica
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Cronica
+http://181.209.105.115:2525/play/cronica/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",De PelŦcula
+http://cablemaxsigloxxi.com:8000/play/a04p/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL" , DIRECTV 2
+http://live.btv.mx:2424/stream/278976/smAVz_uhytj5REM-4pYNZbkrcB2
+#EXTINF:0,DirecTV+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL" ,DirecTV+
+http://217.26.190.76:8888/play/a0jb/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Distrito Comedia
+http://200.59.191.177:8000/play/a00b/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",Distrito Comedia
+http://cablemaxsigloxxi.com:8000/play/a03y/index.m3u8?hls
+#EXTINF:0,documentales
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,DTV
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",DTV (35e)
+http://200.59.191.177:8000/play/a0lx/index.m3u8?
+#EXTINF:0,E!
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",E! HD
+http://200.59.191.177:8000/play/a0k1/index.m3u8?
+#EXTINF:0,E40 DIGITAL
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,El Canal  de las Estrellas
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",El Gourmet
+http://cablemaxsigloxxi.com:8000/play/a07u/index.m3u8?hls
+#EXTINF:0,El Gourmet
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,El Gourmet
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",El Gourmet HD
+http://152.230.246.26:8001/play/a00h/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",El Gourmet HD
+http://200.59.191.177:8000/play/a0pa/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",El Gourmet T
+http://152.230.246.26:8001/play/a0bw/index.m3u8
+#EXTINF:0,El Nueve
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,el nueve HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,El Trece
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,el trece HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Encuentro
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Encuentro
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,ESTRELLA TV
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,EURO CH
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,EUROPA
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",Europa Europa
+http://152.230.246.26:8001/play/a03r/index.m3u8
+#EXTINF:0,Europa Europa
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,EVENTOS
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",EXITOSA
+http://cablemaxsigloxxi.com:8000/play/a0a4/index.m3u8?hls
+#EXTINF:0,Farra Play Tv
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",Food Network HD
+http://200.59.191.177:8000/play/a0k4/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",Food Network HD
+http://cablemaxsigloxxi.com:8000/play/a07r/index.m3u8?hls
+#EXTINF:11,Foz de Yguazu
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Futbol Total
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Galicia TV
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",Gamavision(35e)
+http://200.59.191.177:8000/play/a0mk/index.m3u8?
+#EXTINF:0,Garage TV
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,GEN HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,GEN HD2
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",Global
+http://cablemaxsigloxxi.com:8000/play/a08g/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",GLOBOVISION (35e)
+http://200.59.191.177:8000/play/a0lh/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",Gorehco tv
+http://cablemaxsigloxxi.com:8000/play/a04l/index.m3u8?hls
+#EXTINF:0,Guaira Tv
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",HCH (35e)
+http://200.59.191.177:8000/play/a0m6/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",HEI HD
+http://cablemaxsigloxxi.com:8000/play/a0t7/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",HGTV
+http://cablemaxsigloxxi.com:8000/play/a03b/index.m3u8?hls
+#EXTINF:0,HGTV
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",HispanTV (35e)
+http://200.59.191.177:8000/play/a0lp/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",Hola Tv
+http://200.59.191.177:8000/play/a007/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",HOLA TV
+http://cablemaxsigloxxi.com:8000/play/a062/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",Home & Health HD
+http://152.230.246.26:8001/play/a0bh/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Home & Health HD
+http://cablemaxsigloxxi.com:8000/play/a07q/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",Hospicio TV
+http://152.230.246.26:8001/play/a092/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Hospicio TV a Xtream
+http://152.230.246.26:8001/play/a08j/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",HUANUCO TV
+http://cablemaxsigloxxi.com:8000/play/a07h/index.m3u8?hls
+#EXTINF:0,infantiles
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",Iquique TV
+http://152.230.246.26:8001/play/a08l/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Iquique TV a XTREAM
+http://152.230.246.26:8001/play/a0bz/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",JN19
+http://cablemaxsigloxxi.com:8000/play/a07i/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",KANAL DE DRAMA
+http://cablemaxsigloxxi.com:8000/play/a0sq/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",L1 MAX
+http://cablemaxsigloxxi.com:8000/play/a07e/index.m3u8?hls
+#EXTINF:0,La Nacion TV
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",La Red
+http://152.230.246.26:8001/play/a05j/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",La Red
+http://cablemaxsigloxxi.com:8000/play/a02v/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",La Red HD
+http://200.59.191.177:8000/play/a0o4/index.m3u8?
+#EXTINF:0,La voz de maria
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,La voz de Maria
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",Las Estrellas HD
+http://cablemaxsigloxxi.com:8000/play/a06x/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",Las Estrellas HD R
+http://cablemaxsigloxxi.com:8000/play/a02e/index.m3u8?hls
+#EXTINF:0,Latele Digital
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Latele HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",Latina HD
+http://200.59.191.177:8000/play/a0q2/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",Latina HD
+http://cablemaxsigloxxi.com:8000/play/a07c/index.m3u8?hls
+#EXTINF:0,Latina Tv
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,LIFE TIME
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,LN+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,MAGAZINE
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Maria Vision Tv
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",MAYA TV
+http://cablemaxsigloxxi.com:8000/play/a010/index.m3u8?hls
+#EXTINF:0,Mbocayaty Tv
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",MEGA
+http://200.59.191.177:8000/play/a0pv/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",MEGA HD
+http://152.230.246.26:8001/play/a01c/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",MEGA HD
+http://cablemaxsigloxxi.com:8000/play/a02t/index.m3u8?hls
+#EXTINF:0,Mega Tv HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",MEGA TV PASCO
+http://cablemaxsigloxxi.com:8000/play/a00z/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",MEMORIAS TROPICAL
+http://179.49.163.34:45000/play/a055/index.m3u8
+#EXTINF:0,Metro
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",Milenial TV
+http://cablemaxsigloxxi.com:8000/play/a0l0/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",MiMusica HD Reggaeton
+http://190.60.37.154:45000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",MiMusica Popular
+http://190.60.37.154:45000/play/a010/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",MiMusica Romantica
+http://190.60.37.154:45000/play/a01u/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",MiMusica Salsa
+http://190.60.37.154:45000/play/a01t/index.m3u8
+#EXTINF:0,MipTv Paraguay
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Monumental Tv Digital
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Motor Sur Media
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",Movistar Informa
+http://cablemaxsigloxxi.com:8000/play/a05u/index.m3u8?hls
+#EXTINF:0,MULTIPREMIER
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,nacionales
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,nacionales2
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Natalicio Tv
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",National Geographic
+http://cablemaxsigloxxi.com:8000/play/a0td/index.m3u8?hls
+#EXTINF:0,National Geographic WILD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",Nativa tv
+http://cablemaxsigloxxi.com:8000/play/a08x/index.m3u8?hls
+#EXTINF:0,Net5 SD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL" , NEXT
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+#EXTINF:0,Next Tv
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,novelas
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,NPO 3FM
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,NPO Klassiek
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,NPO Radio 1
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,NPO Radio 2
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,NPO Radio 5
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,NPY HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",NTV
+http://152.230.246.26:8001/play/a0c4/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Nuestra Tele
+http://cablemaxsigloxxi.com:8000/play/a03k/index.m3u8?hls
+#EXTINF:0,Nuevo Tiempo
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Obedira Tv HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",Oromar (35e)
+http://200.59.191.177:8000/play/a0ls/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",OROMAR TV
+http://cablemaxsigloxxi.com:8000/play/a040/index.m3u8?hls
+#EXTINF:0,Pakapaka
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",Panamericana
+http://cablemaxsigloxxi.com:8000/play/a08e/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",PANAO TV
+http://cablemaxsigloxxi.com:8000/play/a01h/index.m3u8?hls
+#EXTINF:0,Paraguari Tv
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Paraguay Tv
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Paramount HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Paravision HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Parroquia Troche
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Pilar Tv
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",PLUS TV LIFE
+http://cablemaxsigloxxi.com:8000/play/a04h/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",POPU TV
+http://cablemaxsigloxxi.com:8000/play/a048/index.m3u8?hls
+#EXTINF:0,POPU TV HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,PRO TV HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Q-Music
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Quiero Musica
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",Radio  YVKE Mundial (35e)
+http://200.59.191.177:8000/play/a05x/index.m3u8?
+#EXTINF:0,Radio 538
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",Radio ADN
+http://152.230.246.26:8001/play/a0c0/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Radio ADN a XTREAM
+http://152.230.246.26:8001/play/a097/index.m3u8
+#EXTINF:0,Radio Colmenar Tv
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Radio Drenthe
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",Radio Educa (35e)
+http://200.59.191.177:8000/play/a05y/index.m3u8?
+#EXTINF:0,Radio Gelderland
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Radio M Utrecht
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Radio Noord
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Radio Oost
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",RADIO ORIENTE
+http://cablemaxsigloxxi.com:8000/play/a06n/index.m3u8?hls
+#EXTINF:0,Radio Rijnmond
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",Radio Salsa Caribe (35e)
+http://200.59.191.177:8000/play/a064/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",Radio Sur (35e)
+http://200.59.191.177:8000/play/a066/index.m3u8?
+#EXTINF:0,Radio Veronica
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Radio West
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Radio10
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,RAI Italia
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,RCC TV
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,RCC Tv
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",RCN
+http://200.59.191.177:8000/play/a004/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",REC TV
+http://cablemaxsigloxxi.com:8000/play/a02q/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",Red Advenir (35e)
+http://200.59.191.177:8000/play/a0me/index.m3u8?
+#EXTINF:0,Red Digital San Pedro
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Red Digital San Pedro
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,RED UNO
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Rede Tv
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Republica Tv Vca
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,RPC Digital
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,RPC HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",RUMBO MINERO
+http://cablemaxsigloxxi.com:8000/play/a0no/index.m3u8?hls
+#EXTINF:0,RURAL
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Rural
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Salvacion Tv
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,San Cristobal Tv
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",SANJUANERA TV
+http://cablemaxsigloxxi.com:8000/play/a0kj/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",SELVA TV
+http://cablemaxsigloxxi.com:8000/play/a0m5/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",SEOTV (35e)
+http://200.59.191.177:8000/play/a0mc/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",Show Ven (35e)
+http://200.59.191.177:8000/play/a0lf/index.m3u8?
+#EXTINF:0,Sky Radio
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,SLAM! Radio
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,SNT
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,SNT HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Suceso Tv
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",SUMAC TV
+http://cablemaxsigloxxi.com:8000/play/a0od/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",Sun Channel
+http://200.59.191.177:8000/play/a0ow/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",Sun Channel
+http://cablemaxsigloxxi.com:8000/play/a0pd/index.m3u8?hls
+#EXTINF:0,SUN CHANNEL
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",Sun Channel HD
+http://152.230.246.26:8001/play/a01o/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Sun Channel T
+http://152.230.246.26:8001/play/a0bx/index.m3u8
+#EXTINF:0,Sur Tv
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",SUYAI TV
+http://cablemaxsigloxxi.com:8000/play/a05s/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",TELEANTILLAS (35e)
+http://200.59.191.177:8000/play/a0mi/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",Telearagua (35e)
+http://200.59.191.177:8000/play/a003/index.m3u8?
+#EXTINF:0,Teleclasica
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,TELEFE
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Telefe HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Telefuturo Digital
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Telefuturo HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",TelefØ
+http://cablemaxsigloxxi.com:8000/play/a03c/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",Telemundo
+http://152.230.246.26:8001/play/a070/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Telemundo
+http://200.59.191.177:8000/play/a0kz/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",Telemundo
+http://cablemaxsigloxxi.com:8000/play/a01w/index.m3u8?hls
+#EXTINF:0,TELEMUNDO
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",Telesur (35e)
+http://200.59.191.177:8000/play/a0l8/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",Televicentro
+http://cablemaxsigloxxi.com:8000/play/a032/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",TLC
+http://152.230.246.26:8001/play/a024/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",TLC
+http://200.59.191.177:8000/play/a06j/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",TLC
+http://cablemaxsigloxxi.com:8000/play/a038/index.m3u8?hls
+#EXTINF:0,TLC
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",TLT (35e)
+http://200.59.191.177:8000/play/a0ll/index.m3u8?
+#EXTINF:0,TN
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,TN HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",TOP TV
+http://cablemaxsigloxxi.com:8000/play/a01q/index.m3u8?hls
+#EXTINF:0,Tv Aire Oviedo
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",TV Culturas (35e)
+http://200.59.191.177:8000/play/a0mx/index.m3u8?
+#EXTINF:0,Tv Eventos HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",TV FANB (35e)
+http://200.59.191.177:8000/play/a0le/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",TV Galicia (35e)
+http://200.59.191.177:8000/play/a0p7/index.m3u8?
+#EXTINF:0,Tv Max Oviedo
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,TV PANDO
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",TV PERU
+http://cablemaxsigloxxi.com:8000/play/a0dt/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",TV Peru SD
+http://152.230.246.26:8001/play/a067/index.m3u8
+#EXTINF:0,Tv Publica
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,TV Publica HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,TV SUCRE
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Tv Tropical Brasil
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL", TV+
+http://cablemaxsigloxxi.com:8000/play/a020/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",TV+ HD
+http://200.59.191.177:8000/play/a0jd/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",TVE
+http://152.230.246.26:8001/play/a05a/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",TVE
+http://200.59.191.177:8000/play/a0l4/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",TVE
+http://cablemaxsigloxxi.com:8000/play/a00k/index.m3u8?hls
+#EXTINF:0,TVE
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",TVES (35e)
+http://200.59.191.177:8000/play/a0l7/index.m3u8?
+#EXTINF:0,TVM25 -  ESA
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",TVN
+http://200.59.191.177:8000/play/a0oc/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",TVN HD
+http://152.230.246.26:8001/play/a015/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",TVN HD
+http://cablemaxsigloxxi.com:8000/play/a02r/index.m3u8?hls
+#EXTINF:0,TyC
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",UN24 (35e)
+http://200.59.191.177:8000/play/a00g/index.m3u8?
+#EXTINF:0,Unicanal
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Union Tv
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",UNITEL (35e)
+http://200.59.191.177:8000/play/a0md/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",Unitel T
+http://152.230.246.26:8001/play/a0c2/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",UNITEL-SCZ
+http://152.230.246.26:8001/play/a0bo/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",USA
+http://200.59.191.177:8000/play/a0qd/index.m3u8?
+#EXTINF:0,USA NETWORK
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,USA Network
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",USA SD
+http://152.230.246.26:8001/play/a05d/index.m3u8
+#EXTINF:0,variedades
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",Venevision (35e)
+http://200.59.191.177:8000/play/a0li/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",ViaX
+http://152.230.246.26:8001/play/a06w/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",ViVe (35e)
+http://200.59.191.177:8000/play/a0l6/index.m3u8?
+#EXTINF:0,VOLVER
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Volver
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,VOS tv
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",VPACO (35e)
+http://200.59.191.177:8000/play/a0lm/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",VTV (35e)
+http://200.59.191.177:8000/play/a0l5/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",Willax
+http://cablemaxsigloxxi.com:8000/play/a08c/index.m3u8?hls
+#EXTINF:0,Yguazu Tv
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="TV GENERAL",Zona Latina
+http://152.230.246.26:8001/play/a053/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Zoom (35e)
+http://200.59.191.177:8000/play/a0mb/index.m3u8?
+
+# ===== NOTICIAS =====
+#EXTINF:0,21-C5N
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="NOTICIAS",24 HORAS
+http://152.230.246.26:8001/play/a05v/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS",24 Horas TVN
+http://cablemaxsigloxxi.com:8000/play/a04a/index.m3u8?hls
+#EXTINF:0,24-TyC SPORTS
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,26-Film & arts HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,32-E Entertainment
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,36-CNN Espa ol
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,A24
+#EXTVLCOPT:network-caching=1000
+#EXTINF:11,A24
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,A24
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,A24
+http://181.209.105.115:2525/play/a24/index.m3u8
+#EXTINF:0,AM Sports
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,AM Sports
+http://181.209.105.115:2525/play/amsport/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS",ARTEMUSA TV
+http://cablemaxsigloxxi.com:8000/play/a017/index.m3u8?hls
+#EXTINF:0,Azteca Deportes
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,C5N
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,C5N
+#EXTVLCOPT:network-caching=1000
+#EXTINF:12,C5N
+http://181.209.105.115:2525/play/c5n/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS",Canal 24 Horas
+http://cablemaxsigloxxi.com:8000/play/a02w/index.m3u8?hls
+#EXTINF:-1 group-title="NOTICIAS",Canal 24 Horas HD
+http://200.59.191.177:8000/play/a0ki/index.m3u8?
+#EXTINF:-1 group-title="NOTICIAS",Canal N
+http://cablemaxsigloxxi.com:8000/play/a08r/index.m3u8?hls
+#EXTINF:-1 group-title="NOTICIAS" ,CLARO SPORT
+http://181.78.27.128:12543/play/a02g/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS" ,CLARO SPORT1
+http://200.229.147.142:8000/play/a06o/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS" ,CLARO SPORT2
+http://200.229.147.142:8000/play/a07m/index.m3u8
+#EXTINF:0,Claro Sports 2 SD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Claro Sports 3
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Claro Sports 3 HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Claro Sports 3 HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:11,CNN
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="NOTICIAS",CNN Chile
+http://152.230.246.26:8001/play/a01e/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS",CNN Chile
+http://200.59.191.177:8000/play/a0qi/index.m3u8?
+#EXTINF:-1 group-title="NOTICIAS",CNN Chile
+http://cablemaxsigloxxi.com:8000/play/a02u/index.m3u8?hls
+#EXTINF:0,CNN en Espa ol
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,CNN en Espaæol
+http://181.209.105.115:2525/play/cnn/index.m3u8
+#EXTINF:0,CNN ESP
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="NOTICIAS",CNN Espaæol
+http://152.230.246.26:8001/play/a01y/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS",CNN Espaæol
+http://cablemaxsigloxxi.com:8000/play/a0u7/index.m3u8?hls
+#EXTINF:-1 group-title="NOTICIAS",CNN Español
+http://200.59.191.177:8000/play/a009/index.m3u8?
+#EXTINF:-1 group-title="NOTICIAS",CNN International
+http://cablemaxsigloxxi.com:8000/play/a034/index.m3u8?hls
+#EXTINF:0,deportes
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,DeporTV
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,DeporTV
+http://181.209.105.115:2525/play/deportv/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS",DIRECTV DEPORTES
+http://tv.proyectox.vip:8080/live/ibarrauru2019/PvwxELbOxu/9568.m3u8
+#EXTINF:11,DirecTV SPORT
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,DIRECTV SPORT
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,DIRECTV SPORT
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="NOTICIAS" ,DirecTV SPORT
+http://217.26.190.76:8888/play/a0co/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS",DIRECTV SPORT 2
+http://tv.proyectox.vip:8080/live/ibarrauru2019/PvwxELbOxu/8530.m3u8
+#EXTINF:-1 group-title="NOTICIAS",DIRECTV SPORT plus
+http://tv.proyectox.vip:8080/live/ibarrauru2019/PvwxELbOxu/8489.m3u8
+#EXTINF:0,DirecTv Sports
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,dtv sports
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,dtv sports
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="NOTICIAS",E Entertainment
+http://152.230.246.26:8001/play/a04l/index.m3u8
+#EXTINF:0,E! Entertainment
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="NOTICIAS",E! Entertainment TV
+http://cablemaxsigloxxi.com:8000/play/a039/index.m3u8?hls
+#EXTINF:0,Film & arts HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Film & Arts HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="NOTICIAS",Film&Arts
+http://200.59.191.177:8000/play/a0qr/index.m3u8?
+#EXTINF:-1 group-title="NOTICIAS",Film&Arts
+http://cablemaxsigloxxi.com:8000/play/a03n/index.m3u8?hls
+#EXTINF:-1 group-title="NOTICIAS",NTN24
+http://200.59.191.177:8000/play/a008/index.m3u8?
+#EXTINF:-1 group-title="NOTICIAS",NTN24
+http://cablemaxsigloxxi.com:8000/play/a03r/index.m3u8?hls
+#EXTINF:0,RT en Espa ol
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="NOTICIAS",RT Noticias
+http://cablemaxsigloxxi.com:8000/play/a083/index.m3u8?hls
+#EXTINF:-1 group-title="NOTICIAS",RTP
+http://152.230.246.26:8001/play/a0bs/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS",RTU
+http://cablemaxsigloxxi.com:8000/play/a03z/index.m3u8?hls
+#EXTINF:-1 group-title="NOTICIAS",Stingray Concerts HD
+http://200.59.191.177:8000/play/a0k3/index.m3u8?
+#EXTINF:-1 group-title="NOTICIAS",Stingray Concerts HD
+http://cablemaxsigloxxi.com:8000/play/a0qx/index.m3u8?hls
+#EXTINF:-1 group-title="NOTICIAS",TELEMUNDO NOTICIAS
+http://cablemaxsigloxxi.com:8000/play/a05t/index.m3u8?hls
+#EXTINF:11,Tyc Sport
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,TyC Sports
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="NOTICIAS" ,TyC Sports
+http://217.26.190.76:8888/play/a03g/index.m3u8
+#EXTINF:0,TyC Sports HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,TyC Sports HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="NOTICIAS",Via X Esports
+http://152.230.246.26:8001/play/a03m/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS",Via X Esports
+http://cablemaxsigloxxi.com:8000/play/a03t/index.m3u8?hls
+
+# ===== DEPORTES =====
+#EXTINF:0,23-ESPN
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,23-ESPN 2
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,23-ESPN 3
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,23-ESPN 4
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,23-ESPN PREMIUM
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,24-FOX SPORTS
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,24-FOX SPORTS 2
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,24-FOX SPORTS 3
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,24-TNT SPORTS
+#EXTVLCOPT:network-caching=1000
+#EXTINF:11,DSports
+#EXTVLCOPT:network-caching=1000
+#EXTINF:11,DSports
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="DEPORTES",DSPORTS 1
+http://cablemaxsigloxxi.com:8000/play/a0l4/index.m3u8?hls
+#EXTINF:0,ESPN
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,ESPN 1
+#EXTVLCOPT:network-caching=1000
+#EXTINF:11,ESPN 1 TRANSCODIFICADO
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,ESPN 2
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,ESPN 2
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 HD
+http://152.230.246.26:8001/play/a019/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 HD
+http://200.59.191.177:8000/play/a0o1/index.m3u8?
+#EXTINF:0,ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 HD R
+http://cablemaxsigloxxi.com:8000/play/a02a/index.m3u8?hls
+#EXTINF:0,ESPN 2 TRANSCODIFICADO
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="DEPORTES",ESPN 3
+http://200.59.191.177:8000/play/a0oh/index.m3u8?
+#EXTINF:0,ESPN 3
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="DEPORTES",ESPN 3 HD
+http://152.230.246.26:8001/play/a00x/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 3 HD
+http://cablemaxsigloxxi.com:8000/play/a07p/index.m3u8?hls
+#EXTINF:0,ESPN 3 HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,ESPN 4
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="DEPORTES",ESPN 4 HD
+http://152.230.246.26:8001/play/a02x/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 4 HD
+http://200.59.191.177:8000/play/a0pz/index.m3u8?
+#EXTINF:0,ESPN 4 HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="DEPORTES",ESPN 4 R
+http://cablemaxsigloxxi.com:8000/play/a075/index.m3u8?hls
+#EXTINF:-1 group-title="DEPORTES",ESPN 5
+http://200.59.191.177:8000/play/a0p1/index.m3u8?
+#EXTINF:0,ESPN 5
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,ESPN 5 TRANSCODIFICADO
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="DEPORTES",ESPN 6
+http://200.59.191.177:8000/play/a0oi/index.m3u8?
+#EXTINF:0,ESPN 6
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="DEPORTES",ESPN 6 R
+http://cablemaxsigloxxi.com:8000/play/a07m/index.m3u8?hls
+#EXTINF:0,ESPN 6 TRANSCODIFICADO
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="DEPORTES",ESPN 7
+http://200.59.191.177:8000/play/a0p2/index.m3u8?
+#EXTINF:0,ESPN 7
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,ESPN 7 TRANSCODIFICADO
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,espn extra
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="DEPORTES",ESPN HD
+http://152.230.246.26:8001/play/a01h/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN HD
+http://200.59.191.177:8000/play/a0o2/index.m3u8?
+#EXTINF:11,ESPN HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="DEPORTES",ESPN HD R
+http://cablemaxsigloxxi.com:8000/play/a02d/index.m3u8?hls
+#EXTINF:0,ESPN PREMIUM
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="DEPORTES" ,ESPN Premium
+http://46.225.94.157/hls/espn/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" , ESPN Premium
+http://217.26.190.76:8888/play/a0es/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN Premium HD
+http://200.59.191.177:8000/play/a0ko/index.m3u8?
+#EXTINF:-1 group-title="DEPORTES",ESPN Premium HD
+http://cablemaxsigloxxi.com:8000/play/a05g/index.m3u8?hls
+#EXTINF:0,ESPN Premium HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:11,ESPN Premium HD
+http://181.209.105.115:2525/play/espnpremium/index.m3u8
+#EXTINF:0,ESPN Premium HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:11,ESPN Premium HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="DEPORTES",ESPN PREMIUM HD
+http://181.205.130.194:4000/play/a0fk
+#EXTINF:-1 group-title="DEPORTES",ESPN PREMIUM HD
+http://205.235.6.29:8000/play/a0pz/index.m3u8
+#EXTINF:0,ESPN Premium HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:11,ESPN Premium HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,FOX SPORTS
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,FOX SPORTS 2
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Fox Sports 2 HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,FOX SPORTS 3
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Fox Sports 3 HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Fox Sports HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="DEPORTES",Golf Channel
+http://cablemaxsigloxxi.com:8000/play/a03s/index.m3u8?hls
+#EXTINF:-1 group-title="DEPORTES",LIGA 1
+http://cablemaxsigloxxi.com:8000/play/a07s/index.m3u8?hls
+#EXTINF:-1 group-title="DEPORTES",Movistar Deportes
+http://cablemaxsigloxxi.com:8000/play/a08o/index.m3u8?hls
+#EXTINF:-1 group-title="DEPORTES",REAL MADRID
+http://cablemaxsigloxxi.com:8000/play/a00x/index.m3u8?hls
+#EXTINF:-1 group-title="DEPORTES",TNT SPORTS
+http://152.230.246.26:8001/play/a00b/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",TNT SPORTS
+http://cablemaxsigloxxi.com:8000/play/a08j/index.m3u8?hls
+#EXTINF:0,TNT SPORTS
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,TNT Sports HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="DEPORTES",TNT Sports Premium
+http://152.230.246.26:8001/play/a05o/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",TNT Sports Premiun HD
+http://152.230.246.26:8001/play/a018/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",TNT Sports Premiun HD
+http://200.59.191.177:8000/play/a0o9/index.m3u8?
+#EXTINF:-1 group-title="DEPORTES",TNT Sports Premiun HD
+http://cablemaxsigloxxi.com:8000/play/a0rb/index.m3u8?hls
+#EXTINF:-1 group-title="DEPORTES",VVD ESPN 1
+http://cablemaxsigloxxi.com:8000/play/a0t6/index.m3u8?hls
+#EXTINF:-1 group-title="DEPORTES",VVD ESPN 2
+http://cablemaxsigloxxi.com:8000/play/a0t5/index.m3u8?hls
+#EXTINF:-1 group-title="DEPORTES",VVD ESPN 3
+http://cablemaxsigloxxi.com:8000/play/a0t4/index.m3u8?hls
+#EXTINF:-1 group-title="DEPORTES",VVD ESPN 4
+http://cablemaxsigloxxi.com:8000/play/a0t3/index.m3u8?hls
+#EXTINF:-1 group-title="DEPORTES",VVD ESPN 5
+http://cablemaxsigloxxi.com:8000/play/a0t2/index.m3u8?hls
+#EXTINF:-1 group-title="DEPORTES",VVD ESPN 6
+http://cablemaxsigloxxi.com:8000/play/a0t1/index.m3u8?hls
+#EXTINF:-1 group-title="DEPORTES",VVD ESPN 7
+http://cablemaxsigloxxi.com:8000/play/a0l5/index.m3u8?hls
+#EXTINF:-1 group-title="DEPORTES",Win Sports+ HD
+http://cablemaxsigloxxi.com:8000/play/a07n/index.m3u8?hls
+
+# ===== PELICULAS =====
+#EXTINF:0,26-HBO
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,26-HBO 2
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,26-HBO Family
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,26-HBO Mund
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,26-HBO Plus
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,26-HBO POP
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,26-HBO Xtreme
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,27-cinecanal
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,27-SONY MOVIES
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,27-SPACE
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,27-STAR CHANNEL
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,27-TNT HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,28-TNT Series
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,28.7- Golden
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,29-AMC
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,29-CINEMAX
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,29-DHE HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,29-FX HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,29.7- Cinemax
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,30-AMC SERIES
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,30-Golden
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,30-STUDIO UNIVERSAL HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,31-TNT Novelas
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="PELICULAS",AMC
+http://cablemaxsigloxxi.com:8000/play/a06k/index.m3u8?hls
+#EXTINF:0,AMC
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,AMC
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,AMC
+http://181.209.105.115:2525/play/amc/index.m3u8
+#EXTINF:-1 group-title="PELICULAS",AMC HD
+http://152.230.246.26:8001/play/a00p/index.m3u8
+#EXTINF:-1 group-title="PELICULAS",AMC HD
+http://200.59.191.177:8000/play/a0ji/index.m3u8?
+#EXTINF:-1 group-title="PELICULAS",AMC Series
+http://152.230.246.26:8001/play/a03h/index.m3u8
+#EXTINF:-1 group-title="PELICULAS",AMC Series
+http://200.59.191.177:8000/play/a0ql/index.m3u8?
+#EXTINF:-1 group-title="PELICULAS",AMC Series
+http://cablemaxsigloxxi.com:8000/play/a03p/index.m3u8?hls
+#EXTINF:0,AMC SERIES
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="PELICULAS",AMC Series T
+http://152.230.246.26:8001/play/a0c5/index.m3u8
+#EXTINF:0,Cinecanal
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="PELICULAS",Cinecanal HD
+http://152.230.246.26:8001/play/a02o/index.m3u8
+#EXTINF:-1 group-title="PELICULAS",Cinecanal HD
+http://200.59.191.177:8000/play/a0px/index.m3u8?
+#EXTINF:0,Cinecanal HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Cinecanal HD
+http://181.209.105.115:2525/play/cinecanal/index.m3u8
+#EXTINF:-1 group-title="PELICULAS",Cinemax
+http://152.230.246.26:8001/play/a06a/index.m3u8
+#EXTINF:-1 group-title="PELICULAS",Cinemax
+http://cablemaxsigloxxi.com:8000/play/a01u/index.m3u8?hls
+#EXTINF:0,Cinemax
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Cinemax
+http://181.209.105.115:2525/play/cinemax/index.m3u8
+#EXTINF:-1 group-title="PELICULAS",Cinemax HD
+http://200.59.191.177:8000/play/a0pk/index.m3u8?
+#EXTINF:-1 group-title="PELICULAS",De Pelicula
+http://152.230.246.26:8001/play/a011/index.m3u8
+#EXTINF:-1 group-title="PELICULAS",DE PELICULAS
+http://200.59.191.177:8000/play/a0qa/index.m3u8?
+#EXTINF:0,DHE
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="PELICULAS",DHE HD
+152.230.246.26:8001/play/a01k/index.m3u8
+#EXTINF:-1 group-title="PELICULAS",DHE HD
+http://200.59.191.177:8000/play/a0km/index.m3u8?
+#EXTINF:-1 group-title="PELICULAS",DHE HD
+http://cablemaxsigloxxi.com:8000/play/a05h/index.m3u8?hls
+#EXTINF:-1 group-title="PELICULAS",FX
+http://200.59.191.177:8000/play/a0p5/index.m3u8?
+#EXTINF:0,FX
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="PELICULAS",FX HD
+http://cablemaxsigloxxi.com:8000/play/a02i/index.m3u8?hls
+#EXTINF:0,FX HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,GOLDEN
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="PELICULAS",GOLDEN EDGE
+http://200.59.191.177:8000/play/a0q8/index.m3u8?
+#EXTINF:-1 group-title="PELICULAS",Golden Edge
+http://cablemaxsigloxxi.com:8000/play/a03v/index.m3u8?hls
+#EXTINF:-1 group-title="PELICULAS",Golden HD
+http://152.230.246.26:8001/play/a03b/index.m3u8
+#EXTINF:-1 group-title="PELICULAS",Golden HD
+http://200.59.191.177:8000/play/a0jx/index.m3u8?
+#EXTINF:-1 group-title="PELICULAS",Golden HD R
+http://cablemaxsigloxxi.com:8000/play/a027/index.m3u8?hls
+#EXTINF:-1 group-title="PELICULAS",HBO
+http://cablemaxsigloxxi.com:8000/play/a0tr/index.m3u8?hls
+#EXTINF:0,HBO
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,HBO
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="PELICULAS",HBO 2
+http://152.230.246.26:8001/play/a05q/index.m3u8
+#EXTINF:0,HBO 2
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="PELICULAS",HBO 2 HD
+http://200.59.191.177:8000/play/a0jq/index.m3u8?
+#EXTINF:-1 group-title="PELICULAS",HBO 2 R
+http://cablemaxsigloxxi.com:8000/play/a026/index.m3u8?hls
+#EXTINF:-1 group-title="PELICULAS",HBO Family
+http://152.230.246.26:8001/play/a01m/index.m3u8
+#EXTINF:0,HBO Family
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,HBO Family
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="PELICULAS",HBO Family HD
+http://200.59.191.177:8000/play/a0pq/index.m3u8?
+#EXTINF:-1 group-title="PELICULAS",HBO Family HD
+http://cablemaxsigloxxi.com:8000/play/a07x/index.m3u8?hls
+#EXTINF:-1 group-title="PELICULAS",HBO HD
+http://152.230.246.26:8001/play/a00u/index.m3u8
+#EXTINF:-1 group-title="PELICULAS",HBO HD
+http://200.59.191.177:8000/play/a0py/index.m3u8?
+#EXTINF:0,HBO Mund
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="PELICULAS",HBO Mundi
+http://cablemaxsigloxxi.com:8000/play/a084/index.m3u8?hls
+#EXTINF:0,HBO Mundi
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="PELICULAS",HBO PLUS
+http://200.59.191.177:8000/play/a00m/index.m3u8?
+#EXTINF:-1 group-title="PELICULAS",HBO Plus
+http://cablemaxsigloxxi.com:8000/play/a00s/index.m3u8?hls
+#EXTINF:0,HBO Plus
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,HBO Plus
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="PELICULAS",HBO POP
+http://200.59.191.177:8000/play/a0qv/index.m3u8?
+#EXTINF:0,HBO POP
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="PELICULAS",HBO POP HD
+http://cablemaxsigloxxi.com:8000/play/a0ts/index.m3u8?hls
+#EXTINF:-1 group-title="PELICULAS",HBO Signature
+http://cablemaxsigloxxi.com:8000/play/a082/index.m3u8?hls
+#EXTINF:0,HBO Signature
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,HBO Xtreme
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,HBO Xtreme
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="PELICULAS",HBO Xtreme HD
+http://152.230.246.26:8001/play/a01n/index.m3u8
+#EXTINF:-1 group-title="PELICULAS",HBO XTREME HD
+http://200.59.191.177:8000/play/a0pr/index.m3u8?
+#EXTINF:-1 group-title="PELICULAS",HBO Xtreme HD
+http://cablemaxsigloxxi.com:8000/play/a00p/index.m3u8?hls
+#EXTINF:0,HBO2
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="PELICULAS",Sony Movies
+http://200.59.191.177:8000/play/a00a/index.m3u8?
+#EXTINF:-1 group-title="PELICULAS",Sony Movies
+http://cablemaxsigloxxi.com:8000/play/a07l/index.m3u8?hls
+#EXTINF:0,SONY MOVIES
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Sony Movies HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,SPACE
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="PELICULAS",Space HD
+http://152.230.246.26:8001/play/a02v/index.m3u8
+#EXTINF:-1 group-title="PELICULAS",Space HD
+http://200.59.191.177:8000/play/a0o7/index.m3u8?
+#EXTINF:-1 group-title="PELICULAS",Space HD
+http://cablemaxsigloxxi.com:8000/play/a0u2/index.m3u8?hls
+#EXTINF:0,Space HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,STAR CHANNEL
+#EXTVLCOPT:network-caching=1000
+#EXTINF:11,STAR Channel
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,STAR Channel
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="PELICULAS",STAR CHANNEL HD
+http://200.59.191.177:8000/play/a0pj/index.m3u8?
+#EXTINF:0,Star Channel HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,STUDIO UNIVERSAL
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Studio Universal
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="PELICULAS",Studio Universal HD
+http://152.230.246.26:8001/play/a040/index.m3u8
+#EXTINF:-1 group-title="PELICULAS",Studio Universal HD
+http://200.59.191.177:8000/play/a0jo/index.m3u8?
+#EXTINF:-1 group-title="PELICULAS",Studio Universal HD
+http://cablemaxsigloxxi.com:8000/play/a06e/index.m3u8?hls
+#EXTINF:-1 group-title="PELICULAS",TNT
+http://200.59.191.177:8000/play/a0og/index.m3u8?
+#EXTINF:-1 group-title="PELICULAS",TNT HD
+http://152.230.246.26:8001/play/a02n/index.m3u8
+#EXTINF:-1 group-title="PELICULAS",TNT HD
+http://cablemaxsigloxxi.com:8000/play/a06y/index.m3u8?hls
+#EXTINF:0,TNT HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,TNT HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="PELICULAS",TNT Novelas
+http://200.59.191.177:8000/play/a0pf/index.m3u8?
+#EXTINF:0,TNT NOVELAS
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="PELICULAS",TNT Novelas HD
+http://152.230.246.26:8001/play/a00w/index.m3u8
+#EXTINF:-1 group-title="PELICULAS",TNT Novelas HD
+http://cablemaxsigloxxi.com:8000/play/a08p/index.m3u8?hls
+#EXTINF:0,TNT Novelas HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="PELICULAS",TNT Series
+http://200.59.191.177:8000/play/a06z/index.m3u8?
+#EXTINF:0,TNT Series
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="PELICULAS",TNT Series HD
+http://152.230.246.26:8001/play/a00q/index.m3u8
+#EXTINF:-1 group-title="PELICULAS",TNT Series HD
+http://cablemaxsigloxxi.com:8000/play/a071/index.m3u8?hls
+#EXTINF:0,TNT Series HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="PELICULAS",VVD CINECANAL
+http://cablemaxsigloxxi.com:8000/play/a0t0/index.m3u8?hls
+#EXTINF:-1 group-title="PELICULAS",VVD FX
+http://cablemaxsigloxxi.com:8000/play/a0sz/index.m3u8?hls
+#EXTINF:-1 group-title="PELICULAS",VVD STAR CHANNEL
+http://cablemaxsigloxxi.com:8000/play/a0sy/index.m3u8?hls
+
+# ===== SERIES =====
+#EXTINF:0,27-SONY
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,27-UNIVERSAL CINEMA
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,28-Warner Channel
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,29-AXN HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,31-TLNovelas
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,32-RCN novelas
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,AXN
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="SERIES",AXN HD
+http://152.230.246.26:8001/play/a02t/index.m3u8
+#EXTINF:-1 group-title="SERIES",AXN HD
+http://200.59.191.177:8000/play/a0nz/index.m3u8?
+#EXTINF:-1 group-title="SERIES",AXN HD
+http://cablemaxsigloxxi.com:8000/play/a00r/index.m3u8?hls
+#EXTINF:0,AXN HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,AXN HD
+http://181.209.105.115:2525/play/axn/index.m3u8
+#EXTINF:-1 group-title="SERIES",Lifetime
+http://152.230.246.26:8001/play/a05c/index.m3u8
+#EXTINF:-1 group-title="SERIES",Lifetime
+http://200.59.191.177:8000/play/a0qe/index.m3u8?
+#EXTINF:-1 group-title="SERIES",Lifetime
+http://cablemaxsigloxxi.com:8000/play/a03d/index.m3u8?hls
+#EXTINF:0,Lifetime
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="SERIES",Pasiones HD
+http://152.230.246.26:8001/play/a017/index.m3u8
+#EXTINF:-1 group-title="SERIES",Pasiones HD
+http://200.59.191.177:8000/play/a0pl/index.m3u8?
+#EXTINF:-1 group-title="SERIES",Pasiones HD
+http://cablemaxsigloxxi.com:8000/play/a0st/index.m3u8?hls
+#EXTINF:-1 group-title="SERIES",Pasiones T
+http://152.230.246.26:8001/play/a0bb/index.m3u8
+#EXTINF:-1 group-title="SERIES",RCN Novelas
+http://152.230.246.26:8001/play/a062/index.m3u8
+#EXTINF:0,RCN NOVELAS
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="SERIES",RCN Novelas HD
+http://cablemaxsigloxxi.com:8000/play/a042/index.m3u8?hls
+#EXTINF:0,SONY
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="SERIES",Sony HD
+http://152.230.246.26:8001/play/a02r/index.m3u8
+#EXTINF:-1 group-title="SERIES",Sony HD
+http://200.59.191.177:8000/play/a0o6/index.m3u8?
+#EXTINF:-1 group-title="SERIES",Sony HD
+http://cablemaxsigloxxi.com:8000/play/a00q/index.m3u8?hls
+#EXTINF:0,Sony HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="SERIES",Telenovelas
+http://200.59.191.177:8000/play/a0qo/index.m3u8?
+#EXTINF:-1 group-title="SERIES",Telenovelas
+http://cablemaxsigloxxi.com:8000/play/a04o/index.m3u8?hls
+#EXTINF:0,TELENOVELAS
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="SERIES",Tlnovelas
+http://152.230.246.26:8001/play/a010/index.m3u8
+#EXTINF:0,TLNovelas
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="SERIES",Universal
+http://152.230.246.26:8001/play/a051/index.m3u8
+#EXTINF:-1 group-title="SERIES",UNIVERSAL CHANNEL HD
+http://200.59.191.177:8000/play/a0pg/index.m3u8?
+#EXTINF:-1 group-title="SERIES",UNIVERSAL CHANNEL HD
+http://cablemaxsigloxxi.com:8000/play/a07w/index.m3u8?hls
+#EXTINF:0,Universal HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,UNIVERSAL tv
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="SERIES",Warner Channel
+http://cablemaxsigloxxi.com:8000/play/a08b/index.m3u8?hls
+#EXTINF:0,Warner Channel
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="SERIES",Warner Channel HD
+http://200.59.191.177:8000/play/a0oa/index.m3u8?
+#EXTINF:0,Warner Channel HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="SERIES",Warner TV HD
+http://152.230.246.26:8001/play/a02s/index.m3u8
+#EXTINF:-1 group-title="SERIES",Warner TV HD
+http://cablemaxsigloxxi.com:8000/play/a02p/index.m3u8?hls
+
+# ===== INFANTILES =====
+#EXTINF:0,25-Cartoon Network
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,25-Cartoonito
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,25-Discovery Kids
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,25-Disney Channel
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,25-DISNEY JUNIOR HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,25-Nick Jr
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,25-Nickelodeon
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,25.8- Paka Paka
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="INFANTILES",Baby First
+http://152.230.246.26:8001/play/a05b/index.m3u8
+#EXTINF:-1 group-title="INFANTILES",Baby TV
+http://200.59.191.177:8000/play/a00f/index.m3u8?
+#EXTINF:-1 group-title="INFANTILES",Baby TV
+http://cablemaxsigloxxi.com:8000/play/a0u3/index.m3u8?hls
+#EXTINF:0,Baby TV
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Baby TV
+http://181.209.105.115:2525/play/babytv/index.m3u8
+#EXTINF:0,Cartoon Network
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="INFANTILES",Cartoon Network HD
+http://152.230.246.26:8001/play/a0bj/index.m3u8
+#EXTINF:-1 group-title="INFANTILES",Cartoon Network HD
+http://200.59.191.177:8000/play/a0jm/index.m3u8?
+#EXTINF:-1 group-title="INFANTILES",Cartoon Network HD
+http://cablemaxsigloxxi.com:8000/play/a07j/index.m3u8?hls
+#EXTINF:0,Cartoon Network HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Cartoon Network HD
+http://181.209.105.115:2525/play/cartoonnetwork/index.m3u8
+#EXTINF:-1 group-title="INFANTILES",Cartoonito
+http://152.230.246.26:8001/play/a0c3/index.m3u8
+#EXTINF:-1 group-title="INFANTILES",Cartoonito
+http://200.59.191.177:8000/play/a0qj/index.m3u8?
+#EXTINF:-1 group-title="INFANTILES",Cartoonito
+http://cablemaxsigloxxi.com:8000/play/a08k/index.m3u8?hls
+#EXTINF:0,Cartoonito
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="INFANTILES",Discovery Kids
+http://200.59.191.177:8000/play/a0ox/index.m3u8?
+#EXTINF:0,Discovery Kids
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Discovery Kids
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Discovery Kids
+http://181.209.105.115:2525/play/discoverykids/index.m3u8
+#EXTINF:-1 group-title="INFANTILES",Discovery Kids HD
+http://152.230.246.26:8001/play/a0bg/index.m3u8
+#EXTINF:-1 group-title="INFANTILES",Discovery Kids HD
+http://cablemaxsigloxxi.com:8000/play/a07k/index.m3u8?hls
+#EXTINF:-1 group-title="INFANTILES",DISNEY CH
+http://200.59.191.177:8000/play/a0qu/index.m3u8?
+#EXTINF:0,Disney Channel
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Disney Channel HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Disney Channel HD
+http://181.209.105.115:2525/play/disneychannel/index.m3u8
+#EXTINF:0,Disney Jr
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="INFANTILES",Disney Jr. R
+http://cablemaxsigloxxi.com:8000/play/a028/index.m3u8?hls
+#EXTINF:-1 group-title="INFANTILES",Disney Junior
+http://200.59.191.177:8000/play/a00c/index.m3u8?
+#EXTINF:0,Disney Junior
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Disney Junior
+http://181.209.105.115:2525/play/disneyjunior/index.m3u8
+#EXTINF:-1 group-title="INFANTILES",Nick HD
+http://200.59.191.177:8000/play/a0o5/index.m3u8?
+#EXTINF:-1 group-title="INFANTILES",Nick HD
+http://cablemaxsigloxxi.com:8000/play/a0tt/index.m3u8?hls
+#EXTINF:-1 group-title="INFANTILES",Nick Jr
+http://152.230.246.26:8001/play/a06g/index.m3u8
+#EXTINF:0,Nick Jr
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Nick Jr
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="INFANTILES",Nick Jr.
+http://cablemaxsigloxxi.com:8000/play/a081/index.m3u8?hls
+#EXTINF:-1 group-title="INFANTILES",Nick Music
+http://cablemaxsigloxxi.com:8000/play/a03l/index.m3u8?hls
+#EXTINF:0,Nickelodeon
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Nickelodeon
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="INFANTILES",Nickelodeon HD
+http://152.230.246.26:8001/play/a01b/index.m3u8
+#EXTINF:-1 group-title="INFANTILES",Nickelodeon HD
+http://cablemaxsigloxxi.com:8000/play/a02s/index.m3u8?hls
+#EXTINF:-1 group-title="INFANTILES",Teen Nick
+http://cablemaxsigloxxi.com:8000/play/a03m/index.m3u8?hls
+#EXTINF:-1 group-title="INFANTILES",Tooncast
+http://152.230.246.26:8001/play/a028/index.m3u8
+#EXTINF:-1 group-title="INFANTILES",Tooncast
+http://200.59.191.177:8000/play/a0qp/index.m3u8?
+#EXTINF:-1 group-title="INFANTILES",Tooncast
+http://cablemaxsigloxxi.com:8000/play/a03a/index.m3u8?hls
+#EXTINF:0,Tooncast
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Veronica / Disney XD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="INFANTILES",VVD DISNEY CHANNEL
+http://cablemaxsigloxxi.com:8000/play/a0sx/index.m3u8?hls
+#EXTINF:-1 group-title="INFANTILES",VVD DISNEY JUNIOR
+http://cablemaxsigloxxi.com:8000/play/a0tg/index.m3u8?hls
+
+# ===== DOCUMENTALES =====
+#EXTINF:0,32.7- Discovery Food
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,33-Discovery Channel
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,33-Discovery H&H
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,33-Discovery ID
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,33-Discovery Science
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,33-Discovery TCL
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,33-Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,33-Discovery Word
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,34-Animal Planet
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,34-H2
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,34-HISTORY
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,34-NAT GEO HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Animal Planet
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="DOCUMENTALES",Animal Planet HD
+http://152.230.246.26:8001/play/a02j/index.m3u8
+#EXTINF:-1 group-title="DOCUMENTALES",Animal Planet HD
+http://200.59.191.177:8000/play/a0js/index.m3u8?
+#EXTINF:-1 group-title="DOCUMENTALES",Animal Planet HD
+http://cablemaxsigloxxi.com:8000/play/a06v/index.m3u8?hls
+#EXTINF:0,DISCOVERY CH
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery Channel  HD
+http://cablemaxsigloxxi.com:8000/play/a0u1/index.m3u8?hls
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery Channel HD
+http://152.230.246.26:8001/play/a02k/index.m3u8
+#EXTINF:0,Discovery Channel HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Discovery Channel HD
+http://181.209.105.115:2525/play/discoverychannel/index.m3u8
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery H&H
+http://200.59.191.177:8000/play/a04w/index.m3u8?
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery H&H
+http://cablemaxsigloxxi.com:8000/play/a080/index.m3u8?hls
+#EXTINF:0,DISCOVERY H&H
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Discovery H&H HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Discovery H&H HD
+http://181.209.105.115:2525/play/discoveryhh/index.m3u8
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery HD
+http://200.59.191.177:8000/play/a0pb/index.m3u8?
+#EXTINF:0,Discovery ID
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery Science
+http://152.230.246.26:8001/play/a025/index.m3u8
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery Science
+http://200.59.191.177:8000/play/a0qk/index.m3u8?
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery Science
+http://cablemaxsigloxxi.com:8000/play/a00g/index.m3u8?hls
+#EXTINF:0,Discovery Science
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Discovery Science
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Discovery Science
+http://181.209.105.115:2525/play/discoveryscience/index.m3u8
+#EXTINF:0,Discovery TCL
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery Theater
+http://200.59.191.177:8000/play/a0p6/index.m3u8?
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery Theater HD
+http://152.230.246.26:8001/play/a014/index.m3u8
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery Theater HD
+http://cablemaxsigloxxi.com:8000/play/a06w/index.m3u8?hls
+#EXTINF:0,Discovery Theater HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Discovery Theater HD
+http://181.209.105.115:2525/play/discoverytheater/index.m3u8
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery Turbo
+http://152.230.246.26:8001/play/a06h/index.m3u8
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery Turbo
+http://200.59.191.177:8000/play/a0qs/index.m3u8?
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery Turbo
+http://cablemaxsigloxxi.com:8000/play/a0u9/index.m3u8?hls
+#EXTINF:0,Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Discovery Turbo
+http://181.209.105.115:2525/play/discoveryturbo/index.m3u8
+#EXTINF:0,Discovery Word
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery World HD
+http://152.230.246.26:8001/play/a00v/index.m3u8
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery World HD
+http://200.59.191.177:8000/play/a0pw/index.m3u8?
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery World HD
+http://cablemaxsigloxxi.com:8000/play/a086/index.m3u8?hls
+#EXTINF:0,Discovery World HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Discovery World HD
+http://181.209.105.115:2525/play/discoveryworld/index.m3u8
+#EXTINF:0,History
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="DOCUMENTALES",History 2
+http://152.230.246.26:8001/play/a03d/index.m3u8
+#EXTINF:-1 group-title="DOCUMENTALES",History 2
+http://cablemaxsigloxxi.com:8000/play/a0tk/index.m3u8?hls
+#EXTINF:0,History 2
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="DOCUMENTALES",History 2 HD
+http://200.59.191.177:8000/play/a0kp/index.m3u8?
+#EXTINF:-1 group-title="DOCUMENTALES",History Channel
+http://cablemaxsigloxxi.com:8000/play/a068/index.m3u8?hls
+#EXTINF:0,History Channel
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="DOCUMENTALES",History Channel HD
+http://152.230.246.26:8001/play/a02l/index.m3u8
+#EXTINF:-1 group-title="DOCUMENTALES",History Channel HD
+http://200.59.191.177:8000/play/a0nx/index.m3u8?
+#EXTINF:0,History2
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="DOCUMENTALES",ID - Investigation Discovery
+http://cablemaxsigloxxi.com:8000/play/a067/index.m3u8?hls
+#EXTINF:-1 group-title="DOCUMENTALES",ID HD
+http://152.230.246.26:8001/play/a02u/index.m3u8
+#EXTINF:-1 group-title="DOCUMENTALES",ID HD
+http://200.59.191.177:8000/play/a0po/index.m3u8?
+#EXTINF:-1 group-title="DOCUMENTALES",ID HD
+http://cablemaxsigloxxi.com:8000/play/a08a/index.m3u8?hls
+#EXTINF:-1 group-title="DOCUMENTALES",Meridiano (35e)
+http://200.59.191.177:8000/play/a0lj/index.m3u8?
+#EXTINF:0,Nat Geo
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="DOCUMENTALES",Nat Geo HD
+http://200.59.191.177:8000/play/a0jf/index.m3u8?
+#EXTINF:0,Nat Geo HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:11,Nat GEO nuevo
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,The History Channel HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Tv Aparecida
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="DOCUMENTALES",VVD NAT GEO CABLE MAX
+http://cablemaxsigloxxi.com:8000/play/a0su/index.m3u8?hls
+
+# ===== MUSICA =====
+#EXTINF:0,28-TCM
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,35-CM
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,35-HTV
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,CM
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="MUSICA",HTV
+http://152.230.246.26:8001/play/a03i/index.m3u8
+#EXTINF:-1 group-title="MUSICA",HTV
+http://200.59.191.177:8000/play/a00n/index.m3u8?
+#EXTINF:-1 group-title="MUSICA",HTV
+http://cablemaxsigloxxi.com:8000/play/a03q/index.m3u8?hls
+#EXTINF:0,HTV
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,HTV
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="MUSICA",KARIBENA
+http://cablemaxsigloxxi.com:8000/play/a0hw/index.m3u8?hls
+#EXTINF:-1 group-title="MUSICA",MTV
+http://200.59.191.177:8000/play/a0pd/index.m3u8?
+#EXTINF:0,MTV
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="MUSICA",MTV HD
+http://152.230.246.26:8001/play/a00y/index.m3u8
+#EXTINF:-1 group-title="MUSICA",MTV HD
+http://cablemaxsigloxxi.com:8000/play/a087/index.m3u8?hls
+#EXTINF:-1 group-title="MUSICA",TCM
+http://152.230.246.26:8001/play/a056/index.m3u8
+#EXTINF:-1 group-title="MUSICA",TCM
+http://200.59.191.177:8000/play/a0qh/index.m3u8?
+#EXTINF:-1 group-title="MUSICA",TCM
+http://cablemaxsigloxxi.com:8000/play/a03w/index.m3u8?hls
+#EXTINF:0,TCM
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,TCM
+#EXTVLCOPT:network-caching=1000
+
+# ===== RELIGIOSOS =====
+#EXTINF:-1 group-title="RELIGIOSOS",(HCO) BETHEL TV
+http://cablemaxsigloxxi.com:8000/play/a0tp/index.m3u8?hls
+#EXTINF:0,35-EWTN
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="RELIGIOSOS",Bethel One Second
+http://cablemaxsigloxxi.com:8000/play/a02n/index.m3u8?hls
+#EXTINF:-1 group-title="RELIGIOSOS",BETHEL TV
+http://cablemaxsigloxxi.com:8000/play/a02h/index.m3u8?hls
+#EXTINF:-1 group-title="RELIGIOSOS",Daystar
+http://200.59.191.177:8000/play/a00d/index.m3u8?
+#EXTINF:-1 group-title="RELIGIOSOS",Enlace
+http://152.230.246.26:8001/play/a059/index.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS",Enlace
+http://200.59.191.177:8000/play/a0l3/index.m3u8?
+#EXTINF:-1 group-title="RELIGIOSOS",Enlace
+http://cablemaxsigloxxi.com:8000/play/a00h/index.m3u8?hls
+#EXTINF:-1 group-title="RELIGIOSOS",Esne
+http://152.230.246.26:8001/play/a06i/index.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS",EWTN
+http://cablemaxsigloxxi.com:8000/play/a0u4/index.m3u8?hls
+#EXTINF:0,EWTN
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,EWTN
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="RELIGIOSOS",EWTN (35e)
+http://200.59.191.177:8000/play/a0m5/index.m3u8?
+#EXTINF:0,EWTN HD
+#EXTVLCOPT:network-caching=1000
+
+# ===== ADULTOS =====
+#EXTINF:-1 group-title="ADULTOS",Playboy
+http://200.59.191.177:8000/play/a0p3/index.m3u8?
+#EXTINF:-1 group-title="ADULTOS",Venus
+http://200.59.191.177:8000/play/a0kw/index.m3u8?
+#EXTINF:0,Venus Tv
+#EXTVLCOPT:network-caching=1000
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ESTRELLA NEWS" tvg-logo="https://static-ottera.com/prod/est/linear_channel/thumbnails/square/estrella_news_-_1920x1920.jpg?T6OWijU0x8Zuj6N.JhEOEB7xOG4RrAGf" group-title="⭐ CANALES PREMIUM UHD",ESTRELLA NEWS
+http://liontv.es:8080/live/NESTORCHI/GRETF/1430323.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESTRELLA GAMES" tvg-logo="https://static-ottera.com/prod/est/linear_channel/thumbnails/square/estrella_games_-_1920x1920_1.jpg?0eiD4Wfb6Dnv_D4iRCu4_0Qoxd_s1KYG" group-title="⭐ CANALES PREMIUM UHD",ESTRELLA GAMES
+http://liontv.es:8080/live/NESTORCHI/GRETF/1430324.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN ES | DAZN LIGA HD" tvg-logo="http://mastertv.pro:8080/images/f86528c06f450aad676a73f8e703da23.png" group-title="DAZN ES",DAZN ES | DAZN LIGA HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/499538.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS | CANAL EXCLUSIVO LION TV PREMIUM HN" tvg-logo="https://archive.org/download/ln_20230429/CL.jpg" group-title="⚽ CHAMPIONS LEAGUE",CHAMPIONS | CANAL EXCLUSIVO LION TV PREMIUM HN
+http://liontv.es:8080/live/NESTORCHI/GRETF/559683.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA | MO3I$T@R L@ LIG@" tvg-logo="https://archive.org/download/whats-app-image-2023-09-24-at-2.53.23-am_202309/WhatsApp%20Image%202023-09-23%20at%209.32.25%20PM.jpeg" group-title="⚽ LIGA ESPAÑOLA",LA LIGA | MO3I$T@R L@ LIG@
+http://liontv.es:8080/live/NESTORCHI/GRETF/501557.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA | MO3I$T@R PLUS" tvg-logo="https://archive.org/download/whats-app-image-2023-09-24-at-2.53.23-am_202309/WhatsApp%20Image%202023-09-23%20at%209.32.25%20PM.jpeg" group-title="⚽ LIGA ESPAÑOLA",LA LIGA | MO3I$T@R PLUS
+http://liontv.es:8080/live/NESTORCHI/GRETF/496944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA | SuperSport La Liga ᴴᴰ" tvg-logo="https://archive.org/download/whats-app-image-2023-09-24-at-2.53.23-am_202309/WhatsApp%20Image%202023-09-23%20at%209.32.25%20PM.jpeg" group-title="⚽ LIGA ESPAÑOLA",LA LIGA | SuperSport La Liga ᴴᴰ
+http://liontv.es:8080/live/NESTORCHI/GRETF/478444.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS | TUDN USA SD" tvg-logo="https://archive.org/download/ln_20230429/CL.jpg" group-title="⚽ CHAMPIONS LEAGUE",CHAMPIONS | TUDN USA SD
+http://liontv.es:8080/live/NESTORCHI/GRETF/559682.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS | TUDN USA HD" tvg-logo="https://archive.org/download/ln_20230429/CL.jpg" group-title="⚽ CHAMPIONS LEAGUE",CHAMPIONS | TUDN USA HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/542096.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA | CANAL EXCLUSIVO LION TV PREMIUM HN" tvg-logo="https://archive.org/download/whats-app-image-2023-09-24-at-2.53.23-am_202309/WhatsApp%20Image%202023-09-23%20at%209.32.25%20PM.jpeg" group-title="⚽ LIGA ESPAÑOLA",LA LIGA | CANAL EXCLUSIVO LION TV PREMIUM HN
+http://liontv.es:8080/live/NESTORCHI/GRETF/538494.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN ES | DAZN LIGA 2 HD" tvg-logo="https://i.imgur.com/o2oVjUs.png" group-title="DAZN ES",DAZN ES | DAZN LIGA 2 HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/499539.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN ES | DAZN 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="DAZN ES",DAZN ES | DAZN 1 HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/61819.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA | ESPN DEPORTES ᴴᴰ OPC1" tvg-logo="https://archive.org/download/whats-app-image-2023-09-24-at-2.53.23-am_202309/WhatsApp%20Image%202023-09-23%20at%209.32.25%20PM.jpeg" group-title="⚽ LIGA ESPAÑOLA",LA LIGA | ESPN DEPORTES ᴴᴰ OPC1
+http://liontv.es:8080/live/NESTORCHI/GRETF/61838.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN ES | DAZN F1 HD" tvg-logo="https://archive.org/download/dazn-f-1-logo/DAZN_F1_logo.png" group-title="DAZN ES",DAZN ES | DAZN F1 HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/61813.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS | TUDN USA FHD" tvg-logo="https://archive.org/download/ln_20230429/CL.jpg" group-title="⚽ CHAMPIONS LEAGUE",CHAMPIONS | TUDN USA FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/362752.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS | ESPN 1 ARG" tvg-logo="https://archive.org/download/ln_20230429/CL.jpg" group-title="⚽ CHAMPIONS LEAGUE",CHAMPIONS | ESPN 1 ARG
+http://liontv.es:8080/live/NESTORCHI/GRETF/362747.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEX: IMAGEN TV" tvg-logo="http://51.222.43.170:36995/images/94993d63d73addcc1d1a32dc3100bd07.png" group-title="⭐ CANALES PREMIUM UHD",MEX: IMAGEN TV
+http://liontv.es:8080/live/NESTORCHI/GRETF/347296.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS | ESPN 1 COL" tvg-logo="https://archive.org/download/ln_20230429/CL.jpg" group-title="⚽ CHAMPIONS LEAGUE",CHAMPIONS | ESPN 1 COL
+http://liontv.es:8080/live/NESTORCHI/GRETF/362746.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA | ESPN 1 COL" tvg-logo="https://archive.org/download/whats-app-image-2023-09-24-at-2.53.23-am_202309/WhatsApp%20Image%202023-09-23%20at%209.32.25%20PM.jpeg" group-title="⚽ LIGA ESPAÑOLA",LA LIGA | ESPN 1 COL
+http://liontv.es:8080/live/NESTORCHI/GRETF/61830.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS | ESPN" tvg-logo="https://archive.org/download/ln_20230429/CL.jpg" group-title="⚽ CHAMPIONS LEAGUE",CHAMPIONS | ESPN
+http://liontv.es:8080/live/NESTORCHI/GRETF/362748.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN ES | DAZN 4 HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn04.png" group-title="DAZN ES",DAZN ES | DAZN 4 HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/61828.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA | ESPN DEPORTES OP2" tvg-logo="https://archive.org/download/whats-app-image-2023-09-24-at-2.53.23-am_202309/WhatsApp%20Image%202023-09-23%20at%209.32.25%20PM.jpeg" group-title="⚽ LIGA ESPAÑOLA",LA LIGA | ESPN DEPORTES OP2
+http://liontv.es:8080/live/NESTORCHI/GRETF/61831.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA | DIRECTV SPORTS ᴴᴰ" tvg-logo="https://archive.org/download/whats-app-image-2023-09-24-at-2.53.23-am_202309/WhatsApp%20Image%202023-09-23%20at%209.32.25%20PM.jpeg" group-title="⚽ LIGA ESPAÑOLA",LA LIGA | DIRECTV SPORTS ᴴᴰ
+http://liontv.es:8080/live/NESTORCHI/GRETF/61829.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA | DAZN LA LIGA OP1 ᴴᴰ" tvg-logo="https://archive.org/download/whats-app-image-2023-09-24-at-2.53.23-am_202309/WhatsApp%20Image%202023-09-23%20at%209.32.25%20PM.jpeg" group-title="⚽ LIGA ESPAÑOLA",LA LIGA | DAZN LA LIGA OP1 ᴴᴰ
+http://liontv.es:8080/live/NESTORCHI/GRETF/341898.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS | MOVISTAR LIGA DE CAMPEONES HD" tvg-logo="https://archive.org/download/ln_20230429/CL.jpg" group-title="⚽ CHAMPIONS LEAGUE",CHAMPIONS | MOVISTAR LIGA DE CAMPEONES HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/362744.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS | TNT SPORTS" tvg-logo="https://archive.org/download/ln_20230429/CL.jpg" group-title="⚽ CHAMPIONS LEAGUE",CHAMPIONS | TNT SPORTS
+http://liontv.es:8080/live/NESTORCHI/GRETF/362751.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN ES | DAZN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="DAZN ES",DAZN ES | DAZN 2 HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/61822.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEX: FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png" group-title="⭐ CANALES PREMIUM UHD",MEX: FX
+http://liontv.es:8080/live/NESTORCHI/GRETF/338213.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS | ESPN 1 SD 2MB" tvg-logo="https://archive.org/download/ln_20230429/CL.jpg" group-title="⚽ CHAMPIONS LEAGUE",CHAMPIONS | ESPN 1 SD 2MB
+http://liontv.es:8080/live/NESTORCHI/GRETF/362745.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEX: LAS ESTRELLAS" tvg-logo="https://i.ibb.co/4ZJyHjZ/Las-Estrellas-1-1.jpg" group-title="⭐ CANALES PREMIUM UHD",MEX: LAS ESTRELLAS
+http://liontv.es:8080/live/NESTORCHI/GRETF/347292.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT | Cinema Dinamita HD℠" tvg-logo="https://archive.org/download/nota_cinema-dinamita-llega-a-la-plataforma-xfinity-tv-de-comcast/nota_cinema-dinamita-llega-a-la-plataforma-xfinity-tv-de-comcast.jpg" group-title="⭐ CANALES PREMIUM UHD",LAT | Cinema Dinamita HD℠
+http://liontv.es:8080/live/NESTORCHI/GRETF/353358.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN ES | DAZN 3 HD" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn3.png?resize=440%2C264&ssl=1" group-title="DAZN ES",DAZN ES | DAZN 3 HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/61825.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA | ESPN 2 ARG ᴴᴰ" tvg-logo="https://archive.org/download/whats-app-image-2023-09-24-at-2.53.23-am_202309/WhatsApp%20Image%202023-09-23%20at%209.32.25%20PM.jpeg" group-title="⚽ LIGA ESPAÑOLA",LA LIGA | ESPN 2 ARG ᴴᴰ
+http://liontv.es:8080/live/NESTORCHI/GRETF/341153.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA | DAZN LA LIGA OP2 ᴴᴰ" tvg-logo="https://archive.org/download/whats-app-image-2023-09-24-at-2.53.23-am_202309/WhatsApp%20Image%202023-09-23%20at%209.32.25%20PM.jpeg" group-title="⚽ LIGA ESPAÑOLA",LA LIGA | DAZN LA LIGA OP2 ᴴᴰ
+http://liontv.es:8080/live/NESTORCHI/GRETF/339398.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HD | ESPN 1 COL" tvg-logo="https://go4.pw/AMERICA/USA/ESPN.png" group-title="⚽ DEPORTES ʜᴅ",HD | ESPN 1 COL
+http://liontv.es:8080/live/NESTORCHI/GRETF/74.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA | SKY SPORTS 16 ᴴᴰ" tvg-logo="https://archive.org/download/whats-app-image-2023-09-24-at-2.53.23-am_202309/WhatsApp%20Image%202023-09-23%20at%209.32.25%20PM.jpeg" group-title="⚽ LIGA ESPAÑOLA",LA LIGA | SKY SPORTS 16 ᴴᴰ
+http://liontv.es:8080/live/NESTORCHI/GRETF/61836.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep | EUROSPORT 2 HD" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=1756" group-title="⚽ DEPORTES +3Mbps",Dep | EUROSPORT 2 HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345266.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPT-LAT | ViX Deportes 5" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="⚽ EVENTOS VIX +",SPT-LAT | ViX Deportes 5
+http://liontv.es:8080/live/NESTORCHI/GRETF/858893.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS | ESPN PREMIUM" tvg-logo="https://archive.org/download/ln_20230429/CL.jpg" group-title="⚽ CHAMPIONS LEAGUE",CHAMPIONS | ESPN PREMIUM
+http://liontv.es:8080/live/NESTORCHI/GRETF/843877.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS | FOX SPORTS 2 ARG" tvg-logo="https://archive.org/download/ln_20230429/CL.jpg" group-title="⚽ CHAMPIONS LEAGUE",CHAMPIONS | FOX SPORTS 2 ARG
+http://liontv.es:8080/live/NESTORCHI/GRETF/843878.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS | ESPN 2 ARG" tvg-logo="https://archive.org/download/ln_20230429/CL.jpg" group-title="⚽ CHAMPIONS LEAGUE",CHAMPIONS | ESPN 2 ARG
+http://liontv.es:8080/live/NESTORCHI/GRETF/843873.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPT-LAT | ViX Deportes 1" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="⚽ EVENTOS VIX +",SPT-LAT | ViX Deportes 1
+http://liontv.es:8080/live/NESTORCHI/GRETF/858889.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA | ESPN 1 ARG ᴴᴰ" tvg-logo="https://archive.org/download/whats-app-image-2023-09-24-at-2.53.23-am_202309/WhatsApp%20Image%202023-09-23%20at%209.32.25%20PM.jpeg" group-title="⚽ LIGA ESPAÑOLA",LA LIGA | ESPN 1 ARG ᴴᴰ
+http://liontv.es:8080/live/NESTORCHI/GRETF/1364655.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS | CBS SPORTS NETWORK" tvg-logo="https://archive.org/download/ln_20230429/CL.jpg" group-title="⚽ CHAMPIONS LEAGUE",CHAMPIONS | CBS SPORTS NETWORK
+http://liontv.es:8080/live/NESTORCHI/GRETF/875900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS |  FOX SPORTS 1 ARG" tvg-logo="https://archive.org/download/ln_20230429/CL.jpg" group-title="⚽ CHAMPIONS LEAGUE",CHAMPIONS |  FOX SPORTS 1 ARG
+http://liontv.es:8080/live/NESTORCHI/GRETF/843875.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPT-LAT | ViX Deportes 10" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="⚽ EVENTOS VIX +",SPT-LAT | ViX Deportes 10
+http://liontv.es:8080/live/NESTORCHI/GRETF/858898.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPT-LAT | ViX Deportes 6" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="⚽ EVENTOS VIX +",SPT-LAT | ViX Deportes 6
+http://liontv.es:8080/live/NESTORCHI/GRETF/858894.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS | ESPN 3 ARG" tvg-logo="https://archive.org/download/ln_20230429/CL.jpg" group-title="⚽ CHAMPIONS LEAGUE",CHAMPIONS | ESPN 3 ARG
+http://liontv.es:8080/live/NESTORCHI/GRETF/843874.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPT-LAT | ViX Deportes 9" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="⚽ EVENTOS VIX +",SPT-LAT | ViX Deportes 9
+http://liontv.es:8080/live/NESTORCHI/GRETF/858897.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPT-LAT | ViX Deportes 3" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="⚽ EVENTOS VIX +",SPT-LAT | ViX Deportes 3
+http://liontv.es:8080/live/NESTORCHI/GRETF/858891.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPT-LAT | ViX Deportes 4" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="⚽ EVENTOS VIX +",SPT-LAT | ViX Deportes 4
+http://liontv.es:8080/live/NESTORCHI/GRETF/858892.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPT-LAT | ViX Deportes 2" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="⚽ EVENTOS VIX +",SPT-LAT | ViX Deportes 2
+http://liontv.es:8080/live/NESTORCHI/GRETF/858890.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS | FOX SPORTS 3 ARG" tvg-logo="https://archive.org/download/ln_20230429/CL.jpg" group-title="⚽ CHAMPIONS LEAGUE",CHAMPIONS | FOX SPORTS 3 ARG
+http://liontv.es:8080/live/NESTORCHI/GRETF/843876.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPT-LAT | ViX Deportes 7" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="⚽ EVENTOS VIX +",SPT-LAT | ViX Deportes 7
+http://liontv.es:8080/live/NESTORCHI/GRETF/858895.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPT-LAT | ViX Deportes 8" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="⚽ EVENTOS VIX +",SPT-LAT | ViX Deportes 8
+http://liontv.es:8080/live/NESTORCHI/GRETF/858896.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS | UNIVISION" tvg-logo="https://archive.org/download/ln_20230429/CL.jpg" group-title="⚽ CHAMPIONS LEAGUE",CHAMPIONS | UNIVISION
+http://liontv.es:8080/live/NESTORCHI/GRETF/847719.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | AMC FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/210.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | AMC FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | AXN FHD" tvg-logo="https://go4.pw/LATINO/AXNTV.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | AXN FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/778651.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | AZ-CINEMA FHD" tvg-logo="https://asatlinkpr.compradish.com/sites/compradish.com/pages/images/logo-ch-azteca-cinema.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | AZ-CINEMA FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/331594.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | CINECANAL FHD" tvg-logo="https://go4.pw/LATINO/MEXICO/cienecanal.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | CINECANAL FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/772989.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | CINE DINAMITA FHD" tvg-logo="https://www.newslinereport.com/online/nota_cinema-dinamita-llega-a-la-plataforma-xfinity-tv-de-comcast.jpg" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | CINE DINAMITA FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/511176.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | CINE LATINO FHD" tvg-logo="https://go4.pw/LATINO/cine latino.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | CINE LATINO FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/331591.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | CINE MARVEL FHD" tvg-logo="https://www.freepnglogos.com/uploads/marvel-logo-png/image-marvel-studios-logo-disney-wiki-18.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | CINE MARVEL FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/332123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | CINEMAX FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/509.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | CINEMAX FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/129.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | CINE MEXICANO FHD" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2017/02/CineMexicano_Logo.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | CINE MEXICANO FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/780792.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | FREE TV SUREÑO FHD" tvg-logo="https://redge.media/uploads/gradient_on_light_ec3a48812f.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | FREE TV SUREÑO FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/342884.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | CLARO CINEMA FHD" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/885/CH_LOGO/160/160/0/0/213917850797501.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | CLARO CINEMA FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/1422378.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | DE PELICULA CLASICO FHD" tvg-logo="http://51.222.152.107:81/posters/1618974359150.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | DE PELICULA CLASICO FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/327375.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES |  DE PELICULA FHD" tvg-logo="https://go4.pw/LATINO/MEXICO/DPel%20cula_Plus.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES |  DE PELICULA FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/327374.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | DE PELICULA PLUS FHD" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/01/De-Pelicula-Plus-Logo-2017.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | DE PELICULA PLUS FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/327376.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | DHE FHD" tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | DHE FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | EPIX DRIVE IN FHD" tvg-logo="https://logodix.com/logo/1104724.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | EPIX DRIVE IN FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/354406.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | EPIX HITS FHD" tvg-logo="https://dishpromotions.com/wp-content/uploads/EPIXH-logo.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | EPIX HITS FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/354407.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | EUROCHANNEL FHD" tvg-logo="https://th.bing.com/th/id/OIP.9vQJCRgOi1HryrV6iQ-giwHaCN?pid=ImgDet&rs=1" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | EUROCHANNEL FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/838250.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | EUROPA EUROPA FHD" tvg-logo="https://th.bing.com/th/id/R.53c404d9ff6d9b48461191d966fb8afe?rik=9Q8bSbidk7BJkg&riu=http%3a%2f%2ftelevision.com.ar%2fwp-content%2fuploads%2f2016%2f06%2feuropalogo.jpg&ehk=9NXX4ygZodGw8Ox3awTqiJMwB8fQMUVSQYjF4z4ok5I%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | EUROPA EUROPA FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/838249.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | FX FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/217.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | FX FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/124.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | GOLDEN EDGE FHD" tvg-logo="https://go4.pw/Mexico/edge.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | GOLDEN EDGE FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/134.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | GOLDEN FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/503.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | GOLDEN FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | GOLDEN PLUS FHD" tvg-logo="https://go4.pw/LATINO/MEXICO/GOLDEN.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | GOLDEN PLUS FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/135.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | GOLDEN PREMIER 2 FHD" tvg-logo="https://go4.pw/LATINO/MEXICO/GOLDEN.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | GOLDEN PREMIER 2 FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/1399235.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | GOLDEN PREMIER FHD" tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_11/large.large.1689826971_GoldenPremier2020.png.55867f88ed97ec1141ed81ba0f75a494.png.926c708c6f8ba665429c99b39b760a32.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | GOLDEN PREMIER FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES |  HBO 2 FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1525.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES |  HBO 2 FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/87726.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | HBO 2 WEST FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1525.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | HBO 2 WEST FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | HBO EXTREME FHD" tvg-logo="https://www.codice.tv/wp-content/uploads/2022/04/hbo-xtreme1.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | HBO EXTREME FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/349873.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | HBO FAMILY FHD" tvg-logo="https://go4.pw/usa/HBO_Family_East_HD.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | HBO FAMILY FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/349869.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | HBO FHD" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/HBO-logo-1.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | HBO FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/138.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | HBO MUNDI FHD" tvg-logo="https://archive.org/download/logo.brootv_hbo/HBO_MUNDI.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | HBO MUNDI FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/349870.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | HBO PLUS FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Logohboplus2019.svg/revision/latest/scale-to-width-down/1000?cb=20200122002249&path-prefix=es" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | HBO PLUS FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/349871.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | HBO POP FHD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhux9A5Ndss9srav2M7LBo0str36oCSzlmPELBmQ0_HT9-zl-D_XGWHVkSKOumpMnE5x5Gb5dijT2afmSO77CAiYjDIbCrYrTOVfBCV-2BU1gXnfoypkNm1qQLmHBMltwl-PnmfC-K5UVoxDJUAGSxVvU1PBEbaf9XDHv2Aro6HbjA3ZDU4j_8rQQ2/s1600/hbo-pop.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | HBO POP FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/349868.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | HBO SIGNATURE FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/HBO_Signature_2012.png/revision/latest?cb=20151009181232&path-prefix=es" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | HBO SIGNATURE FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/349872.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | MOVISTAR ACCION FHD" tvg-logo="https://go4.pw/SPAIN/AC.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | MOVISTAR ACCION FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/491901.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | MOVISTAR COMEDIA FHD" tvg-logo="https://go4.pw/SPAIN/CO.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | MOVISTAR COMEDIA FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/478804.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | MOVISTAR DRAMA FHD" tvg-logo="https://go4.pw/EUROPE/SPAIN/M.DRAMA.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | MOVISTAR DRAMA FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/478803.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | MOVISTAR ESTRENOS FHD" tvg-logo="https://go4.pw/SPAIN/ES.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | MOVISTAR ESTRENOS FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/478801.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | MULTIPREMIER FHD" tvg-logo="https://th.bing.com/th/id/R.6f0172ed5e1f71a90df9480089306348?rik=WjPZ9PJLc23zaQ&pid=ImgRaw&r=0" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | MULTIPREMIER FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/838251.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | PARAMOUNT FHD" tvg-logo="https://go4.pw/USA/SD/11.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | PARAMOUNT FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/349866.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | SONY MOVIES FHD" tvg-logo="https://go4.pw/AMERICA/USA/SONYMOVIESHD.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | SONY MOVIES FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/150.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | SPACE EAST FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/518.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | SPACE EAST FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/152.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | SPACE FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1518.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | SPACE FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/61858.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | STAR CHANNEL FHD" tvg-logo="https://elcomercio.pe/resizer/3aspnZC__0mIEzEVI7-AwYPTXro=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KMAWWZJ7NBF2DNBSD5XW6X2BFU.jpg" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | STAR CHANNEL FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/153.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | STARZ ENCORE CINEMA FHD" tvg-logo="https://images.seeklogo.com/logo-png/45/1/starz-cinema-logo-png_seeklogo-452970.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | STARZ ENCORE CINEMA FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | STARZ ENCORE CLASSIC FHD" tvg-logo="https://go4.pw/AMERICA/USA/STARZ.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | STARZ ENCORE CLASSIC FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | STARZ ENCORE FAMILY & KIDS FHD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore-family.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | STARZ ENCORE FAMILY & KIDS FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/164.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | STARZ ENCORE WESTERN FHD" tvg-logo="https://go4.pw/AMERICA/USA/STARZ.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | STARZ ENCORE WESTERN FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/165.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | STARZ FHD" tvg-logo="https://go4.pw/AMERICA/USA/STARZ.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | STARZ FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/163.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | STARZ WEST FHD" tvg-logo="https://go4.pw/AMERICA/USA/STARZ.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | STARZ WEST FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/516035.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | STUDIO UNIVERSAL FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/508.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | STUDIO UNIVERSAL FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | SYFY FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/219.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | SYFY FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/331592.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | TBS FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/216.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | TBS FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/331614.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | TCM FHD" tvg-logo="https://go4.pw/LATINO/TCM.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | TCM FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | TNT FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1502.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | TNT FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/169.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | TNT SERIES FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/213.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | TNT SERIES FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/170.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | UNIVERSAL CINEMA FHD" tvg-logo="https://www.universalplus.com/files/channels/731381553.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | UNIVERSAL CINEMA FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/351494.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | UNIVERSAL COMEDY FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Universal_Comedy_2021.png/revision/latest?cb=20220102015318&path-prefix=es" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | UNIVERSAL COMEDY FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/351490.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | UNIVERSAL CRIME ESTE FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest?cb=20220102014712&path-prefix=es" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | UNIVERSAL CRIME ESTE FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/351491.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | UNIVERSAL PREMIER FHD" tvg-logo="https://go4.pw/LATINO/MEXICO/UNIVERSAL.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | UNIVERSAL PREMIER FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/349882.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | UNIVERSAL REALITY FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Universal_Reality_2021.png/revision/latest?cb=20220102015650&path-prefix=es" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | UNIVERSAL REALITY FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/351493.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | UNIVERSAL TV FHD" tvg-logo="https://logos.xbots.com.mx/57.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | UNIVERSAL TV FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/171.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | WARNER CHANNEL FHD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner-hd_m.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | WARNER CHANNEL FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/349867.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | A&E ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A&E_Network_(Australia)_logo.svg/1200px-A&E_Network_(Australia)_logo.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | A&E ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338216.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | AMC ®" tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-1.png" group-title="⭐ CANALES PREMIUM UHD",UHD | AMC ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338215.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="⭐ CANALES PREMIUM UHD",UHD | ANIMAL PLANET
+http://liontv.es:8080/live/NESTORCHI/GRETF/338178.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | AXN®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="⭐ CANALES PREMIUM UHD",UHD | AXN®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | AZ CLICK ®" tvg-logo="https://www.ipuntotv.com/IMAGES/AZTV-click-logo.png" group-title="⭐ CANALES PREMIUM UHD",UHD | AZ CLICK ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338222.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | Azteca 13" tvg-logo="http://51.222.43.170:36995/images/ec28d705801481e5beb86b361da4753c.png" group-title="⭐ CANALES PREMIUM UHD",UHD | Azteca 13
+http://liontv.es:8080/live/NESTORCHI/GRETF/347291.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD |  Azteca 7" tvg-logo="http://51.222.43.170:8001/images/af54c1b77a4b34a39179b39dba0c1579.png" group-title="⭐ CANALES PREMIUM UHD",UHD |  Azteca 7
+http://liontv.es:8080/live/NESTORCHI/GRETF/347295.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="⭐ CANALES PREMIUM UHD",UHD | BOOMERANG
+http://liontv.es:8080/live/NESTORCHI/GRETF/338180.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX |  Canal 5 Nacional HD℠" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="⭐ CANALES PREMIUM UHD",MX |  Canal 5 Nacional HD℠
+http://liontv.es:8080/live/NESTORCHI/GRETF/347294.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | CANAL ONCE" tvg-logo="http://51.222.43.170:36995/images/f3d78bb40aaa54bb7e97f17fa98201dd.png" group-title="⭐ CANALES PREMIUM UHD",UHD | CANAL ONCE
+http://liontv.es:8080/live/NESTORCHI/GRETF/347301.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | CARTOON NETWORK ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1594px-Cartoon_Network_2010_logo.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | CARTOON NETWORK ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | CINECANAL ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="⭐ CANALES PREMIUM UHD",UHD | CINECANAL ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338182.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | CINEMAX ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="⭐ CANALES PREMIUM UHD",UHD | CINEMAX ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338239.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | CLARO SPORTS ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1280px-Claro_Sports_logo.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | CLARO SPORTS ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338248.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | CNN CHILE®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/1200px-CNN_Chile_logo_2017.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | CNN CHILE®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338270.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | COMEDY CENTRAL ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | COMEDY CENTRAL ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | DHE ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/1280px-Canal_DHE_logo.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | DHE ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338223.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | DISCOVERY CHANNEL®" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png" group-title="⭐ CANALES PREMIUM UHD",UHD | DISCOVERY CHANNEL®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338185.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | DISCOVERY CIVILITATION ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Civilization_logo.svg/800px-Discovery_Civilization_logo.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | DISCOVERY CIVILITATION ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338186.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | DISCOVERY HOME&HEALT ®" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png" group-title="⭐ CANALES PREMIUM UHD",UHD | DISCOVERY HOME&HEALT ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338262.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | DISCOVERY ID ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | DISCOVERY ID ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338188.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | DISCOVERY KIDS ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | DISCOVERY KIDS ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338189.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | DISCOVERY SCIENCE ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | DISCOVERY SCIENCE ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338190.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | DISCOVERY THEATER ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | DISCOVERY THEATER ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338212.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | DISCOVERY TLC ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/1200px-TLC_Logo_Germany.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | DISCOVERY TLC ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | DISCOVERY TURBO ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | DISCOVERY TURBO ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338191.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | DISCOVERY WORLD ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | DISCOVERY WORLD ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338192.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Disney_Channel_2014_HD.png/800px-Disney_Channel_2014_HD.png" group-title="⭐ CANALES PREMIUM UHD",UHD | DISNEY CHANNEL
+http://liontv.es:8080/live/NESTORCHI/GRETF/338193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | DISNEY JR ®" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/01/Disney-Junior-Logo.png" group-title="⭐ CANALES PREMIUM UHD",UHD | DISNEY JR ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338194.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | DISNEY XD ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | DISNEY XD ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338195.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | DISTRITO COMEDIA" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="⭐ CANALES PREMIUM UHD",UHD | DISTRITO COMEDIA
+http://liontv.es:8080/live/NESTORCHI/GRETF/347302.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | ECDF" tvg-logo="https://static.elcanaldelfutbol.com/static/images/logo_foot.png" group-title="⭐ CANALES PREMIUM UHD",UHD | ECDF
+http://liontv.es:8080/live/NESTORCHI/GRETF/338272.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | E ENTERTAIMENTS ®" tvg-logo="https://i.pinimg.com/originals/4e/fd/fd/4efdfddc6dafa48064a41f9b6f1d6293.png" group-title="⭐ CANALES PREMIUM UHD",UHD | E ENTERTAIMENTS ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338224.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | ESPN ®" tvg-logo="https://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" group-title="⭐ CANALES PREMIUM UHD",UHD | ESPN ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | ESPN 2 ®" tvg-logo="https://i.pinimg.com/originals/da/cc/72/dacc72028a780576222fd09cfa427059.png" group-title="⭐ CANALES PREMIUM UHD",UHD | ESPN 2 ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338196.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | ESPN 2 SUR ®" tvg-logo="https://i.pinimg.com/originals/da/cc/72/dacc72028a780576222fd09cfa427059.png" group-title="⭐ CANALES PREMIUM UHD",UHD | ESPN 2 SUR ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338232.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="⭐ CANALES PREMIUM UHD",UHD | ESPN 3
+http://liontv.es:8080/live/NESTORCHI/GRETF/338197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | ESPN 4 SUR ®" tvg-logo="https://i.ibb.co/7KGCnFV/d21fac40-d2d4-4d52-ad5f-4a1347135bfe.jpg" group-title="⭐ CANALES PREMIUM UHD",UHD | ESPN 4 SUR ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338234.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | ESPN SUR ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn+.png" group-title="⭐ CANALES PREMIUM UHD",UHD | ESPN SUR ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338231.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | ESTRELLA TV MIAMI®" tvg-logo="https://i.ibb.co/K9F7CGM/Estrella-TV.jpg" group-title="⭐ CANALES PREMIUM UHD",UHD | ESTRELLA TV MIAMI®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338255.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | EURO NEWS ESPAÑOL ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" group-title="⭐ CANALES PREMIUM UHD",UHD | EURO NEWS ESPAÑOL ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338258.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | FILMS-ARTS" tvg-logo="http://revistamomentos.co/wp-content/uploads/2017/06/Logo-Film-Arts.png" group-title="⭐ CANALES PREMIUM UHD",UHD | FILMS-ARTS
+http://liontv.es:8080/live/NESTORCHI/GRETF/342993.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | FOOD NETWORK HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="⭐ CANALES PREMIUM UHD",UHD | FOOD NETWORK HQ
+http://liontv.es:8080/live/NESTORCHI/GRETF/338274.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | FORO TV" tvg-logo="http://51.222.43.170:36995/images/8768018dbed34f01a6afee7f43e958ea.png" group-title="⭐ CANALES PREMIUM UHD",UHD | FORO TV
+http://liontv.es:8080/live/NESTORCHI/GRETF/347297.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | FOX NEWS UHD ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/768px-Fox_News_Channel_logo.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | FOX NEWS UHD ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338267.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | FOX SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo_fox_sports_2012.png" group-title="⭐ CANALES PREMIUM UHD",UHD | FOX SPORTS 1
+http://liontv.es:8080/live/NESTORCHI/GRETF/338165.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/1200px-FOX_Deportes_logo.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | FOX SPORTS 2
+http://liontv.es:8080/live/NESTORCHI/GRETF/338166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | FOX SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | FOX SPORTS 3
+http://liontv.es:8080/live/NESTORCHI/GRETF/338167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | FOX SPORTS 3 SUR ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | FOX SPORTS 3 SUR ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338235.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | FOX SPORTS HD" tvg-logo="http://51.222.43.170:36995/images/08bb571993eade318886f494a9679e86.png" group-title="⭐ CANALES PREMIUM UHD",UHD | FOX SPORTS HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/347304.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US | FX Movie Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png" group-title="⭐ CANALES PREMIUM UHD",US | FX Movie Channel
+http://liontv.es:8080/live/NESTORCHI/GRETF/338242.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | GOLDEN PREMIER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/847px-Logo_Golden_TV.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | GOLDEN PREMIER
+http://liontv.es:8080/live/NESTORCHI/GRETF/338238.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | GOLDEN UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/847px-Logo_Golden_TV.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | GOLDEN UHD®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338265.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | GOLF CHANNEL ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png" group-title="⭐ CANALES PREMIUM UHD",UHD | GOLF CHANNEL ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338225.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="⭐ CANALES PREMIUM UHD",UHD | HBO 2
+http://liontv.es:8080/live/NESTORCHI/GRETF/338169.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | HBO 2 ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="⭐ CANALES PREMIUM UHD",UHD | HBO 2 ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338184.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | HBO MUNDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | HBO MUNDI
+http://liontv.es:8080/live/NESTORCHI/GRETF/338174.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | HBO PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="⭐ CANALES PREMIUM UHD",UHD | HBO PLUS
+http://liontv.es:8080/live/NESTORCHI/GRETF/338171.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | HBO PLUS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png" group-title="⭐ CANALES PREMIUM UHD",UHD | HBO PLUS 2
+http://liontv.es:8080/live/NESTORCHI/GRETF/346221.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | HBO POP
+http://liontv.es:8080/live/NESTORCHI/GRETF/338173.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | HBO SIGNATURE
+http://liontv.es:8080/live/NESTORCHI/GRETF/338172.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | HBO UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | HBO UHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/338168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | HBO XTREME ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | HBO XTREME ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338245.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | HISTORY 2 ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="⭐ CANALES PREMIUM UHD",UHD | HISTORY 2 ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338246.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | HISTORY  UHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/d07b76ebf71f8cfd877a7016bc3bc639.png" group-title="⭐ CANALES PREMIUM UHD",UHD | HISTORY  UHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/338214.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | HOLA TV" tvg-logo="https://pbs.twimg.com/profile_images/1101491804858433541/Y4ymYB5E_400x400.png" group-title="⭐ CANALES PREMIUM UHD",UHD | HOLA TV
+http://liontv.es:8080/live/NESTORCHI/GRETF/338251.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | MÁS CHIC ®" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/a/a4/M%25_3Fs_Chic.png" group-title="⭐ CANALES PREMIUM UHD",UHD | MÁS CHIC ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338263.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | MTV®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/1472px-MTV_Logo_2010.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | MTV®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338226.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | MTV LIVE" tvg-logo="http://51.222.43.170:36995/images/1d5288594747ab7bc87ae79442422726.png" group-title="⭐ CANALES PREMIUM UHD",UHD | MTV LIVE
+http://liontv.es:8080/live/NESTORCHI/GRETF/347300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | NATGEO®" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/National-Geographic-Logo.png" group-title="⭐ CANALES PREMIUM UHD",UHD | NATGEO®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338177.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | NICK ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_(Logo).png" group-title="⭐ CANALES PREMIUM UHD",UHD | NICK ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338219.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | NICK 2 ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Nick_2_Logo_alternative.png" group-title="⭐ CANALES PREMIUM UHD",UHD | NICK 2 ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338218.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | NICK JR UHD ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | NICK JR UHD ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338264.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | PARAMOUNT MX" tvg-logo="https://i.imgur.com/YlxkxAq.png" group-title="⭐ CANALES PREMIUM UHD",UHD | PARAMOUNT MX
+http://liontv.es:8080/live/NESTORCHI/GRETF/338201.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | PASIONES ®" tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/PASIONESHD/EXPORTACION_WEB/SS/PASIONESHD_t-290x163.png" group-title="⭐ CANALES PREMIUM UHD",UHD | PASIONES ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338202.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | SKY SPORTS UHD ®" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-vector-logo.png" group-title="⭐ CANALES PREMIUM UHD",UHD | SKY SPORTS UHD ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338276.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | SONY ®" tvg-logo="https://assets.stickpng.com/images/5848242ecef1014c0b5e49c8.png" group-title="⭐ CANALES PREMIUM UHD",UHD | SONY ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338203.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | SPACE ®" tvg-logo="https://i0.wp.com/webadictos.com/media/2020/03/space-tv.png?fit=600%2C323&ssl=1" group-title="⭐ CANALES PREMIUM UHD",UHD | SPACE ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | STAR CHANNEL UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="⭐ CANALES PREMIUM UHD",UHD | STAR CHANNEL UHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/338158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | STAR MOVIE UHD" tvg-logo="https://seeklogo.com/images/S/star-movies-logo-D9674609C3-seeklogo.com.png" group-title="⭐ CANALES PREMIUM UHD",UHD | STAR MOVIE UHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/338163.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | STAR TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="⭐ CANALES PREMIUM UHD",UHD | STAR TVE HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/338227.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | STUDIO UNIVERSAL ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | STUDIO UNIVERSAL ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338205.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | SUNDANCE ®" tvg-logo="https://findvectorlogo.com/wp-content/uploads/2019/08/sundancetv-vector-logo.png" group-title="⭐ CANALES PREMIUM UHD",UHD | SUNDANCE ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338228.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | SYFY ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/1200px-SYFY.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | SYFY ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | TEEN NICK ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_logo_2009.svg/1280px-TeenNick_logo_2009.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | TEEN NICK ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338247.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | TELEMUNDO ®" tvg-logo="https://www.briya.org/wp-content/uploads/2019/01/telemundo-logo.png" group-title="⭐ CANALES PREMIUM UHD",UHD | TELEMUNDO ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338220.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | TNT
+http://liontv.es:8080/live/NESTORCHI/GRETF/338175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="⭐ CANALES PREMIUM UHD",UHD | TNT SERIES
+http://liontv.es:8080/live/NESTORCHI/GRETF/338176.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4K | TNT Sports Ultimate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="⭐ CANALES PREMIUM UHD",4K | TNT Sports Ultimate
+http://liontv.es:8080/live/NESTORCHI/GRETF/338268.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | TUDN" tvg-logo="http://51.222.43.170:36995/images/06c9460347bd5f1229d48626ba513feb.png" group-title="⭐ CANALES PREMIUM UHD",UHD | TUDN
+http://liontv.es:8080/live/NESTORCHI/GRETF/347303.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | TYC SPORTS ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | TYC SPORTS ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338269.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | UNICABLE" tvg-logo="http://51.222.43.170:36995/images/ba098b8ef3a43cc97c8e1b101c3e6e69.png" group-title="⭐ CANALES PREMIUM UHD",UHD | UNICABLE
+http://liontv.es:8080/live/NESTORCHI/GRETF/347298.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | UNIMAS ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | UNIMAS ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338250.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | UNIMAS MIAMI ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | UNIMAS MIAMI ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338256.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | UNIMAS NEW YORK®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | UNIMAS NEW YORK®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338257.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | UNIVERSAL CHANNEL ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1200px-Universal_Channel_Logo_2013.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | UNIVERSAL CHANNEL ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338208.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | UNIVERSAL CRIME UHD" tvg-logo="https://i.imgur.com/okjyXsZ.png" group-title="⭐ CANALES PREMIUM UHD",UHD | UNIVERSAL CRIME UHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/338161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | UNIVERSAL PREMIERE UHD" tvg-logo="https://i.imgur.com/jGJqcCV.png" group-title="⭐ CANALES PREMIUM UHD",UHD | UNIVERSAL PREMIERE UHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/338160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | UNIVERSAL REALITY  UHD" tvg-logo="https://i.imgur.com/u4qg3dJ.png" group-title="⭐ CANALES PREMIUM UHD",UHD | UNIVERSAL REALITY  UHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/338159.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT |  Univision Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="⭐ CANALES PREMIUM UHD",LAT |  Univision Network HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/338249.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | VH1 ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | VH1 ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338230.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | WARNER ®" tvg-logo="https://assets.stickpng.com/images/58483b6d84e35b574e745381.png" group-title="⭐ CANALES PREMIUM UHD",UHD | WARNER ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338209.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | WIN SPORTS ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | WIN SPORTS ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338221.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 01" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 01
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442328.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 02" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 02
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442329.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 03" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 03
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442330.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 04" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 04
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442331.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 05" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 05
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442332.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 06" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 06
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442333.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 07" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 07
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442334.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 08" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 08
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442335.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 09" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 09
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442336.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 10" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 10
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442337.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 11" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 11
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442338.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 12" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 12
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442339.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 13" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 13
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442340.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 14" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 14
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442341.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 15" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 15
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442342.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 16" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 16
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442343.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 17" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 17
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442344.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 18" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 18
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442345.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 19" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 19
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442346.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 20" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 20
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442347.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 21" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 21
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442348.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 22" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 22
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442349.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 23" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 23
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442350.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 24" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 24
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442351.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 25" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 25
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442352.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 26" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 26
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442353.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 27" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 27
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442354.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 28" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 28
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442355.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 29" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 29
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442356.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 30" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 30
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442357.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 31" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 31
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442358.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 32" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 32
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442359.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 33" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 33
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 34" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 34
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442361.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 35" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 35
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442362.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 36" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 36
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442363.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 37" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 37
+http://liontv.es:8080/live/NESTORCHI/GRETF/1442364.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UHD | ESPN PLUS ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1280px-ESPN_Plus.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | ESPN PLUS ®
+http://liontv.es:8080/live/NESTORCHI/GRETF/338210.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | BEIN SPORTS  EXTRA USA" tvg-logo="https://ia800809.us.archive.org/25/items/BeinSportsUsaHd/bein%20sports%20usa%20hd.png" group-title="⚽ DEPORTES ʜᴅ",DHD | BEIN SPORTS  EXTRA USA
+http://liontv.es:8080/live/NESTORCHI/GRETF/64.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | BEIN SPORTS Ñ" tvg-logo="http://easytv.mx/wp-content/uploads/tv-logos/DEPORTES/beinsportn.png" group-title="⚽ DEPORTES ʜᴅ",DHD | BEIN SPORTS Ñ
+http://liontv.es:8080/live/NESTORCHI/GRETF/61847.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | BEIN SPORTS XTRA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest?cb=20201108180658" group-title="⚽ DEPORTES ʜᴅ",DHD | BEIN SPORTS XTRA
+http://liontv.es:8080/live/NESTORCHI/GRETF/65.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | CBS SPORTS GOLAZO" tvg-logo="https://go4.pw/usa/Cbs_Sports_Golazo_Network_Hd.png" group-title="⚽ DEPORTES ʜᴅ",DHD | CBS SPORTS GOLAZO
+http://liontv.es:8080/live/NESTORCHI/GRETF/1446705.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | CBS SPORTS NETWORK" tvg-logo="https://i.imgur.com/tDJ93be.png" group-title="⚽ DEPORTES ʜᴅ",DHD | CBS SPORTS NETWORK
+http://liontv.es:8080/live/NESTORCHI/GRETF/875899.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | CLARO SPORTS 1" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports-mediano.png" group-title="⚽ DEPORTES ʜᴅ",DHD | CLARO SPORTS 1
+http://liontv.es:8080/live/NESTORCHI/GRETF/66.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | D@ZN_ITALIAT_1" tvg-logo="https://i.ibb.co/fGMFyCtB/Whats-App-Image-2026-02-20-at-01-26-25.jpg" group-title="⚽ DEPORTES ʜᴅ",DHD | D@ZN_ITALIAT_1
+http://liontv.es:8080/live/NESTORCHI/GRETF/507089.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG | Directv Sports 1 HD" tvg-logo="https://go4.pw/LATINO/DIRECTTVSPORTS.png" group-title="⚽ DEPORTES ʜᴅ",ARG | Directv Sports 1 HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/625589.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | DIRECTV SPORTS +" tvg-logo="https://go4.pw/LATINO/DIRECTTVSPORTS.png" group-title="⚽ DEPORTES ʜᴅ",DHD | DIRECTV SPORTS +
+http://liontv.es:8080/live/NESTORCHI/GRETF/69.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | DIRECTV SPORTS 2" tvg-logo="https://go4.pw/LATINO/DIRECTTVSPORTS.png" group-title="⚽ DEPORTES ʜᴅ",DHD | DIRECTV SPORTS 2
+http://liontv.es:8080/live/NESTORCHI/GRETF/72.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | EL CANAL DEL FUTBOL" tvg-logo="https://go4.pw/LATINO/futbol.png" group-title="⚽ DEPORTES ʜᴅ",DHD | EL CANAL DEL FUTBOL
+http://liontv.es:8080/live/NESTORCHI/GRETF/478703.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | D@ZN_PT_1" tvg-logo="https://i.ibb.co/fGMFyCtB/Whats-App-Image-2026-02-20-at-01-26-25.jpg" group-title="⚽ DEPORTES ʜᴅ",DHD | D@ZN_PT_1
+http://liontv.es:8080/live/NESTORCHI/GRETF/491393.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | D@ZN_PT_2" tvg-logo="https://i.ibb.co/0wDpYWC/Whats-App-Image-2026-02-20-at-01-29-12.jpg" group-title="⚽ DEPORTES ʜᴅ",DHD | D@ZN_PT_2
+http://liontv.es:8080/live/NESTORCHI/GRETF/491394.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | D@ZN_PT_3" tvg-logo="https://i.ibb.co/wNx0H5Vn/Whats-App-Image-2026-02-20-at-01-28-51.jpg" group-title="⚽ DEPORTES ʜᴅ",DHD | D@ZN_PT_3
+http://liontv.es:8080/live/NESTORCHI/GRETF/491395.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | D@ZN_PT_4" tvg-logo="https://i.ibb.co/RryBDdX/Whats-App-Image-2026-02-20-at-01-28-31.jpg" group-title="⚽ DEPORTES ʜᴅ",DHD | D@ZN_PT_4
+http://liontv.es:8080/live/NESTORCHI/GRETF/634170.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | D@ZN_PT_5" tvg-logo="https://i.ibb.co/B28QpjDk/Whats-App-Image-2026-02-20-at-01-29-45.jpg" group-title="⚽ DEPORTES ʜᴅ",DHD | D@ZN_PT_5
+http://liontv.es:8080/live/NESTORCHI/GRETF/491397.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | ESPN 1 ARG" tvg-logo="https://go4.pw/AMERICA/USA/ESPN.png" group-title="⚽ DEPORTES ʜᴅ",DHD | ESPN 1 ARG
+http://liontv.es:8080/live/NESTORCHI/GRETF/73.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | ESPN 1 BR" tvg-logo="https://go4.pw/AMERICA/USA/ESPN.png" group-title="⚽ DEPORTES ʜᴅ",DHD | ESPN 1 BR
+http://liontv.es:8080/live/NESTORCHI/GRETF/1395516.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | ESPN 1 CHI" tvg-logo="https://go4.pw/AMERICA/USA/ESPN.png" group-title="⚽ DEPORTES ʜᴅ",DHD | ESPN 1 CHI
+http://liontv.es:8080/live/NESTORCHI/GRETF/496558.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | ESPN 1 MX" tvg-logo="https://go4.pw/AMERICA/USA/ESPN.png" group-title="⚽ DEPORTES ʜᴅ",DHD | ESPN 1 MX
+http://liontv.es:8080/live/NESTORCHI/GRETF/75.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | ESPN 1 USA" tvg-logo="https://go4.pw/AMERICA/USA/ESPN.png" group-title="⚽ DEPORTES ʜᴅ",DHD | ESPN 1 USA
+http://liontv.es:8080/live/NESTORCHI/GRETF/55628.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | ESPN 2 ARG" tvg-logo="https://go4.pw/LATINO/ESPN2.png" group-title="⚽ DEPORTES ʜᴅ",DHD | ESPN 2 ARG
+http://liontv.es:8080/live/NESTORCHI/GRETF/61875.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | ESPN 2 BRA" tvg-logo="https://go4.pw/AMERICA/BRASIL/ESPN-1.png" group-title="⚽ DEPORTES ʜᴅ",DHD | ESPN 2 BRA
+http://liontv.es:8080/live/NESTORCHI/GRETF/496559.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | ESPN 2 COL" tvg-logo="https://go4.pw/LATINO/ESPN2.png" group-title="⚽ DEPORTES ʜᴅ",DHD | ESPN 2 COL
+http://liontv.es:8080/live/NESTORCHI/GRETF/78.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD |  ESPN 2 MX" tvg-logo="https://go4.pw/Mexico/espn2.png" group-title="⚽ DEPORTES ʜᴅ",DHD |  ESPN 2 MX
+http://liontv.es:8080/live/NESTORCHI/GRETF/61876.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD |  ESPN 2 USA" tvg-logo="https://go4.pw/AMERICA/USA/ESPN.png" group-title="⚽ DEPORTES ʜᴅ",DHD |  ESPN 2 USA
+http://liontv.es:8080/live/NESTORCHI/GRETF/61885.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | ESPN 3 ARG" tvg-logo="https://go4.pw/LATINO/ESPN3.png" group-title="⚽ DEPORTES ʜᴅ",DHD | ESPN 3 ARG
+http://liontv.es:8080/live/NESTORCHI/GRETF/61880.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD |  ESPN 3 COL" tvg-logo="https://go4.pw/LATINO/MEXICO/ESPN3.png" group-title="⚽ DEPORTES ʜᴅ",DHD |  ESPN 3 COL
+http://liontv.es:8080/live/NESTORCHI/GRETF/80.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | ESPN 3 MX" tvg-logo="https://go4.pw/LATINO/MEXICO/ESPN3.png" group-title="⚽ DEPORTES ʜᴅ",DHD | ESPN 3 MX
+http://liontv.es:8080/live/NESTORCHI/GRETF/81.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | ESPN 4 ARG" tvg-logo="https://go4.pw/EUROPE/GERMANY/ESPN_4_.png" group-title="⚽ DEPORTES ʜᴅ",DHD | ESPN 4 ARG
+http://liontv.es:8080/live/NESTORCHI/GRETF/61884.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | ESPN 4 MX" tvg-logo="https://go4.pw/EUROPE/GERMANY/ESPN_4_.png" group-title="⚽ DEPORTES ʜᴅ",DHD | ESPN 4 MX
+http://liontv.es:8080/live/NESTORCHI/GRETF/83.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | ESPN 5 ARG" tvg-logo="https://go4.pw/AMERICA/USA/ESPN.png" group-title="⚽ DEPORTES ʜᴅ",DHD | ESPN 5 ARG
+http://liontv.es:8080/live/NESTORCHI/GRETF/61883.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | ESPN 5 BRA" tvg-logo="https://go4.pw/AMERICA/BRASIL/ESPN-1.png" group-title="⚽ DEPORTES ʜᴅ",DHD | ESPN 5 BRA
+http://liontv.es:8080/live/NESTORCHI/GRETF/500830.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | ESPN 6" tvg-logo="https://go4.pw/AUSTRALIA/espn.png" group-title="⚽ DEPORTES ʜᴅ",DHD | ESPN 6
+http://liontv.es:8080/live/NESTORCHI/GRETF/98.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | ESPN 6 BRA" tvg-logo="https://go4.pw/AMERICA/BRASIL/ESPN-1.png" group-title="⚽ DEPORTES ʜᴅ",DHD | ESPN 6 BRA
+http://liontv.es:8080/live/NESTORCHI/GRETF/496561.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | ESPN 7" tvg-logo="https://go4.pw/AUSTRALIA/espn.png" group-title="⚽ DEPORTES ʜᴅ",DHD | ESPN 7
+http://liontv.es:8080/live/NESTORCHI/GRETF/94.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | ESPN DEPORTES USA" tvg-logo="https://a.espncdn.com/i/espn/networks_shows/radio/crops/500/espn_deportes_red.png" group-title="⚽ DEPORTES ʜᴅ",DHD | ESPN DEPORTES USA
+http://liontv.es:8080/live/NESTORCHI/GRETF/453.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | ESPN NEWS USA" tvg-logo="https://go4.pw/AMERICA/USA/ESPN.png" group-title="⚽ DEPORTES ʜᴅ",DHD | ESPN NEWS USA
+http://liontv.es:8080/live/NESTORCHI/GRETF/496563.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | ESPN PREMIUM ARG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/ESPN_Premium_%282022%29.svg/revision/latest/scale-to-width-down/200?cb=20220505041004" group-title="⚽ DEPORTES ʜᴅ",DHD | ESPN PREMIUM ARG
+http://liontv.es:8080/live/NESTORCHI/GRETF/118058.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | ESPN PREMIUM CH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/ESPN_Premium_%282022%29.svg/revision/latest/scale-to-width-down/200?cb=20220505041004" group-title="⚽ DEPORTES ʜᴅ",DHD | ESPN PREMIUM CH
+http://liontv.es:8080/live/NESTORCHI/GRETF/89.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD |  ESPN U USA" tvg-logo="https://espnpressroom.com/us/files/2020/07/ESPNU-1.png" group-title="⚽ DEPORTES ʜᴅ",DHD |  ESPN U USA
+http://liontv.es:8080/live/NESTORCHI/GRETF/353437.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | EUROSPORT 2" tvg-logo="https://go4.pw/EUROPE/FRANCE/EUROSPORT2HD.png" group-title="⚽ DEPORTES ʜᴅ",DHD | EUROSPORT 2
+http://liontv.es:8080/live/NESTORCHI/GRETF/538498.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | EUROSPORTS 1" tvg-logo="https://go4.pw/EUROPE/FRANCE/EUROSPORT1HD.png" group-title="⚽ DEPORTES ʜᴅ",DHD | EUROSPORTS 1
+http://liontv.es:8080/live/NESTORCHI/GRETF/85.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | FIGHT NETWORK" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/FIGHTNETWORK-1.png" group-title="⚽ DEPORTES ʜᴅ",DHD | FIGHT NETWORK
+http://liontv.es:8080/live/NESTORCHI/GRETF/86.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD |  FOX DEPORTES USA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_deportes-mediano.png" group-title="⚽ DEPORTES ʜᴅ",DHD |  FOX DEPORTES USA
+http://liontv.es:8080/live/NESTORCHI/GRETF/332125.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD |  FOX SOCCER PLUS USA" tvg-logo="http://xplatinmedia.com:8080/images/0e8cc25a24963c882eff468246000bf7.png" group-title="⚽ DEPORTES ʜᴅ",DHD |  FOX SOCCER PLUS USA
+http://liontv.es:8080/live/NESTORCHI/GRETF/332126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | FOX SPORTS 1 ARG" tvg-logo="https://go4.pw/LATINO/MEXICO/foxsport1.png" group-title="⚽ DEPORTES ʜᴅ",DHD | FOX SPORTS 1 ARG
+http://liontv.es:8080/live/NESTORCHI/GRETF/88.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | FOX SPORTS 1 MX" tvg-logo="https://go4.pw/LATINO/MEXICO/foxsport1.png" group-title="⚽ DEPORTES ʜᴅ",DHD | FOX SPORTS 1 MX
+http://liontv.es:8080/live/NESTORCHI/GRETF/91.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD |  FOX SPORTS 1 USA" tvg-logo="https://go4.pw/EUROPE/GERMANY/FOX_Sports.png" group-title="⚽ DEPORTES ʜᴅ",DHD |  FOX SPORTS 1 USA
+http://liontv.es:8080/live/NESTORCHI/GRETF/332128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | FOX SPORTS 2 ARG" tvg-logo="https://go4.pw/Mexico/fox2.png" group-title="⚽ DEPORTES ʜᴅ",DHD | FOX SPORTS 2 ARG
+http://liontv.es:8080/live/NESTORCHI/GRETF/92.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD |  FOX SPORTS 2 MX" tvg-logo="https://go4.pw/Mexico/fox2.png" group-title="⚽ DEPORTES ʜᴅ",DHD |  FOX SPORTS 2 MX
+http://liontv.es:8080/live/NESTORCHI/GRETF/95.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD |  FOX SPORTS 2 USA" tvg-logo="https://go4.pw/LATINO/MEXICO/FOXSPORT2.png" group-title="⚽ DEPORTES ʜᴅ",DHD |  FOX SPORTS 2 USA
+http://liontv.es:8080/live/NESTORCHI/GRETF/332120.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | FOX SPORTS 3 ARG" tvg-logo="https://go4.pw/Mexico/fox3.png" group-title="⚽ DEPORTES ʜᴅ",DHD | FOX SPORTS 3 ARG
+http://liontv.es:8080/live/NESTORCHI/GRETF/96.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD |  FOX SPORTS 3 MX" tvg-logo="https://go4.pw/Mexico/fox3.png" group-title="⚽ DEPORTES ʜᴅ",DHD |  FOX SPORTS 3 MX
+http://liontv.es:8080/live/NESTORCHI/GRETF/99.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | FOX SPORTS PREMIUM MX" tvg-logo="https://go4.pw/Mexico/foxpremium.png" group-title="⚽ DEPORTES ʜᴅ",DHD | FOX SPORTS PREMIUM MX
+http://liontv.es:8080/live/NESTORCHI/GRETF/330826.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | GOLF CHANNEL LATAM" tvg-logo="https://go4.pw/AMERICA/USA/NBCGOLFCHANNEL.png" group-title="⚽ DEPORTES ʜᴅ",DHD | GOLF CHANNEL LATAM
+http://liontv.es:8080/live/NESTORCHI/GRETF/68.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD |  GOLF CHANNEL USA" tvg-logo="https://go4.pw/AMERICA/USA/NBCGOLFCHANNEL.png" group-title="⚽ DEPORTES ʜᴅ",DHD |  GOLF CHANNEL USA
+http://liontv.es:8080/live/NESTORCHI/GRETF/103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | LA SEXTA" tvg-logo="https://go4.pw/EUROPE/SPAIN/LASEXTAHD.png" group-title="⚽ DEPORTES ʜᴅ",DHD | LA SEXTA
+http://liontv.es:8080/live/NESTORCHI/GRETF/538500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | LONGHORN NETWORKT USA" tvg-logo="https://static.diceplatform.com/prod/original/dce.longhorns/section/home/LHN_Secondary.yPLbt.It3OS.png" group-title="⚽ DEPORTES ʜᴅ",DHD | LONGHORN NETWORKT USA
+http://liontv.es:8080/live/NESTORCHI/GRETF/560299.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | MARQUEE SPORTS NETWORK" tvg-logo="https://go4.pw/USA/marq.png" group-title="⚽ DEPORTES ʜᴅ",DHD | MARQUEE SPORTS NETWORK
+http://liontv.es:8080/live/NESTORCHI/GRETF/348167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | MEGA (CHIRINGUITO DE JUGONES)" tvg-logo="https://go4.pw/EUROPE/SPAIN/MEGAHD.png" group-title="⚽ DEPORTES ʜᴅ",DHD | MEGA (CHIRINGUITO DE JUGONES)
+http://liontv.es:8080/live/NESTORCHI/GRETF/71429.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | MLB NETWORK" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=179" group-title="⚽ DEPORTES ʜᴅ",DHD | MLB NETWORK
+http://liontv.es:8080/live/NESTORCHI/GRETF/55624.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | MOTORSPORT" tvg-logo="https://go4.pw/AUSTRALIA/Motorsport.png" group-title="⚽ DEPORTES ʜᴅ",DHD | MOTORSPORT
+http://liontv.es:8080/live/NESTORCHI/GRETF/463635.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | MOVISTAR DEPORTES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Deportes_por_Movistar_Plus%2B.svg/revision/latest/scale-to-width-down/309?cb=20220123153347&path-prefix=es" group-title="⚽ DEPORTES ʜᴅ",DHD | MOVISTAR DEPORTES
+http://liontv.es:8080/live/NESTORCHI/GRETF/104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | MOVISTAR LIGA DE CAMPEONES" tvg-logo="https://go4.pw/SPAIN/LCAMPEON.png" group-title="⚽ DEPORTES ʜᴅ",DHD | MOVISTAR LIGA DE CAMPEONES
+http://liontv.es:8080/live/NESTORCHI/GRETF/121.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | MOVISTAR + VAMOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Vamos_por_Movistar_Plus%2B.svg/revision/latest/scale-to-width-down/315?cb=20220123151045&path-prefix=es" group-title="⚽ DEPORTES ʜᴅ",DHD | MOVISTAR + VAMOS
+http://liontv.es:8080/live/NESTORCHI/GRETF/501555.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | NBA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPk8ohoa908QfwU1xhmVkJ7NlHzlumzXkFNXpKMmR3BJ_uou68MYOceejmur7EjwDHaw&usqp=CAU" group-title="⚽ DEPORTES ʜᴅ",DHD | NBA TV
+http://liontv.es:8080/live/NESTORCHI/GRETF/1371564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | NBC UNIVERSO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universo-mediano.png" group-title="⚽ DEPORTES ʜᴅ",DHD | NBC UNIVERSO
+http://liontv.es:8080/live/NESTORCHI/GRETF/26605.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | NFL NETWORK" tvg-logo="https://go4.pw/AMERICA/USA/NFLNETWORK.png" group-title="⚽ DEPORTES ʜᴅ",DHD | NFL NETWORK
+http://liontv.es:8080/live/NESTORCHI/GRETF/55626.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | NHL Network" tvg-logo="https://go4.pw/CANADA/NHL_Network_HD.png" group-title="⚽ DEPORTES ʜᴅ",DHD | NHL Network
+http://liontv.es:8080/live/NESTORCHI/GRETF/332677.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | REAL MADRID TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/real_madrid_tv-mediano.png" group-title="⚽ DEPORTES ʜᴅ",DHD | REAL MADRID TV
+http://liontv.es:8080/live/NESTORCHI/GRETF/451.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | REDBULL TV USA" tvg-logo="https://go4.pw/germany/REDBULL.png" group-title="⚽ DEPORTES ʜᴅ",DHD | REDBULL TV USA
+http://liontv.es:8080/live/NESTORCHI/GRETF/560297.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | SKY SPORTS BUNDESLIGA" tvg-logo="https://i.imgur.com/KKTEot6.png" group-title="⚽ DEPORTES ʜᴅ",DHD | SKY SPORTS BUNDESLIGA
+http://liontv.es:8080/live/NESTORCHI/GRETF/497772.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | SKY SPORTS GOLF HD" tvg-logo="https://i.imgur.com/vHZZqLo.png" group-title="⚽ DEPORTES ʜᴅ",DHD | SKY SPORTS GOLF HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/856423.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | SKY SPORTS LIGA ESPAÑA" tvg-logo="https://i.imgur.com/KKTEot6.png" group-title="⚽ DEPORTES ʜᴅ",DHD | SKY SPORTS LIGA ESPAÑA
+http://liontv.es:8080/live/NESTORCHI/GRETF/109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | SKY SPORTS PREMIER LEAGUE" tvg-logo="https://i.imgur.com/KKTEot6.png" group-title="⚽ DEPORTES ʜᴅ",DHD | SKY SPORTS PREMIER LEAGUE
+http://liontv.es:8080/live/NESTORCHI/GRETF/24183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | SPACE CITY HOME NETWORK" tvg-logo="https://go4.pw/USA/Space_City_Home_Network.png" group-title="⚽ DEPORTES ʜᴅ",DHD | SPACE CITY HOME NETWORK
+http://liontv.es:8080/live/NESTORCHI/GRETF/1379566.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | SPORTSNETS ONTARIO CAN" tvg-logo="https://go4.pw/CANADA/SPORTSNET.png" group-title="⚽ DEPORTES ʜᴅ",DHD | SPORTSNETS ONTARIO CAN
+http://liontv.es:8080/live/NESTORCHI/GRETF/348164.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | SPORTSNET WORLD" tvg-logo="https://go4.pw/CANADA/SPORTSNET.png" group-title="⚽ DEPORTES ʜᴅ",DHD | SPORTSNET WORLD
+http://liontv.es:8080/live/NESTORCHI/GRETF/348166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | SPORTV 1 BR" tvg-logo="https://go4.pw/BRAZIL/SP.png" group-title="⚽ DEPORTES ʜᴅ",DHD | SPORTV 1 BR
+http://liontv.es:8080/live/NESTORCHI/GRETF/348157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | S.P.O.R.T.V 1 POR" tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="⚽ DEPORTES ʜᴅ",DHD | S.P.O.R.T.V 1 POR
+http://liontv.es:8080/live/NESTORCHI/GRETF/555425.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | SPORTV 2 BR" tvg-logo="https://go4.pw/BRAZIL/SP2.png" group-title="⚽ DEPORTES ʜᴅ",DHD | SPORTV 2 BR
+http://liontv.es:8080/live/NESTORCHI/GRETF/348154.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | S.P.O.R.T.V 2 POR" tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="⚽ DEPORTES ʜᴅ",DHD | S.P.O.R.T.V 2 POR
+http://liontv.es:8080/live/NESTORCHI/GRETF/555426.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | SPORTV 3 BR" tvg-logo="https://go4.pw/BRAZIL/SP3.png" group-title="⚽ DEPORTES ʜᴅ",DHD | SPORTV 3 BR
+http://liontv.es:8080/live/NESTORCHI/GRETF/348151.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | S.P.O.R.T.V 3 POR" tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="⚽ DEPORTES ʜᴅ",DHD | S.P.O.R.T.V 3 POR
+http://liontv.es:8080/live/NESTORCHI/GRETF/1420917.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | S.P.O.R.T.V 4 POR" tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="⚽ DEPORTES ʜᴅ",DHD | S.P.O.R.T.V 4 POR
+http://liontv.es:8080/live/NESTORCHI/GRETF/1420918.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | S.P.O.R.T.V PLUS POR" tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="⚽ DEPORTES ʜᴅ",DHD | S.P.O.R.T.V PLUS POR
+http://liontv.es:8080/live/NESTORCHI/GRETF/555424.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD |  SUPERSPORTS PREMIER LEAGUE UK" tvg-logo="http://xplatinmedia.com:8080/images/abf7c1dd49819958605fb239152b7e77.png" group-title="⚽ DEPORTES ʜᴅ",DHD |  SUPERSPORTS PREMIER LEAGUE UK
+http://liontv.es:8080/live/NESTORCHI/GRETF/353429.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | TENNIS CHANNEL T2 US" tvg-logo="https://go4.pw/USA/teni.png" group-title="⚽ DEPORTES ʜᴅ",DHD | TENNIS CHANNEL T2 US
+http://liontv.es:8080/live/NESTORCHI/GRETF/791707.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | TENNIS CHANNEL US" tvg-logo="https://go4.pw/USA/teni.png" group-title="⚽ DEPORTES ʜᴅ",DHD | TENNIS CHANNEL US
+http://liontv.es:8080/live/NESTORCHI/GRETF/774321.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | TNT Sports 1 UK" tvg-logo="https://go4.pw/UK/bt-1.png" group-title="⚽ DEPORTES ʜᴅ",DHD | TNT Sports 1 UK
+http://liontv.es:8080/live/NESTORCHI/GRETF/791878.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | TNT Sports 2 UK" tvg-logo="https://go4.pw/UK/bt-2.png" group-title="⚽ DEPORTES ʜᴅ",DHD | TNT Sports 2 UK
+http://liontv.es:8080/live/NESTORCHI/GRETF/791879.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | TNT SPORTS 3 CH" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports_3_chile-mediano.png" group-title="⚽ DEPORTES ʜᴅ",DHD | TNT SPORTS 3 CH
+http://liontv.es:8080/live/NESTORCHI/GRETF/331617.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | TNT Sports 3 UK" tvg-logo="https://go4.pw/UK/bt-3.png" group-title="⚽ DEPORTES ʜᴅ",DHD | TNT Sports 3 UK
+http://liontv.es:8080/live/NESTORCHI/GRETF/791880.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | TNT Sports 4 UK" tvg-logo="https://go4.pw/AMERICA/USA/BTSPORT_4.png" group-title="⚽ DEPORTES ʜᴅ",DHD | TNT Sports 4 UK
+http://liontv.es:8080/live/NESTORCHI/GRETF/791881.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | TNT SPORTS ARG" tvg-logo="https://go4.pw/LATINO/tnt-sports.png" group-title="⚽ DEPORTES ʜᴅ",DHD | TNT SPORTS ARG
+http://liontv.es:8080/live/NESTORCHI/GRETF/115.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | TNT SPORTS CH" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports-mediano.png" group-title="⚽ DEPORTES ʜᴅ",DHD | TNT SPORTS CH
+http://liontv.es:8080/live/NESTORCHI/GRETF/331615.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | TNT SPORTS PREMIUM CH" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports_2_chile-mediano.png" group-title="⚽ DEPORTES ʜᴅ",DHD | TNT SPORTS PREMIUM CH
+http://liontv.es:8080/live/NESTORCHI/GRETF/331616.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | TOROS ES" tvg-logo="https://go4.pw/EUROPE/SPAIN/TOROSHD.png" group-title="⚽ DEPORTES ʜᴅ",DHD | TOROS ES
+http://liontv.es:8080/live/NESTORCHI/GRETF/348153.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | TSN 1 CAN" tvg-logo="https://go4.pw/CANADA/TSN1.png" group-title="⚽ DEPORTES ʜᴅ",DHD | TSN 1 CAN
+http://liontv.es:8080/live/NESTORCHI/GRETF/348162.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | TSN 2 CAN" tvg-logo="https://go4.pw/CANADA/TSN2.png" group-title="⚽ DEPORTES ʜᴅ",DHD | TSN 2 CAN
+http://liontv.es:8080/live/NESTORCHI/GRETF/349155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | TSN 3 CAN" tvg-logo="https://go4.pw/CANADA/TSN3.png" group-title="⚽ DEPORTES ʜᴅ",DHD | TSN 3 CAN
+http://liontv.es:8080/live/NESTORCHI/GRETF/349156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | TSN 4 CAN" tvg-logo="https://go4.pw/CANADA/TSN4.png" group-title="⚽ DEPORTES ʜᴅ",DHD | TSN 4 CAN
+http://liontv.es:8080/live/NESTORCHI/GRETF/349157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | TSN 5 CAN" tvg-logo="https://go4.pw/CANADA/TSN5.png" group-title="⚽ DEPORTES ʜᴅ",DHD | TSN 5 CAN
+http://liontv.es:8080/live/NESTORCHI/GRETF/349158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | TUDN MX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/TUDN.png/revision/latest/scale-to-width-down/350?cb=20190827032433&path-prefix=es" group-title="⚽ DEPORTES ʜᴅ",DHD | TUDN MX
+http://liontv.es:8080/live/NESTORCHI/GRETF/118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | TUDN USA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/TUDN.png/revision/latest/scale-to-width-down/350?cb=20190827032433&path-prefix=es" group-title="⚽ DEPORTES ʜᴅ",DHD | TUDN USA
+http://liontv.es:8080/live/NESTORCHI/GRETF/7516.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | TYC INTERNACIONAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest/scale-to-width-down/320?cb=20190620182054&path-prefix=es" group-title="⚽ DEPORTES ʜᴅ",DHD | TYC INTERNACIONAL
+http://liontv.es:8080/live/NESTORCHI/GRETF/55625.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | TyC  SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest/scale-to-width-down/320?cb=20190620182054&path-prefix=es" group-title="⚽ DEPORTES ʜᴅ",DHD | TyC  SPORTS
+http://liontv.es:8080/live/NESTORCHI/GRETF/503108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | USA: THE COWBOY CHANNEL" tvg-logo="https://go4.pw/USA/cowboy1.png" group-title="⚽ DEPORTES ʜᴅ",DHD | USA: THE COWBOY CHANNEL
+http://liontv.es:8080/live/NESTORCHI/GRETF/560294.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | USA: WWE NETWORK" tvg-logo="https://go4.pw/USA/SD2/15.png" group-title="⚽ DEPORTES ʜᴅ",DHD | USA: WWE NETWORK
+http://liontv.es:8080/live/NESTORCHI/GRETF/560295.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | V.I.X.+ L.A L.I.G.A" tvg-logo="https://go4.pw/LATINO/VIX.png" group-title="⚽ DEPORTES ʜᴅ",DHD | V.I.X.+ L.A L.I.G.A
+http://liontv.es:8080/live/NESTORCHI/GRETF/111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | WIN SPORTS" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/633.png" group-title="⚽ DEPORTES ʜᴅ",DHD | WIN SPORTS
+http://liontv.es:8080/live/NESTORCHI/GRETF/116020.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | WIN SPORTS +" tvg-logo="https://go4.pw/LATINO/WINSPORT.png" group-title="⚽ DEPORTES ʜᴅ",DHD | WIN SPORTS +
+http://liontv.es:8080/live/NESTORCHI/GRETF/340508.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | YES NETWORK" tvg-logo="https://go4.pw/AMERICA/USA/YESNETWORK.png" group-title="⚽ DEPORTES ʜᴅ",DHD | YES NETWORK
+http://liontv.es:8080/live/NESTORCHI/GRETF/329047.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | ZONA FUTBOL" tvg-logo="http://51.222.152.107:81/content/images/ics/1648287039445.png" group-title="⚽ DEPORTES ʜᴅ",DHD | ZONA FUTBOL
+http://liontv.es:8080/live/NESTORCHI/GRETF/327377.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHD | ZONA TUDN MX" tvg-logo="https://iili.io/J2wureR.md.png" group-title="⚽ DEPORTES ʜᴅ",DHD | ZONA TUDN MX
+http://liontv.es:8080/live/NESTORCHI/GRETF/1399343.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | ADRENALINA SPORTS HD" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=1466" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | ADRENALINA SPORTS HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345269.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | BEIN SPORTS USA  HD" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=642" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | BEIN SPORTS USA  HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345285.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | CLARO SPORTS HD" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=1762" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | CLARO SPORTS HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345271.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | DAZN 1 HD" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=1819" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | DAZN 1 HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345248.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | DAZN 2 HD" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=1819" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | DAZN 2 HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345247.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | DAZN 3 HD" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=1819" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | DAZN 3 HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345246.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | DAZN 4 HD" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=1819" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | DAZN 4 HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345245.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | DIRECTV SPORTS 1" tvg-logo="https://i.imgur.com/jtYG9k8.jpg" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | DIRECTV SPORTS 1
+http://liontv.es:8080/live/NESTORCHI/GRETF/345291.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | DIRECTV SPORTS 2 HD" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=1824" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | DIRECTV SPORTS 2 HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345264.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | DIRECTV SPORTS + HD" tvg-logo="https://i.imgur.com/TE1hgew.png" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | DIRECTV SPORTS + HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345293.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | ESPN 1 ARG" tvg-logo="https://i.imgur.com/GL8U2qC.jpg" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | ESPN 1 ARG
+http://liontv.es:8080/live/NESTORCHI/GRETF/345292.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | ESPN 1 MX HD" tvg-logo="https://i.imgur.com/GL8U2qC.jpg" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | ESPN 1 MX HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | ESPN 1 USA HD" tvg-logo="https://i.imgur.com/GL8U2qC.jpg" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | ESPN 1 USA HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345282.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | ESPN 2 MX HD" tvg-logo="https://i.imgur.com/zQoasWk.jpg" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | ESPN 2 MX HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345281.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | ESPN 2 USA HD" tvg-logo="https://i.imgur.com/zQoasWk.jpg" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | ESPN 2 USA HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345272.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | ESPN 3 HD" tvg-logo="https://i.imgur.com/wjBRbMW.jpg" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | ESPN 3 HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345265.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | ESPN 4 HD" tvg-logo="https://i.imgur.com/AMGIfMt.png" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | ESPN 4 HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345268.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | ESPN DEPORTES SD" tvg-logo="https://i.imgur.com/7P5pVlG.png" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | ESPN DEPORTES SD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345284.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | EUROSPORT 1 HD" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=1756" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | EUROSPORT 1 HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345267.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | FIGHT NETWORK HD" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=1758" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | FIGHT NETWORK HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345260.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | FISH NETWORK HD" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=979" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | FISH NETWORK HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345259.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | FORMULA 1 HD" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=1584" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | FORMULA 1 HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345289.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | FOX DEPORTES HD" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=188" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | FOX DEPORTES HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345263.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | FOX SOCCER" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=202" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | FOX SOCCER
+http://liontv.es:8080/live/NESTORCHI/GRETF/345276.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | FOX SPORTS 1 MX HD" tvg-logo="https://i.imgur.com/u6dJgey.png" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | FOX SPORTS 1 MX HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345280.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | FOX SPORTS 2 MX HD" tvg-logo="https://i.imgur.com/GdkLKEd.png" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | FOX SPORTS 2 MX HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345279.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | FOX SPORTS 3 MX HD" tvg-logo="https://i.imgur.com/BeIDgpM.png" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | FOX SPORTS 3 MX HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345278.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | FOX SPORTS PREMIUM HD" tvg-logo="https://i.imgur.com/dRRAFca.png" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | FOX SPORTS PREMIUM HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345277.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | FOX SPORTS US HD" tvg-logo="https://i.imgur.com/BEFaYzg.png" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | FOX SPORTS US HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345275.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | MLB NETWORK HD" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=179" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | MLB NETWORK HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345258.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | MOTOR TREND HD" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=1644" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | MOTOR TREND HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345252.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | Movistar Liga De Campeones HD" tvg-logo="https://i.imgur.com/2aZfEzy.png" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | Movistar Liga De Campeones HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345295.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | NBA TV HD" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=1343" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | NBA TV HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345243.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | NFL NETWORK HD" tvg-logo="http://51.222.43.170:8001/images/45c466aa2042c9fbcc75d02e6b7b2f6a.png" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | NFL NETWORK HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345273.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | SKY SPORTS 16 HD" tvg-logo="https://i.imgur.com/KKTEot6.png" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | SKY SPORTS 16 HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345242.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | TSN 1 HD" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=1787" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | TSN 1 HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345254.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | TSN 2 HD" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=1787" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | TSN 2 HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345253.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | TUDN MX  HD" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=1450" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | TUDN MX  HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345286.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | TUDN USA SD" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=1450" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | TUDN USA SD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345274.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | TYC SPORTS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest/scale-to-width-down/320?cb=20190620182054&path-prefix=es" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | TYC SPORTS HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345262.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | TYC SPORTS INTERNACIONAL HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest/scale-to-width-down/320?cb=20190620182054&path-prefix=es" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | TYC SPORTS INTERNACIONAL HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345294.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | UFC NETWORK HD" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=17" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | UFC NETWORK HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345261.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep. +3Mbps | WWE NETWORK HD" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=1300" group-title="⚽ DEPORTES +3Mbps",Dep. +3Mbps | WWE NETWORK HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/345290.m3u8
+#EXTINF:-1 tvg-id="ffbb6bfe-2bd3-4b04-823b-e43438f30777" tvg-name="24/7 4K UHD - 01" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/018/107/390/small_2x/4k-ultra-hd-resolution-sign-icon-png.png" group-title="▶️ 24/7 4K & 60 FPS",24/7 4K UHD - 01
+http://liontv.es:8080/live/NESTORCHI/GRETF/817480.m3u8
+#EXTINF:-1 tvg-id="d3d85a09-517e-4ee0-8837-7c80fa6d6645" tvg-name="24/7 4K UHD - 02" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/018/107/390/small_2x/4k-ultra-hd-resolution-sign-icon-png.png" group-title="▶️ 24/7 4K & 60 FPS",24/7 4K UHD - 02
+http://liontv.es:8080/live/NESTORCHI/GRETF/817481.m3u8
+#EXTINF:-1 tvg-id="49e76ea6-7f93-4327-8a70-039870d7c318" tvg-name="24/7 4K UHD - 03" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/018/107/390/small_2x/4k-ultra-hd-resolution-sign-icon-png.png" group-title="▶️ 24/7 4K & 60 FPS",24/7 4K UHD - 03
+http://liontv.es:8080/live/NESTORCHI/GRETF/817482.m3u8
+#EXTINF:-1 tvg-id="c36e18f7-8926-47ad-9b5b-10f0be683ea4" tvg-name="24/7 60 FPS - ACCION" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/018/107/390/small_2x/4k-ultra-hd-resolution-sign-icon-png.png" group-title="▶️ 24/7 4K & 60 FPS",24/7 60 FPS - ACCION
+http://liontv.es:8080/live/NESTORCHI/GRETF/817475.m3u8
+#EXTINF:-1 tvg-id="50465317-63cf-42af-854e-f18160f696ed" tvg-name="24/7 60 FPS - ANIMADOS" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/018/107/390/small_2x/4k-ultra-hd-resolution-sign-icon-png.png" group-title="▶️ 24/7 4K & 60 FPS",24/7 60 FPS - ANIMADOS
+http://liontv.es:8080/live/NESTORCHI/GRETF/817476.m3u8
+#EXTINF:-1 tvg-id="4fdc4fe9-4eba-4196-9750-8ab6869333cf" tvg-name="24/7 60 FPS - COMEDIA" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/018/107/390/small_2x/4k-ultra-hd-resolution-sign-icon-png.png" group-title="▶️ 24/7 4K & 60 FPS",24/7 60 FPS - COMEDIA
+http://liontv.es:8080/live/NESTORCHI/GRETF/817477.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 60 FPS - DRAMA" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/018/107/390/small_2x/4k-ultra-hd-resolution-sign-icon-png.png" group-title="▶️ 24/7 4K & 60 FPS",24/7 60 FPS - DRAMA
+http://liontv.es:8080/live/NESTORCHI/GRETF/817478.m3u8
+#EXTINF:-1 tvg-id="6f043bf3-c49c-45be-ac1e-c27874ada528" tvg-name="24/7 60 FPS - TERROR Y SUSPENSO" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/018/107/390/small_2x/4k-ultra-hd-resolution-sign-icon-png.png" group-title="▶️ 24/7 4K & 60 FPS",24/7 60 FPS - TERROR Y SUSPENSO
+http://liontv.es:8080/live/NESTORCHI/GRETF/817479.m3u8
+#EXTINF:-1 tvg-id="899f681d-9fb0-4730-aa68-e4ec5ac864ff" tvg-name="24/7 Peliculas de Drama" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/018/107/390/small_2x/4k-ultra-hd-resolution-sign-icon-png.png" group-title="▶️ 24/7 4K & 60 FPS",24/7 Peliculas de Drama
+http://liontv.es:8080/live/NESTORCHI/GRETF/817470.m3u8
+#EXTINF:-1 tvg-id="6632a26c-5992-4de6-bfa4-fbf9b6b82837" tvg-name="24/7 Peliculas de Accion" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/018/107/390/small_2x/4k-ultra-hd-resolution-sign-icon-png.png" group-title="▶️ 24/7 4K & 60 FPS",24/7 Peliculas de Accion
+http://liontv.es:8080/live/NESTORCHI/GRETF/817465.m3u8
+#EXTINF:-1 tvg-id="1eb785e2-783d-4218-8e36-2c0619087e22" tvg-name="24/7 Peliculas de Animacion" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/018/107/390/small_2x/4k-ultra-hd-resolution-sign-icon-png.png" group-title="▶️ 24/7 4K & 60 FPS",24/7 Peliculas de Animacion
+http://liontv.es:8080/live/NESTORCHI/GRETF/817466.m3u8
+#EXTINF:-1 tvg-id="2f5f6d52-4b62-4acf-b011-ef13aeb18bbe" tvg-name="24/7 Peliculas de Aventuras" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/018/107/390/small_2x/4k-ultra-hd-resolution-sign-icon-png.png" group-title="▶️ 24/7 4K & 60 FPS",24/7 Peliculas de Aventuras
+http://liontv.es:8080/live/NESTORCHI/GRETF/817467.m3u8
+#EXTINF:-1 tvg-id="fc3562a0-8b0c-45b5-b484-4736aeb5bee1" tvg-name="24/7 Peliculas de Ciencia Ficcion" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/018/107/390/small_2x/4k-ultra-hd-resolution-sign-icon-png.png" group-title="▶️ 24/7 4K & 60 FPS",24/7 Peliculas de Ciencia Ficcion
+http://liontv.es:8080/live/NESTORCHI/GRETF/817468.m3u8
+#EXTINF:-1 tvg-id="3c32b829-aafb-40e0-bb7d-b908dffc5516" tvg-name="24/7 Peliculas de Comedia" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/018/107/390/small_2x/4k-ultra-hd-resolution-sign-icon-png.png" group-title="▶️ 24/7 4K & 60 FPS",24/7 Peliculas de Comedia
+http://liontv.es:8080/live/NESTORCHI/GRETF/817469.m3u8
+#EXTINF:-1 tvg-id="15c3f0b8-6696-44fa-b9c2-c2e7ea287082" tvg-name="24/7 Peliculas de Sagas" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/018/107/390/small_2x/4k-ultra-hd-resolution-sign-icon-png.png" group-title="▶️ 24/7 4K & 60 FPS",24/7 Peliculas de Sagas
+http://liontv.es:8080/live/NESTORCHI/GRETF/817474.m3u8
+#EXTINF:-1 tvg-id="f7799567-9384-4f83-9294-1cb0e28033d3" tvg-name="24/7 Peliculas de Suspenso" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/018/107/390/small_2x/4k-ultra-hd-resolution-sign-icon-png.png" group-title="▶️ 24/7 4K & 60 FPS",24/7 Peliculas de Suspenso
+http://liontv.es:8080/live/NESTORCHI/GRETF/817471.m3u8
+#EXTINF:-1 tvg-id="1414bab3-0bd5-4911-b301-463d57fc4011" tvg-name="24/7 Peliculas de Terror" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/018/107/390/small_2x/4k-ultra-hd-resolution-sign-icon-png.png" group-title="▶️ 24/7 4K & 60 FPS",24/7 Peliculas de Terror
+http://liontv.es:8080/live/NESTORCHI/GRETF/817472.m3u8
+#EXTINF:-1 tvg-id="c92d31d3-1f57-4f07-b9f6-db1e3bade23d" tvg-name="24/7 Peliculas Familiares" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/018/107/390/small_2x/4k-ultra-hd-resolution-sign-icon-png.png" group-title="▶️ 24/7 4K & 60 FPS",24/7 Peliculas Familiares
+http://liontv.es:8080/live/NESTORCHI/GRETF/817473.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PREMIER | CANAL EXCLUSIVO LION TV" tvg-logo="https://i.ibb.co/9HrXZf11/Imagen-de-Whats-App-2025-11-01-a-las-03-10-52-61d7c892.jpg" group-title="⚽ PREMIER LEAGUE",LIGA PREMIER | CANAL EXCLUSIVO LION TV
+http://liontv.es:8080/live/NESTORCHI/GRETF/1599552.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PREMIER | ESPN OP1" tvg-logo="https://i.ibb.co/9HrXZf11/Imagen-de-Whats-App-2025-11-01-a-las-03-10-52-61d7c892.jpg" group-title="⚽ PREMIER LEAGUE",LIGA PREMIER | ESPN OP1
+http://liontv.es:8080/live/NESTORCHI/GRETF/1599545.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PREMIER | ESPN OP2" tvg-logo="https://i.ibb.co/9HrXZf11/Imagen-de-Whats-App-2025-11-01-a-las-03-10-52-61d7c892.jpg" group-title="⚽ PREMIER LEAGUE",LIGA PREMIER | ESPN OP2
+http://liontv.es:8080/live/NESTORCHI/GRETF/1599544.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PREMIER | ESPN 2 AR" tvg-logo="https://i.ibb.co/9HrXZf11/Imagen-de-Whats-App-2025-11-01-a-las-03-10-52-61d7c892.jpg" group-title="⚽ PREMIER LEAGUE",LIGA PREMIER | ESPN 2 AR
+http://liontv.es:8080/live/NESTORCHI/GRETF/1599547.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PREMIER | ESPN 3 AR" tvg-logo="https://i.ibb.co/9HrXZf11/Imagen-de-Whats-App-2025-11-01-a-las-03-10-52-61d7c892.jpg" group-title="⚽ PREMIER LEAGUE",LIGA PREMIER | ESPN 3 AR
+http://liontv.es:8080/live/NESTORCHI/GRETF/1599546.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PREMIER | NBC UNIVERSO HD" tvg-logo="https://i.ibb.co/9HrXZf11/Imagen-de-Whats-App-2025-11-01-a-las-03-10-52-61d7c892.jpg" group-title="⚽ PREMIER LEAGUE",LIGA PREMIER | NBC UNIVERSO HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/1599543.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PREMIER | TELEMUNDO" tvg-logo="https://i.ibb.co/9HrXZf11/Imagen-de-Whats-App-2025-11-01-a-las-03-10-52-61d7c892.jpg" group-title="⚽ PREMIER LEAGUE",LIGA PREMIER | TELEMUNDO
+http://liontv.es:8080/live/NESTORCHI/GRETF/1599542.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PREMIER | DAZN 1 HD" tvg-logo="https://i.ibb.co/9HrXZf11/Imagen-de-Whats-App-2025-11-01-a-las-03-10-52-61d7c892.jpg" group-title="⚽ PREMIER LEAGUE",LIGA PREMIER | DAZN 1 HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/1599551.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PREMIER | DAZN 2 HD" tvg-logo="https://i.ibb.co/9HrXZf11/Imagen-de-Whats-App-2025-11-01-a-las-03-10-52-61d7c892.jpg" group-title="⚽ PREMIER LEAGUE",LIGA PREMIER | DAZN 2 HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/1599550.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PREMIER | DAZN 3 HD" tvg-logo="https://i.ibb.co/9HrXZf11/Imagen-de-Whats-App-2025-11-01-a-las-03-10-52-61d7c892.jpg" group-title="⚽ PREMIER LEAGUE",LIGA PREMIER | DAZN 3 HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/1599549.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PREMIER | DAZN 4 HD" tvg-logo="https://i.ibb.co/9HrXZf11/Imagen-de-Whats-App-2025-11-01-a-las-03-10-52-61d7c892.jpg" group-title="⚽ PREMIER LEAGUE",LIGA PREMIER | DAZN 4 HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/1599548.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PREMIER | TNT SPORTS MX" tvg-logo="https://i.ibb.co/9HrXZf11/Imagen-de-Whats-App-2025-11-01-a-las-03-10-52-61d7c892.jpg" group-title="⚽ PREMIER LEAGUE",LIGA PREMIER | TNT SPORTS MX
+http://liontv.es:8080/live/NESTORCHI/GRETF/1599541.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PREMIER | USA NETWORK" tvg-logo="https://i.ibb.co/9HrXZf11/Imagen-de-Whats-App-2025-11-01-a-las-03-10-52-61d7c892.jpg" group-title="⚽ PREMIER LEAGUE",LIGA PREMIER | USA NETWORK
+http://liontv.es:8080/live/NESTORCHI/GRETF/1599532.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PREMIER | SKY SPORTS HD" tvg-logo="https://i.ibb.co/9HrXZf11/Imagen-de-Whats-App-2025-11-01-a-las-03-10-52-61d7c892.jpg" group-title="⚽ PREMIER LEAGUE",LIGA PREMIER | SKY SPORTS HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/1599535.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PREMIER | PREMIER SPORTS 1" tvg-logo="https://i.ibb.co/9HrXZf11/Imagen-de-Whats-App-2025-11-01-a-las-03-10-52-61d7c892.jpg" group-title="⚽ PREMIER LEAGUE",LIGA PREMIER | PREMIER SPORTS 1
+http://liontv.es:8080/live/NESTORCHI/GRETF/1599536.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PREMIER | HUB PREMIER 2 4K" tvg-logo="https://i.ibb.co/9HrXZf11/Imagen-de-Whats-App-2025-11-01-a-las-03-10-52-61d7c892.jpg" group-title="⚽ PREMIER LEAGUE",LIGA PREMIER | HUB PREMIER 2 4K
+http://liontv.es:8080/live/NESTORCHI/GRETF/1599539.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PREMIER | CANAL+ ÉVENEMENT 4K" tvg-logo="https://i.ibb.co/9HrXZf11/Imagen-de-Whats-App-2025-11-01-a-las-03-10-52-61d7c892.jpg" group-title="⚽ PREMIER LEAGUE",LIGA PREMIER | CANAL+ ÉVENEMENT 4K
+http://liontv.es:8080/live/NESTORCHI/GRETF/1599537.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PREMIER | NOW HK NOW SPORTS 4K 616" tvg-logo="https://i.ibb.co/9HrXZf11/Imagen-de-Whats-App-2025-11-01-a-las-03-10-52-61d7c892.jpg" group-title="⚽ PREMIER LEAGUE",LIGA PREMIER | NOW HK NOW SPORTS 4K 616
+http://liontv.es:8080/live/NESTORCHI/GRETF/1599538.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PREMIER | SKY SPORTS MAIN EVENT 4K" tvg-logo="https://i.ibb.co/9HrXZf11/Imagen-de-Whats-App-2025-11-01-a-las-03-10-52-61d7c892.jpg" group-title="⚽ PREMIER LEAGUE",LIGA PREMIER | SKY SPORTS MAIN EVENT 4K
+http://liontv.es:8080/live/NESTORCHI/GRETF/1599534.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PREMIER | TNT SPORT ULTIMATE 4K" tvg-logo="https://i.ibb.co/9HrXZf11/Imagen-de-Whats-App-2025-11-01-a-las-03-10-52-61d7c892.jpg" group-title="⚽ PREMIER LEAGUE",LIGA PREMIER | TNT SPORT ULTIMATE 4K
+http://liontv.es:8080/live/NESTORCHI/GRETF/1599533.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 ARGENTINA" tvg-logo="https://i.ibb.co/zhhmBDSw/B33-DYSWWX5-GLZBOIBE7-VA4-NZXU.jpg" group-title="⚽ EVENTOS ESPN DISNEY+",ESPN 1 ARGENTINA
+http://liontv.es:8080/live/NESTORCHI/GRETF/1613614.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 ARGENTINA" tvg-logo="https://i.ibb.co/zhhmBDSw/B33-DYSWWX5-GLZBOIBE7-VA4-NZXU.jpg" group-title="⚽ EVENTOS ESPN DISNEY+",ESPN 2 ARGENTINA
+http://liontv.es:8080/live/NESTORCHI/GRETF/1613615.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 ARGENTINA" tvg-logo="https://i.ibb.co/zhhmBDSw/B33-DYSWWX5-GLZBOIBE7-VA4-NZXU.jpg" group-title="⚽ EVENTOS ESPN DISNEY+",ESPN 3 ARGENTINA
+http://liontv.es:8080/live/NESTORCHI/GRETF/1613616.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 ARGENTINA" tvg-logo="https://i.ibb.co/zhhmBDSw/B33-DYSWWX5-GLZBOIBE7-VA4-NZXU.jpg" group-title="⚽ EVENTOS ESPN DISNEY+",ESPN 4 ARGENTINA
+http://liontv.es:8080/live/NESTORCHI/GRETF/1613617.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 ARGENTINA" tvg-logo="https://i.ibb.co/zhhmBDSw/B33-DYSWWX5-GLZBOIBE7-VA4-NZXU.jpg" group-title="⚽ EVENTOS ESPN DISNEY+",ESPN 5 ARGENTINA
+http://liontv.es:8080/live/NESTORCHI/GRETF/1613820.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 ARGENTINA" tvg-logo="https://i.ibb.co/zhhmBDSw/B33-DYSWWX5-GLZBOIBE7-VA4-NZXU.jpg" group-title="⚽ EVENTOS ESPN DISNEY+",ESPN 6 ARGENTINA
+http://liontv.es:8080/live/NESTORCHI/GRETF/1613819.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 7 ARGENTINA" tvg-logo="https://i.ibb.co/zhhmBDSw/B33-DYSWWX5-GLZBOIBE7-VA4-NZXU.jpg" group-title="⚽ EVENTOS ESPN DISNEY+",ESPN 7 ARGENTINA
+http://liontv.es:8080/live/NESTORCHI/GRETF/1613818.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 1 ESPAÑA HD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="DAZN ES",ES| DAZN 1 ESPAÑA HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/1621386.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 2 ESPAÑA HD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="DAZN ES",ES| DAZN 2 ESPAÑA HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/1621382.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 3 ESPAÑA HD" tvg-logo="https://lo1.in/sp/DAZN%203%20ESPA%C3%91A.png" group-title="DAZN ES",ES| DAZN 3 ESPAÑA HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/1621378.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 4 ESPAÑA HD" tvg-logo="https://lo1.in/sp/DAZN%204%20ESPA%C3%91A.png" group-title="DAZN ES",ES| DAZN 4 ESPAÑA HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/1621374.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 1 ESPAÑA SD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="DAZN ES",ES| DAZN 1 ESPAÑA SD
+http://liontv.es:8080/live/NESTORCHI/GRETF/1621384.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 2 ESPAÑA SD" tvg-logo="https://lo1.in/sp/DAZN%202%20ESPA%C3%91A.png" group-title="DAZN ES",ES| DAZN 2 ESPAÑA SD
+http://liontv.es:8080/live/NESTORCHI/GRETF/1621380.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 3 ESPAÑA SD" tvg-logo="https://lo1.in/sp/DAZN%203%20ESPA%C3%91A.png" group-title="DAZN ES",ES| DAZN 3 ESPAÑA SD
+http://liontv.es:8080/live/NESTORCHI/GRETF/1621376.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 4 ESPAÑA SD" tvg-logo="https://lo1.in/sp/DAZN%204%20ESPA%C3%91A.png" group-title="DAZN ES",ES| DAZN 4 ESPAÑA SD
+http://liontv.es:8080/live/NESTORCHI/GRETF/1621372.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 1 ESPAÑA FHD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="DAZN ES",ES| DAZN 1 ESPAÑA FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/1621387.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 2 ESPAÑA FHD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="DAZN ES",ES| DAZN 2 ESPAÑA FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/1621383.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 3 ESPAÑA FHD" tvg-logo="https://lo1.in/sp/DAZN%203%20ESPA%C3%91A.png" group-title="DAZN ES",ES| DAZN 3 ESPAÑA FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/1621379.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 4 ESPAÑA FHD" tvg-logo="https://lo1.in/sp/DAZN%204%20ESPA%C3%91A.png" group-title="DAZN ES",ES| DAZN 4 ESPAÑA FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/1621375.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 1 ESPAÑA HEVC" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="DAZN ES",ES| DAZN 1 ESPAÑA HEVC
+http://liontv.es:8080/live/NESTORCHI/GRETF/1621385.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 2 ESPAÑA HEVC" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="DAZN ES",ES| DAZN 2 ESPAÑA HEVC
+http://liontv.es:8080/live/NESTORCHI/GRETF/1621381.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 3 ESPAÑA HEVC" tvg-logo="https://lo1.in/sp/DAZN%203%20ESPA%C3%91A.png" group-title="DAZN ES",ES| DAZN 3 ESPAÑA HEVC
+http://liontv.es:8080/live/NESTORCHI/GRETF/1621377.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 4 ESPAÑA HEVC" tvg-logo="https://lo1.in/sp/DAZN%204%20ESPA%C3%91A.png" group-title="DAZN ES",ES| DAZN 4 ESPAÑA HEVC
+http://liontv.es:8080/live/NESTORCHI/GRETF/1621373.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LA LIGA 1 HD" tvg-logo="https://lo1.in/it/dzn.png" group-title="DAZN ES",ES| DAZN LA LIGA 1 HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/1621358.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LA LIGA 2 HD" tvg-logo="https://lo1.in/it/dzn.png" group-title="DAZN ES",ES| DAZN LA LIGA 2 HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/1621354.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LA LIGA 1 SD" tvg-logo="https://lo1.in/it/dzn.png" group-title="DAZN ES",ES| DAZN LA LIGA 1 SD
+http://liontv.es:8080/live/NESTORCHI/GRETF/1621356.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LA LIGA 2 SD" tvg-logo="https://lo1.in/it/dzn.png" group-title="DAZN ES",ES| DAZN LA LIGA 2 SD
+http://liontv.es:8080/live/NESTORCHI/GRETF/1621352.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LA LIGA 1 FHD" tvg-logo="https://lo1.in/it/dzn.png" group-title="DAZN ES",ES| DAZN LA LIGA 1 FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/1621359.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LA LIGA 2 FHD" tvg-logo="https://lo1.in/it/dzn.png" group-title="DAZN ES",ES| DAZN LA LIGA 2 FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/1621355.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LA LIGA 1 HEVC" tvg-logo="https://lo1.in/it/dzn.png" group-title="DAZN ES",ES| DAZN LA LIGA 1 HEVC
+http://liontv.es:8080/live/NESTORCHI/GRETF/1621357.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LA LIGA 2 HEVC" tvg-logo="https://lo1.in/it/dzn.png" group-title="DAZN ES",ES| DAZN LA LIGA 2 HEVC
+http://liontv.es:8080/live/NESTORCHI/GRETF/1621353.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN F1 ESPAÑA HD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="DAZN ES",ES| DAZN F1 ESPAÑA HD
+http://liontv.es:8080/live/NESTORCHI/GRETF/1621362.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN F1 ESPAÑA SD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="DAZN ES",ES| DAZN F1 ESPAÑA SD
+http://liontv.es:8080/live/NESTORCHI/GRETF/1621360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN F1 ESPAÑA FHD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="DAZN ES",ES| DAZN F1 ESPAÑA FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/1621363.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN F1 ESPAÑA HEVC" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="DAZN ES",ES| DAZN F1 ESPAÑA HEVC
+http://liontv.es:8080/live/NESTORCHI/GRETF/1621361.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN ACB 1" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="DAZN ES",ES| DAZN ACB 1
+http://liontv.es:8080/live/NESTORCHI/GRETF/1621371.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN ACB 2" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="DAZN ES",ES| DAZN ACB 2
+http://liontv.es:8080/live/NESTORCHI/GRETF/1621370.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN ACB 3" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="DAZN ES",ES| DAZN ACB 3
+http://liontv.es:8080/live/NESTORCHI/GRETF/1621369.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN ACB 4" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="DAZN ES",ES| DAZN ACB 4
+http://liontv.es:8080/live/NESTORCHI/GRETF/1621368.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN ACB 5" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="DAZN ES",ES| DAZN ACB 5
+http://liontv.es:8080/live/NESTORCHI/GRETF/1621367.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN Baloncesto 1 FHD" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="DAZN ES",ES| DAZN Baloncesto 1 FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/1621366.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN Baloncesto 2 FHD" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="DAZN ES",ES| DAZN Baloncesto 2 FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/1621365.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN Baloncesto 3 FHD" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="DAZN ES",ES| DAZN Baloncesto 3 FHD
+http://liontv.es:8080/live/NESTORCHI/GRETF/1621364.m3u8
