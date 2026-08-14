@@ -35,10 +35,6 @@ http://200.59.191.177:8000/play/a00l/index.m3u8?
 http://152.230.246.26:8001/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",A&E HD
 http://200.229.147.210:9999/play/a0ai/index.m3u8
-#EXTINF:-1 group-title="TV GENERAL",A&E HD
-http://181.209.105.115:2525/play/ae/index.m3u8
-#EXTINF:-1 group-title="TV GENERAL",A24
-http://181.209.105.115:2525/play/a24/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Adult Swim
 http://152.230.246.26:8001/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Adult Swim
@@ -55,8 +51,6 @@ http://cablemaxsigloxxi.com:8000/play/a05m/index.m3u8?hls
 http://152.230.246.26:8001/play/a04b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",America TV HD
 http://200.59.191.177:8000/play/a0q0/index.m3u8?
-#EXTINF:-1 group-title="TV GENERAL",America TV HD
-http://181.209.105.115:2525/play/america/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Antena 3
 http://200.229.147.210:9999/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Antena 7- RD
@@ -91,10 +85,6 @@ http://cablemaxsigloxxi.com:8000/play/a0f2/index.m3u8?hls
 http://200.59.191.177:8000/play/a0m4/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",BOOMTV
 http://200.229.147.210:9999/play/a01l/index.m3u8
-#EXTINF:-1 group-title="TV GENERAL",C5N
-http://181.209.105.115:2525/play/c5n/index.m3u8
-#EXTINF:-1 group-title="TV GENERAL",Cadena 3
-http://181.209.105.115:2525/play/cadena3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal  21 - ESA
 http://200.229.147.210:9999/play/a06t/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal 10 - ESA
@@ -129,8 +119,6 @@ http://200.229.147.210:9999/play/a052/index.m3u8
 http://200.229.147.210:9999/play/a05t/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal 2 - NIC
 http://200.229.147.210:9999/play/a05v/index.m3u8
-#EXTINF:-1 group-title="TV GENERAL",Canal 26
-http://181.209.105.115:2525/play/c26/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal 3 - GUA
 http://200.229.147.210:9999/play/a05r/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal 3 Telesistemas HND
@@ -157,8 +145,6 @@ http://200.229.147.210:9999/play/a0ac/index.m3u8
 http://200.229.147.210:9999/play/a04o/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal 8 TNH HN
 http://200.229.147.210:9999/play/a001/index.m3u8
-#EXTINF:-1 group-title="TV GENERAL",Canal a
-http://181.209.105.115:2525/play/canala/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal Antigua - GUA
 http://200.229.147.210:9999/play/a05o/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal Azteca - GUA
@@ -217,10 +203,6 @@ http://152.230.246.26:8001/play/a016/index.m3u8
 http://cablemaxsigloxxi.com:8000/play/a073/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",CHV HD
 http://cablemaxsigloxxi.com:8000/play/a0sa/index.m3u8?hls
-#EXTINF:-1 group-title="TV GENERAL",Cine.AR
-http://181.209.105.115:2525/play/cinear/index.m3u8
-#EXTINF:-1 group-title="TV GENERAL",ciudad magazine
-http://181.209.105.115:2525/play/ciudadmagazine/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Clave (35e)
 http://200.59.191.177:8000/play/a0m7/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Coco HD
@@ -237,8 +219,6 @@ http://200.59.191.177:8000/play/a0pn/index.m3u8?
 http://cablemaxsigloxxi.com:8000/play/a07t/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Comedy Central HD
 http://200.229.147.210:9999/play/a0az/index.m3u8
-#EXTINF:-1 group-title="TV GENERAL",Comedy Central HD
-http://181.209.105.115:2525/play/comedycentral/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",ConCiencia (35e)
 http://200.59.191.177:8000/play/a0ld/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",CONECTADOS TV
@@ -247,16 +227,12 @@ http://cablemaxsigloxxi.com:8000/play/a0a5/index.m3u8?hls
 http://200.229.147.210:9999/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",CORPORACION TV
 http://cablemaxsigloxxi.com:8000/play/a01p/index.m3u8?hls
-#EXTINF:-1 group-title="TV GENERAL",Cronica
-http://181.209.105.115:2525/play/cronica/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",CRTV
 http://200.229.147.210:9999/play/a01r/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",CVS
 http://200.229.147.210:9999/play/a03m/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",De PelŦcula
 http://cablemaxsigloxxi.com:8000/play/a04p/index.m3u8?hls
-#EXTINF:-1 group-title="TV GENERAL",DeporTV
-http://181.209.105.115:2525/play/deportv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Digital 15 - RD
 http://200.229.147.210:9999/play/a04q/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",DISC THEATHER HD
@@ -273,34 +249,20 @@ http://200.229.147.210:9999/play/a065/index.m3u8
 http://200.229.147.210:9999/play/a0ag/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",E! HD
 http://200.59.191.177:8000/play/a0k1/index.m3u8?
-#EXTINF:-1 group-title="TV GENERAL",El Canal de las Estrellas
-http://181.209.105.115:2525/play/elcanaldelasestrellas/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",El Gourmet
 http://cablemaxsigloxxi.com:8000/play/a07u/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",El Gourmet
 http://200.229.147.210:9999/play/a058/index.m3u8
-#EXTINF:-1 group-title="TV GENERAL",El Gourmet
-http://181.209.105.115:2525/play/elgourmet/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",El Gourmet HD
 http://152.230.246.26:8001/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",El Gourmet HD
 http://200.59.191.177:8000/play/a0pa/index.m3u8?
-#EXTINF:-1 group-title="TV GENERAL",el nueve HD
-http://181.209.105.115:2525/play/elnueve/index.m3u8
-#EXTINF:-1 group-title="TV GENERAL",el trece HD
-http://181.209.105.115:2525/play/eltrece/index.m3u8
-#EXTINF:-1 group-title="TV GENERAL",Encuentro
-http://181.209.105.115:2525/play/encuentro/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",EURO Channel
 http://200.229.147.210:9999/play/a056/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Europa Europa
 http://152.230.246.26:8001/play/a03r/index.m3u8
-#EXTINF:-1 group-title="TV GENERAL",Europa Europa
-http://181.209.105.115:2525/play/europaeuropa/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Europa HD
 http://200.229.147.210:9999/play/a0am/index.m3u8
-#EXTINF:-1 group-title="TV GENERAL",EVENTOS
-http://181.209.105.115:2525/play/evento/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Exa TV
 http://200.229.147.210:9999/play/a06f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",FFAA
@@ -309,18 +271,12 @@ http://200.229.147.210:9999/play/a02k/index.m3u8
 http://200.229.147.210:9999/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Film & arts HD
 http://200.229.147.210:9999/play/a0ah/index.m3u8
-#EXTINF:-1 group-title="TV GENERAL",Film & Arts HD
-http://181.209.105.115:2525/play/filmarts/index.m3u8
-#EXTINF:-1 group-title="TV GENERAL",FM 100
-http://181.209.105.115:2525/play/fm100/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Food Network HD
 http://200.59.191.177:8000/play/a0k4/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Food Network HD
 http://cablemaxsigloxxi.com:8000/play/a07r/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",FOX CR
 http://200.229.147.210:9999/play/a03x/index.m3u8
-#EXTINF:-1 group-title="TV GENERAL",Galicia TV
-http://181.209.105.115:2525/play/galiciatv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Gamavision(35e)
 http://200.59.191.177:8000/play/a0mk/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Global
@@ -339,8 +295,6 @@ http://200.59.191.177:8000/play/a0m6/index.m3u8?
 http://200.229.147.210:9999/play/a02m/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",HGTV
 http://cablemaxsigloxxi.com:8000/play/a03b/index.m3u8?hls
-#EXTINF:-1 group-title="TV GENERAL",HGTV
-http://181.209.105.115:2525/play/hgtv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",HITV
 http://200.229.147.210:9999/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Hola Tv
@@ -371,8 +325,6 @@ http://cablemaxsigloxxi.com:8000/play/a07i/index.m3u8?hls
 http://cablemaxsigloxxi.com:8000/play/a0sq/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",L1 MAX
 http://cablemaxsigloxxi.com:8000/play/a07e/index.m3u8?hls
-#EXTINF:-1 group-title="TV GENERAL",La Nacion TV
-http://181.209.105.115:2525/play/lanacion/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",LA NUEVA VISION
 http://200.229.147.210:9999/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",La Red
@@ -391,8 +343,6 @@ http://200.59.191.177:8000/play/a0q2/index.m3u8?
 http://cablemaxsigloxxi.com:8000/play/a07c/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",LIFE TIME
 http://200.229.147.210:9999/play/a030/index.m3u8
-#EXTINF:-1 group-title="TV GENERAL",Lifetime
-http://181.209.105.115:2525/play/lifetime/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Mas Chic
 http://200.229.147.210:9999/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",MAYA TV
@@ -405,8 +355,6 @@ http://152.230.246.26:8001/play/a01c/index.m3u8
 http://cablemaxsigloxxi.com:8000/play/a02t/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",MEGA TV PASCO
 http://cablemaxsigloxxi.com:8000/play/a00z/index.m3u8?hls
-#EXTINF:-1 group-title="TV GENERAL",Metro
-http://181.209.105.115:2525/play/metro/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",METRO TV
 http://200.229.147.210:9999/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Milenial TV
@@ -421,8 +369,6 @@ http://190.60.37.154:45000/play/a01u/index.m3u8
 http://190.60.37.154:45000/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Multimedios
 http://200.229.147.210:9999/play/a00o/index.m3u8
-#EXTINF:-1 group-title="TV GENERAL",Nacional
-http://181.209.105.115:2525/play/nacional/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Nativa tv
 http://cablemaxsigloxxi.com:8000/play/a08x/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",NEXT
@@ -437,8 +383,6 @@ http://cablemaxsigloxxi.com:8000/play/a03k/index.m3u8?hls
 http://200.59.191.177:8000/play/a0ls/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",OROMAR TV
 http://cablemaxsigloxxi.com:8000/play/a040/index.m3u8?hls
-#EXTINF:-1 group-title="TV GENERAL",Pakapaka
-http://181.209.105.115:2525/play/pakapaka/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Panamericana
 http://cablemaxsigloxxi.com:8000/play/a08e/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Paramount
@@ -453,8 +397,6 @@ http://200.229.147.210:9999/play/a01x/index.m3u8
 http://200.229.147.210:9999/play/a05e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",QHUBO TV
 http://200.229.147.210:9999/play/a03f/index.m3u8
-#EXTINF:-1 group-title="TV GENERAL",Quiero Musica
-http://181.209.105.115:2525/play/quieromusica/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Radio  YVKE Mundial (35e)
 http://200.59.191.177:8000/play/a05x/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",RADIO ORIENTE
@@ -463,8 +405,6 @@ http://cablemaxsigloxxi.com:8000/play/a06n/index.m3u8?hls
 http://200.59.191.177:8000/play/a064/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Radio Sur (35e)
 http://200.59.191.177:8000/play/a066/index.m3u8?
-#EXTINF:-1 group-title="TV GENERAL",RAI Italia
-http://181.209.105.115:2525/play/raiitalia/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",RCN
 http://200.59.191.177:8000/play/a004/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",RCN - GUA
@@ -473,16 +413,10 @@ http://200.229.147.210:9999/play/a06p/index.m3u8
 http://200.59.191.177:8000/play/a0me/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",RNN - RD
 http://200.229.147.210:9999/play/a00n/index.m3u8
-#EXTINF:-1 group-title="TV GENERAL",RT en Español
-http://181.209.105.115:2525/play/rtenespa/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",RUMBO MINERO
 http://cablemaxsigloxxi.com:8000/play/a0no/index.m3u8?hls
-#EXTINF:-1 group-title="TV GENERAL",Rural
-http://181.209.105.115:2525/play/rural/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",SANJUANERA TV
 http://cablemaxsigloxxi.com:8000/play/a0kj/index.m3u8?hls
-#EXTINF:-1 group-title="TV GENERAL",Sextreme
-http://181.209.105.115:2525/play/sextreme/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Show Ven (35e)
 http://200.59.191.177:8000/play/a0lf/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Sol Tv
@@ -515,8 +449,6 @@ http://200.59.191.177:8000/play/a003/index.m3u8?
 http://200.229.147.210:9999/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Telecentro - RD
 http://200.229.147.210:9999/play/a04v/index.m3u8
-#EXTINF:-1 group-title="TV GENERAL",Telefe HD
-http://181.209.105.115:2525/play/telefe/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TeleMicro - RD
 http://200.229.147.210:9999/play/a05x/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Telemundo
@@ -559,8 +491,6 @@ http://cablemaxsigloxxi.com:8000/play/a038/index.m3u8?hls
 http://200.229.147.210:9999/play/a06b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TLT (35e)
 http://200.59.191.177:8000/play/a0ll/index.m3u8?
-#EXTINF:-1 group-title="TV GENERAL",TN HD
-http://181.209.105.115:2525/play/tn/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TNH8
 http://200.229.147.210:9999/play/a01c/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TOP TV
@@ -579,8 +509,6 @@ http://200.59.191.177:8000/play/a0p7/index.m3u8?
 http://200.229.147.210:9999/play/a06n/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TV Peru SD
 http://152.230.246.26:8001/play/a067/index.m3u8
-#EXTINF:-1 group-title="TV GENERAL",TV Publica HD
-http://181.209.105.115:2525/play/tvpublica/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TV+
 http://cablemaxsigloxxi.com:8000/play/a020/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TV+ HD
@@ -591,8 +519,6 @@ http://200.229.147.210:9999/play/a006/index.m3u8
 http://152.230.246.26:8001/play/a05a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TVE
 http://200.229.147.210:9999/play/a07h/index.m3u8
-#EXTINF:-1 group-title="TV GENERAL",TVE
-http://181.209.105.115:2525/play/tve/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TVES (35e)
 http://200.59.191.177:8000/play/a0l7/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TVM25 -  ESA
@@ -623,8 +549,6 @@ http://200.229.147.210:9999/play/a08u/index.m3u8
 http://200.229.147.210:9999/play/a0b6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",UNIVERSAL CRIME HD
 http://200.229.147.210:9999/play/a0b5/index.m3u8
-#EXTINF:-1 group-title="TV GENERAL",Universal HD
-http://181.209.105.115:2525/play/universal/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",UNIVERSAL PREMIERE HD
 http://200.229.147.210:9999/play/a0b2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",UNIVERSAL PREMIERE O HD
@@ -635,8 +559,6 @@ http://200.229.147.210:9999/play/a0b4/index.m3u8
 http://200.229.147.210:9999/play/a08s/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",USA
 http://200.59.191.177:8000/play/a0qd/index.m3u8?
-#EXTINF:-1 group-title="TV GENERAL",USA Network
-http://181.209.105.115:2525/play/usanetwork/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",USA SD
 http://152.230.246.26:8001/play/a05d/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Venevision (35e)
@@ -647,8 +569,6 @@ http://152.230.246.26:8001/play/a06w/index.m3u8
 http://200.229.147.210:9999/play/a01s/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",ViVe (35e)
 http://200.59.191.177:8000/play/a0l6/index.m3u8?
-#EXTINF:-1 group-title="TV GENERAL",Volver
-http://181.209.105.115:2525/play/volver/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",VPACO (35e)
 http://200.59.191.177:8000/play/a0lm/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",VTV
@@ -683,8 +603,6 @@ http://152.230.246.26:8001/play/a01e/index.m3u8
 http://200.59.191.177:8000/play/a0qi/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",CNN Chile
 http://cablemaxsigloxxi.com:8000/play/a02u/index.m3u8?hls
-#EXTINF:-1 group-title="NOTICIAS",CNN en Espaæol
-http://181.209.105.115:2525/play/cnn/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",CNN Espaæol
 http://152.230.246.26:8001/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",CNN Espaæol
@@ -721,8 +639,6 @@ http://cablemaxsigloxxi.com:8000/play/a05t/index.m3u8?hls
 http://152.230.246.26:8001/play/a03m/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",Via X Esports
 http://cablemaxsigloxxi.com:8000/play/a03t/index.m3u8?hls
-#EXTINF:-1 group-title="DEPORTES",AM Sports
-http://181.209.105.115:2525/play/amsport/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",Claro Sports 3 HD
 http://200.229.147.210:9999/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",DEPORTES TVC
@@ -739,8 +655,6 @@ http://152.230.246.26:8001/play/a019/index.m3u8
 http://200.59.191.177:8000/play/a0o1/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN 2 HD
 http://200.229.147.210:9999/play/a08j/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 2 HD
-http://181.209.105.115:2525/play/espn2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN 2 HD R
 http://cablemaxsigloxxi.com:8000/play/a02a/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN 3
@@ -751,16 +665,12 @@ http://200.229.147.210:9999/play/a05c/index.m3u8
 http://152.230.246.26:8001/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN 3 HD
 http://200.229.147.210:9999/play/a08k/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 3 HD
-http://181.209.105.115:2525/play/espn3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN 4
 http://200.229.147.210:9999/play/a05d/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN 4 HD
 http://152.230.246.26:8001/play/a02x/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN 4 HD
 http://200.59.191.177:8000/play/a0pz/index.m3u8?
-#EXTINF:-1 group-title="DEPORTES",ESPN 4 HD
-http://181.209.105.115:2525/play/espn4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN 4 R
 http://cablemaxsigloxxi.com:8000/play/a075/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN 5
@@ -783,8 +693,6 @@ http://152.230.246.26:8001/play/a01h/index.m3u8
 http://200.59.191.177:8000/play/a0o2/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN HD
 http://200.229.147.210:9999/play/a08i/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN HD
-http://181.209.105.115:2525/play/espn/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN HD R
 http://cablemaxsigloxxi.com:8000/play/a02d/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN Premium HD
@@ -793,14 +701,6 @@ http://200.59.191.177:8000/play/a0ko/index.m3u8?
 http://cablemaxsigloxxi.com:8000/play/a05g/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN PREMIUM HD
 http://181.205.130.194:4000/play/a0fk
-#EXTINF:-1 group-title="DEPORTES",ESPN Premium HD
-http://181.209.105.115:2525/play/espnpremium/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",Fox Sports 2 HD
-http://181.209.105.115:2525/play/foxsports2/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",Fox Sports 3 HD
-http://181.209.105.115:2525/play/foxsports3/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",Fox Sports HD
-http://181.209.105.115:2525/play/foxsports/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",FUTV CR
 http://200.229.147.210:9999/play/a06m/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",FUTV HD CR
@@ -833,8 +733,6 @@ http://200.59.191.177:8000/play/a0o9/index.m3u8?
 http://cablemaxsigloxxi.com:8000/play/a0rb/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",TUDN
 http://200.229.147.210:9999/play/a01v/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",TyC Sports HD
-http://181.209.105.115:2525/play/tycsports/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",VVD ESPN 1
 http://cablemaxsigloxxi.com:8000/play/a0t6/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",VVD ESPN 2
@@ -851,8 +749,6 @@ http://cablemaxsigloxxi.com:8000/play/a0t1/index.m3u8?hls
 http://cablemaxsigloxxi.com:8000/play/a0l5/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",AMC
 http://200.229.147.210:9999/play/a036/index.m3u8
-#EXTINF:-1 group-title="PELICULAS",AMC
-http://181.209.105.115:2525/play/amc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",AMC HD
 http://152.230.246.26:8001/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",AMC HD
@@ -875,16 +771,12 @@ http://152.230.246.26:8001/play/a02o/index.m3u8
 http://200.59.191.177:8000/play/a0px/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",CINECANAL HD
 http://200.229.147.210:9999/play/a06j/index.m3u8
-#EXTINF:-1 group-title="PELICULAS",Cinecanal HD
-http://181.209.105.115:2525/play/cinecanal/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Cinemax
 http://152.230.246.26:8001/play/a06a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Cinemax
 http://cablemaxsigloxxi.com:8000/play/a01u/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",CineMax
 http://200.229.147.210:9999/play/a07d/index.m3u8
-#EXTINF:-1 group-title="PELICULAS",Cinemax
-http://181.209.105.115:2525/play/cinemax/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Cinemax HD
 http://200.59.191.177:8000/play/a0pk/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",De Pelicula
@@ -911,8 +803,6 @@ http://200.229.147.210:9999/play/a054/index.m3u8
 http://cablemaxsigloxxi.com:8000/play/a02i/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",FX HD
 http://200.229.147.210:9999/play/a0al/index.m3u8
-#EXTINF:-1 group-title="PELICULAS",FX HD
-http://181.209.105.115:2525/play/fx/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Golden
 http://200.229.147.210:9999/play/a05i/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",GOLDEN EDGE
@@ -927,14 +817,8 @@ http://cablemaxsigloxxi.com:8000/play/a027/index.m3u8?hls
 http://200.229.147.210:9999/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Golden Premiere HD
 http://200.229.147.210:9999/play/a00k/index.m3u8
-#EXTINF:-1 group-title="PELICULAS",HBO
-http://181.209.105.115:2525/play/hbo/index.m3u8
-#EXTINF:-1 group-title="PELICULAS",HBO 2
-http://181.209.105.115:2525/play/hbo2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",HBO Family
 http://152.230.246.26:8001/play/a01m/index.m3u8
-#EXTINF:-1 group-title="PELICULAS",HBO Family
-http://181.209.105.115:2525/play/hbofamily/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",HBO Family HD
 http://200.59.191.177:8000/play/a0pq/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",HBO Family HD
@@ -949,14 +833,10 @@ http://200.59.191.177:8000/play/a0py/index.m3u8?
 http://200.229.147.210:9999/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",HBO Mundi
 http://cablemaxsigloxxi.com:8000/play/a084/index.m3u8?hls
-#EXTINF:-1 group-title="PELICULAS",HBO Mundi
-http://181.209.105.115:2525/play/hbomondi/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",HBO PLUS
 http://200.59.191.177:8000/play/a00m/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",HBO Plus
 http://cablemaxsigloxxi.com:8000/play/a00s/index.m3u8?hls
-#EXTINF:-1 group-title="PELICULAS",HBO Plus
-http://181.209.105.115:2525/play/hboplus/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",HBO Plus HD
 http://200.229.147.210:9999/play/a010/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",HBO POP
@@ -965,12 +845,8 @@ http://200.59.191.177:8000/play/a0qv/index.m3u8?
 http://cablemaxsigloxxi.com:8000/play/a0ts/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",HBO Signature
 http://cablemaxsigloxxi.com:8000/play/a082/index.m3u8?hls
-#EXTINF:-1 group-title="PELICULAS",HBO Signature
-http://181.209.105.115:2525/play/hbosignature/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",HBO XTREME
 http://200.229.147.210:9999/play/a012/index.m3u8
-#EXTINF:-1 group-title="PELICULAS",HBO Xtreme
-http://181.209.105.115:2525/play/hboxtreme/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",HBO Xtreme HD
 http://152.230.246.26:8001/play/a01n/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",HBO XTREME HD
@@ -989,8 +865,6 @@ http://200.59.191.177:8000/play/a00a/index.m3u8?
 http://cablemaxsigloxxi.com:8000/play/a07l/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Sony Movies HD
 http://200.229.147.210:9999/play/a0an/index.m3u8
-#EXTINF:-1 group-title="PELICULAS",Sony Movies HD
-http://181.209.105.115:2525/play/sonymovies/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",SPACE
 http://200.229.147.210:9999/play/a02w/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Space HD
@@ -1001,20 +875,14 @@ http://200.59.191.177:8000/play/a0o7/index.m3u8?
 http://cablemaxsigloxxi.com:8000/play/a0u2/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",SPACE HD
 http://200.229.147.210:9999/play/a07k/index.m3u8
-#EXTINF:-1 group-title="PELICULAS",Space HD
-http://181.209.105.115:2525/play/space/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",STAR CHANNEL
 http://200.229.147.210:9999/play/a070/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",STAR CHANNEL HD
 http://200.59.191.177:8000/play/a0pj/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",STAR CHANNEL HD
 http://200.229.147.210:9999/play/a0bc/index.m3u8
-#EXTINF:-1 group-title="PELICULAS",Star Channel HD
-http://181.209.105.115:2525/play/starchannel/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Studio Universal
 http://200.229.147.210:9999/play/a07e/index.m3u8
-#EXTINF:-1 group-title="PELICULAS",Studio Universal
-http://181.209.105.115:2525/play/studiouniversal/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Studio Universal HD
 http://152.230.246.26:8001/play/a040/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Studio Universal HD
@@ -1023,8 +891,6 @@ http://200.59.191.177:8000/play/a0jo/index.m3u8?
 http://cablemaxsigloxxi.com:8000/play/a06e/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",TCM
 http://200.229.147.210:9999/play/a05j/index.m3u8
-#EXTINF:-1 group-title="PELICULAS",TCM
-http://181.209.105.115:2525/play/tcm/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",TNT
 http://200.59.191.177:8000/play/a0og/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",TNT
@@ -1035,8 +901,6 @@ http://152.230.246.26:8001/play/a02n/index.m3u8
 http://cablemaxsigloxxi.com:8000/play/a06y/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",TNT HD
 http://200.229.147.210:9999/play/a0av/index.m3u8
-#EXTINF:-1 group-title="PELICULAS",TNT HD
-http://181.209.105.115:2525/play/tnt/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",TNT Novelas
 http://200.59.191.177:8000/play/a0pf/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",TNT Novelas
@@ -1045,8 +909,6 @@ http://200.229.147.210:9999/play/a02y/index.m3u8
 http://152.230.246.26:8001/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",TNT Novelas HD
 http://cablemaxsigloxxi.com:8000/play/a08p/index.m3u8?hls
-#EXTINF:-1 group-title="PELICULAS",TNT Novelas HD
-http://181.209.105.115:2525/play/tntnovelas/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",TNT Series
 http://200.59.191.177:8000/play/a06z/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",TNT Series
@@ -1055,10 +917,6 @@ http://200.229.147.210:9999/play/a02x/index.m3u8
 http://152.230.246.26:8001/play/a00q/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",TNT Series HD
 http://200.229.147.210:9999/play/a08o/index.m3u8
-#EXTINF:-1 group-title="PELICULAS",TNT Series HD
-http://181.209.105.115:2525/play/tntseries/index.m3u8
-#EXTINF:-1 group-title="PELICULAS",TNT Sports HD
-http://181.209.105.115:2525/play/tntsports/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",VVD CINECANAL
 http://cablemaxsigloxxi.com:8000/play/a0t0/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",VVD FX
@@ -1077,8 +935,6 @@ http://200.59.191.177:8000/play/a0nz/index.m3u8?
 http://cablemaxsigloxxi.com:8000/play/a00r/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",AXN HD
 http://200.229.147.210:9999/play/a07j/index.m3u8
-#EXTINF:-1 group-title="SERIES",AXN HD
-http://181.209.105.115:2525/play/axn/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",Lifetime
 http://152.230.246.26:8001/play/a05c/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",Lifetime
@@ -1105,8 +961,6 @@ http://152.230.246.26:8001/play/a02r/index.m3u8
 http://cablemaxsigloxxi.com:8000/play/a00q/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",SONY HD
 http://200.229.147.210:9999/play/a06i/index.m3u8
-#EXTINF:-1 group-title="SERIES",Sony HD
-http://181.209.105.115:2525/play/sonyhd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",Telenovelas
 http://200.59.191.177:8000/play/a0qo/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",Telenovelas
@@ -1127,8 +981,6 @@ http://200.229.147.210:9999/play/a064/index.m3u8
 http://cablemaxsigloxxi.com:8000/play/a08b/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",Warner Channel HD
 http://200.59.191.177:8000/play/a0oa/index.m3u8?
-#EXTINF:-1 group-title="SERIES",Warner Channel HD
-http://181.209.105.115:2525/play/warnerchannel/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",WARNER HD
 http://200.229.147.210:9999/play/a0bd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",Warner TV HD
@@ -1147,8 +999,6 @@ http://200.59.191.177:8000/play/a00f/index.m3u8?
 http://cablemaxsigloxxi.com:8000/play/a0u3/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Baby TV
 http://200.229.147.210:9999/play/a002/index.m3u8
-#EXTINF:-1 group-title="INFANTILES",Baby TV
-http://181.209.105.115:2525/play/babytv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Cartoon Network
 http://200.229.147.210:9999/play/a02n/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Cartoon Network HD
@@ -1159,8 +1009,6 @@ http://200.59.191.177:8000/play/a0jm/index.m3u8?
 http://cablemaxsigloxxi.com:8000/play/a07j/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",CARTOON NETWORK HD
 http://200.229.147.210:9999/play/a00x/index.m3u8
-#EXTINF:-1 group-title="INFANTILES",Cartoon Network HD
-http://181.209.105.115:2525/play/cartoonnetwork/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Cartoonito
 http://152.230.246.26:8001/play/a0c3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Cartoonito
@@ -1179,16 +1027,12 @@ http://cablemaxsigloxxi.com:8000/play/a07k/index.m3u8?hls
 http://200.229.147.210:9999/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",DISNEY CH
 http://200.59.191.177:8000/play/a0qu/index.m3u8?
-#EXTINF:-1 group-title="INFANTILES",Disney Channel HD
-http://181.209.105.115:2525/play/disneychannel/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Disney JR
 http://200.229.147.210:9999/play/a02q/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Disney Jr. R
 http://cablemaxsigloxxi.com:8000/play/a028/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Disney Junior
 http://200.59.191.177:8000/play/a00c/index.m3u8?
-#EXTINF:-1 group-title="INFANTILES",Disney Junior
-http://181.209.105.115:2525/play/disneyjunior/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Nick HD
 http://200.59.191.177:8000/play/a0o5/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Nick HD
@@ -1197,14 +1041,10 @@ http://cablemaxsigloxxi.com:8000/play/a0tt/index.m3u8?hls
 http://152.230.246.26:8001/play/a06g/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Nick Jr
 http://200.229.147.210:9999/play/a02o/index.m3u8
-#EXTINF:-1 group-title="INFANTILES",Nick Jr
-http://181.209.105.115:2525/play/nickjr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Nick Jr.
 http://cablemaxsigloxxi.com:8000/play/a081/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Nickelodeon
 http://200.229.147.210:9999/play/a06y/index.m3u8
-#EXTINF:-1 group-title="INFANTILES",Nickelodeon
-http://181.209.105.115:2525/play/nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Nickelodeon HD
 http://152.230.246.26:8001/play/a01b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Nickelodeon HD
@@ -1245,14 +1085,10 @@ http://cablemaxsigloxxi.com:8000/play/a0u1/index.m3u8?hls
 http://152.230.246.26:8001/play/a02k/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery Channel HD
 http://200.229.147.210:9999/play/a08p/index.m3u8
-#EXTINF:-1 group-title="DOCUMENTALES",Discovery Channel HD
-http://181.209.105.115:2525/play/discoverychannel/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery H&H
 http://200.59.191.177:8000/play/a04w/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery H&H
 http://cablemaxsigloxxi.com:8000/play/a080/index.m3u8?hls
-#EXTINF:-1 group-title="DOCUMENTALES",Discovery H&H HD
-http://181.209.105.115:2525/play/discoveryhh/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery HD
 http://200.59.191.177:8000/play/a0pb/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery Home & Health
@@ -1261,8 +1097,6 @@ http://200.229.147.210:9999/play/a072/index.m3u8
 http://200.229.147.210:9999/play/a08t/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery Kids
 http://200.229.147.210:9999/play/a06x/index.m3u8
-#EXTINF:-1 group-title="DOCUMENTALES",Discovery Kids
-http://181.209.105.115:2525/play/discoverykids/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery Kids HD
 http://200.229.147.210:9999/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery Science
@@ -1271,16 +1105,12 @@ http://200.59.191.177:8000/play/a0qk/index.m3u8?
 http://cablemaxsigloxxi.com:8000/play/a00g/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery Science
 http://200.229.147.210:9999/play/a008/index.m3u8
-#EXTINF:-1 group-title="DOCUMENTALES",Discovery Science
-http://181.209.105.115:2525/play/discoveryscience/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery Theater
 http://200.59.191.177:8000/play/a0p6/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery Theater HD
 http://152.230.246.26:8001/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery Theater HD
 http://cablemaxsigloxxi.com:8000/play/a06w/index.m3u8?hls
-#EXTINF:-1 group-title="DOCUMENTALES",Discovery Theater HD
-http://181.209.105.115:2525/play/discoverytheater/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery Turbo
 http://152.230.246.26:8001/play/a06h/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery Turbo
@@ -1289,22 +1119,16 @@ http://200.59.191.177:8000/play/a0qs/index.m3u8?
 http://cablemaxsigloxxi.com:8000/play/a0u9/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery Turbo
 http://200.229.147.210:9999/play/a071/index.m3u8
-#EXTINF:-1 group-title="DOCUMENTALES",Discovery Turbo
-http://181.209.105.115:2525/play/discoveryturbo/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery World HD
 http://152.230.246.26:8001/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery World HD
 http://200.59.191.177:8000/play/a0pw/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery World HD
 http://200.229.147.210:9999/play/a08q/index.m3u8
-#EXTINF:-1 group-title="DOCUMENTALES",Discovery World HD
-http://181.209.105.115:2525/play/discoveryworld/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",History 2
 http://152.230.246.26:8001/play/a03d/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",History 2
 http://cablemaxsigloxxi.com:8000/play/a0tk/index.m3u8?hls
-#EXTINF:-1 group-title="DOCUMENTALES",History 2
-http://181.209.105.115:2525/play/history2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",History 2 HD
 http://200.59.191.177:8000/play/a0kp/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",History Channel
@@ -1329,12 +1153,8 @@ http://200.59.191.177:8000/play/a0lj/index.m3u8?
 http://200.59.191.177:8000/play/a0jf/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Nat Geo HD
 http://200.229.147.210:9999/play/a08m/index.m3u8
-#EXTINF:-1 group-title="DOCUMENTALES",Nat Geo HD
-http://181.209.105.115:2525/play/natgeo/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",National Geographic
 http://200.229.147.210:9999/play/a02z/index.m3u8
-#EXTINF:-1 group-title="DOCUMENTALES",The History Channel HD
-http://181.209.105.115:2525/play/thehistorychannel/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",VVD NAT GEO CABLE MAX
 http://cablemaxsigloxxi.com:8000/play/a0su/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",BANDAMAX
@@ -1349,14 +1169,10 @@ http://200.59.191.177:8000/play/a00n/index.m3u8?
 http://cablemaxsigloxxi.com:8000/play/a03q/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",HTV
 http://200.229.147.210:9999/play/a05h/index.m3u8
-#EXTINF:-1 group-title="MUSICA",HTV
-http://181.209.105.115:2525/play/htv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",KARIBENA
 http://cablemaxsigloxxi.com:8000/play/a0hw/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",MTV
 http://200.59.191.177:8000/play/a0pd/index.m3u8?
-#EXTINF:-1 group-title="MUSICA",MTV
-http://181.209.105.115:2525/play/mtv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",MTV HD
 http://152.230.246.26:8001/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",MTV HD
@@ -1409,11 +1225,7 @@ http://200.229.147.210:9999/play/a03a/index.m3u8
 http://200.59.191.177:8000/play/a0p3/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ADULTOS",Playboy
 http://200.229.147.210:9999/play/a02c/index.m3u8
-#EXTINF:-1 group-title="ADULTOS",Playboy
-http://181.209.105.115:2525/play/playboy/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ADULTOS",Venus
 http://200.59.191.177:8000/play/a0kw/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ADULTOS",VENUS
 http://200.229.147.210:9999/play/a05m/index.m3u8
-#EXTINF:-1 group-title="ADULTOS",Venus
-http://181.209.105.115:2525/play/venus/index.m3u8
