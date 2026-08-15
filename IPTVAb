@@ -1,1513 +1,1513 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",(HCO) CNH HUANUCO
+#EXTINF:-1 group-title="TV GENERAL",(HCO) CNH HUANUCO
 http://cablemaxsigloxxi.com:8000/play/a0ob/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",(HCO) CONTINENTAL
+#EXTINF:-1 group-title="TV GENERAL",(HCO) CONTINENTAL
 http://cablemaxsigloxxi.com:8000/play/a0or/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",(HCO) REAL TV
+#EXTINF:-1 group-title="TV GENERAL",(HCO) REAL TV
 http://cablemaxsigloxxi.com:8000/play/a0ni/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",(HCO) TELERUMBA
+#EXTINF:-1 group-title="TV GENERAL",(HCO) TELERUMBA
 http://cablemaxsigloxxi.com:8000/play/a0mb/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",(HCO) TV ORION
+#EXTINF:-1 group-title="TV GENERAL",(HCO) TV ORION
 http://cablemaxsigloxxi.com:8000/play/a0nh/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",(HUANUCO) HDSRL
+#EXTINF:-1 group-title="TV GENERAL",(HUANUCO) HDSRL
 http://cablemaxsigloxxi.com:8000/play/a066/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",1 TV URANIO
+#EXTINF:-1 group-title="TV GENERAL",1 TV URANIO
 http://cablemaxsigloxxi.com:8000/play/a0kn/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",10 nicaragua
+#EXTINF:-1 group-title="TV GENERAL",10 nicaragua
 http://200.229.147.210:9999/play/a01t/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",11 - Repretel
-http://200.229.147.210:9999/play/a050/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",123 TV (35e)
-http://200.59.191.177:8000/play/a0lb/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",13 C
-http://cablemaxsigloxxi.com:8000/play/a0u5/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",13-Sinart
-http://200.229.147.210:9999/play/a00p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",4 Repretel
-http://200.229.147.210:9999/play/a060/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",42 - Extra TV 42
-http://200.229.147.210:9999/play/a00q/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",6 - Repretel
-http://200.229.147.210:9999/play/a04z/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",A&E
-http://200.59.191.177:8000/play/a00l/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",A&E HD
-http://152.230.246.26:8001/play/a00f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",A&E HD
-http://200.229.147.210:9999/play/a0ai/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Adult Swim
-http://152.230.246.26:8001/play/a02e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Adult Swim
-http://cablemaxsigloxxi.com:8000/play/a03e/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",AIRTV Santa Barbara
-http://200.229.147.210:9999/play/a03y/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Alba TV (35e)
-http://200.59.191.177:8000/play/a0lc/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",AMAZONICA TV
-http://cablemaxsigloxxi.com:8000/play/a0m4/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",AMERICA
-http://cablemaxsigloxxi.com:8000/play/a05m/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",America TV HD
-http://152.230.246.26:8001/play/a04b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",America TV HD
-http://200.59.191.177:8000/play/a0q0/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Antena 3
-http://200.229.147.210:9999/play/a005/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Antena 7- RD
-http://200.229.147.210:9999/play/a02h/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",ANTV (35e)
-http://200.59.191.177:8000/play/a0l9/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Atres Series
-http://152.230.246.26:8001/play/a00m/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",ATV(MAX949092800)
-http://cablemaxsigloxxi.com:8000/play/a08f/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",ATV+
-http://cablemaxsigloxxi.com:8000/play/a0nm/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Avila TV (35e)
-http://200.59.191.177:8000/play/a0lg/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",AZ click HD
-http://200.229.147.210:9999/play/a0ap/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",AZ CORAZON
-http://cablemaxsigloxxi.com:8000/play/a0ki/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Azcorazon
-http://200.229.147.210:9999/play/a02v/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Azmundo
-http://200.229.147.210:9999/play/a062/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",AZTECA UN0
-http://200.229.147.210:9999/play/a01o/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",BH TV
-http://cablemaxsigloxxi.com:8000/play/a011/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",BITME
-http://200.229.147.210:9999/play/a01y/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",BNB DIGITAL
-http://cablemaxsigloxxi.com:8000/play/a0f2/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Bolivia TV (35e)
-http://200.59.191.177:8000/play/a0m4/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",BOOMTV
-http://200.229.147.210:9999/play/a01l/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal  21 - ESA
-http://200.229.147.210:9999/play/a06t/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal 10 - ESA
-http://200.229.147.210:9999/play/a00a/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal 10 HD - ESA
-http://200.229.147.210:9999/play/a00e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",CANAL 11
-http://200.229.147.210:9999/play/a01f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal 11 - GUA
-http://200.229.147.210:9999/play/a04k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal 11 - HON
-http://200.229.147.210:9999/play/a02f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal 12 - ESA
-http://200.229.147.210:9999/play/a04m/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal 12 - NI
-http://200.229.147.210:9999/play/a02j/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal 13
-http://200.59.191.177:8000/play/a0qc/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",CANAL 13 - NI
-http://200.229.147.210:9999/play/a04u/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal 13 HD
-http://152.230.246.26:8001/play/a00d/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal 13-GUA
-http://200.229.147.210:9999/play/a04j/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal 14 - NIC
-http://200.229.147.210:9999/play/a04p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",CANAL 18 PURINGLA
-http://200.229.147.210:9999/play/a040/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal 19  ESA
-http://200.229.147.210:9999/play/a052/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal 2 - ESA
-http://200.229.147.210:9999/play/a05t/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal 2 - NIC
-http://200.229.147.210:9999/play/a05v/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal 3 - GUA
-http://200.229.147.210:9999/play/a05r/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal 3 Telesistemas HND
-http://200.229.147.210:9999/play/a06v/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal 4 - ESA
-http://200.229.147.210:9999/play/a05s/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal 4 - NIC
-http://200.229.147.210:9999/play/a06q/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal 4 HD ESA
-http://200.229.147.210:9999/play/a00f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal 5 - HON
-http://200.229.147.210:9999/play/a0b7/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",CANAL 6
-http://200.229.147.210:9999/play/a03l/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal 6 - ESA
-http://200.229.147.210:9999/play/a04l/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal 6 - NI
-http://200.229.147.210:9999/play/a04t/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal 7 - GUA
-http://200.229.147.210:9999/play/a05q/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal 7 HD CR
-http://200.229.147.210:9999/play/a0ac/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal 8 - NIC
-http://200.229.147.210:9999/play/a04o/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal 8 TNH HN
-http://200.229.147.210:9999/play/a001/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal Antigua - GUA
-http://200.229.147.210:9999/play/a05o/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal Azteca - GUA
-http://200.229.147.210:9999/play/a05p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal Claro
-http://200.229.147.210:9999/play/a02d/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal de las Estrellas
-http://200.59.191.177:8000/play/a0pc/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",CANAL DE LAS ESTRELLAS
-http://200.229.147.210:9999/play/a01n/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal del Congreso
-http://200.229.147.210:9999/play/a06o/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",CANAL I (35e)
-http://200.59.191.177:8000/play/a0lo/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal Las Estrellas
-http://152.230.246.26:8001/play/a06x/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",CANAL LUZ
-http://cablemaxsigloxxi.com:8000/play/a0nl/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal Publico de Argentina
-http://200.59.191.177:8000/play/a00e/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",CANAL SANTANA
-http://200.229.147.210:9999/play/a018/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Canal VTV HND
-http://200.229.147.210:9999/play/a06w/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",CanalB
-http://cablemaxsigloxxi.com:8000/play/a0b1/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Caracol
-http://200.59.191.177:8000/play/a001/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",CCI Channel
-http://200.229.147.210:9999/play/a00v/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",CCS Movies
-http://200.59.191.177:8000/play/a005/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",CDN2- RD
-http://200.229.147.210:9999/play/a04r/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",CDN37 - RD
-http://200.229.147.210:9999/play/a05z/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",CEN49
-http://200.229.147.210:9999/play/a03u/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",CERTV
-http://200.229.147.210:9999/play/a06l/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",CGNT ESPA
-http://cablemaxsigloxxi.com:8000/play/a05q/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",CGTN (35e)
-http://200.59.191.177:8000/play/a0lq/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",CGTN Documentary (35e)
-http://200.59.191.177:8000/play/a0lr/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",CHOLUTECA TV
-http://200.229.147.210:9999/play/a027/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",CHOLUVISION
-http://200.229.147.210:9999/play/a01d/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",CHV
-http://200.59.191.177:8000/play/a0od/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",CHV HD
-http://152.230.246.26:8001/play/a016/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",CHV HD
-http://cablemaxsigloxxi.com:8000/play/a073/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",CHV HD
-http://cablemaxsigloxxi.com:8000/play/a0sa/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Clave (35e)
-http://200.59.191.177:8000/play/a0m7/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Coco HD
-http://200.229.147.210:9999/play/a014/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Colombeia (35e)
-http://200.59.191.177:8000/play/a0la/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Color Vision 9 - RD
-http://200.229.147.210:9999/play/a05y/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Comedy Central HD
-http://152.230.246.26:8001/play/a00g/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Comedy Central HD
-http://200.59.191.177:8000/play/a0pn/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Comedy Central HD
-http://cablemaxsigloxxi.com:8000/play/a07t/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Comedy Central HD
-http://200.229.147.210:9999/play/a0az/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",ConCiencia (35e)
-http://200.59.191.177:8000/play/a0ld/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",CONECTADOS TV
-http://cablemaxsigloxxi.com:8000/play/a0a5/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",CONGRESO HN
-http://200.229.147.210:9999/play/a01m/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",CORPORACION TV
-http://cablemaxsigloxxi.com:8000/play/a01p/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",CRTV
-http://200.229.147.210:9999/play/a01r/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",CVS
-http://200.229.147.210:9999/play/a03m/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",De PelŦcula
-http://cablemaxsigloxxi.com:8000/play/a04p/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Digital 15 - RD
-http://200.229.147.210:9999/play/a04q/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",DISC THEATHER HD
-http://200.229.147.210:9999/play/a0aw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Distrito Comedia
-http://200.59.191.177:8000/play/a00b/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",DISTRITO COMEDIA
-http://200.229.147.210:9999/play/a01z/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",DTV (35e)
-http://200.59.191.177:8000/play/a0lx/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",E!
-http://200.229.147.210:9999/play/a065/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",E! Entertairment HD
-http://200.229.147.210:9999/play/a0ag/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",E! HD
-http://200.59.191.177:8000/play/a0k1/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",El Gourmet
-http://cablemaxsigloxxi.com:8000/play/a07u/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",El Gourmet
-http://200.229.147.210:9999/play/a058/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",El Gourmet HD
-http://152.230.246.26:8001/play/a00h/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",El Gourmet HD
-http://200.59.191.177:8000/play/a0pa/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Entret: Tnt Novelas 1080p
-http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/679576
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",EURO Channel
-http://200.229.147.210:9999/play/a056/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Europa Europa
-http://152.230.246.26:8001/play/a03r/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Europa HD
-http://200.229.147.210:9999/play/a0am/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Exa TV
-http://200.229.147.210:9999/play/a06f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",FFAA
-http://200.229.147.210:9999/play/a02k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Film & Arts
-http://200.229.147.210:9999/play/a00r/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Film & arts HD
-http://200.229.147.210:9999/play/a0ah/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Food Network HD
-http://200.59.191.177:8000/play/a0k4/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Food Network HD
-http://cablemaxsigloxxi.com:8000/play/a07r/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",FOX CR
-http://200.229.147.210:9999/play/a03x/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Galavision Los Angeles
-http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9IFZM6M4WpOEGoZsXX0GpIE
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Gamavision(35e)
-http://200.59.191.177:8000/play/a0mk/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Global
-http://cablemaxsigloxxi.com:8000/play/a08g/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",GLOBOVISION (35e)
-http://200.59.191.177:8000/play/a0lh/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",GT: TN23 [HD]
-http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/95206
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Guatevision - GUA
-http://200.229.147.210:9999/play/a02e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",H2
-http://200.229.147.210:9999/play/a057/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",HCH
-http://200.229.147.210:9999/play/a015/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",HCH (35e)
-http://200.59.191.177:8000/play/a0m6/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",HCH- HON
-http://200.229.147.210:9999/play/a02m/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",HGTV
-http://cablemaxsigloxxi.com:8000/play/a03b/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",HITV
-http://200.229.147.210:9999/play/a017/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Hola Tv
-http://200.59.191.177:8000/play/a007/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",HOLA TV
-http://cablemaxsigloxxi.com:8000/play/a062/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",HOLA! TV HD
-http://200.229.147.210:9999/play/a0ay/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Hola!TV
-http://200.229.147.210:9999/play/a009/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Home & Health HD
-http://152.230.246.26:8001/play/a0bh/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Home & Health HD
-http://cablemaxsigloxxi.com:8000/play/a07q/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Home & Health HD
-http://200.229.147.210:9999/play/a0ax/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Home Garden Latino
-http://200.229.147.210:9999/play/a007/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Hospicio TV a Xtream
-http://152.230.246.26:8001/play/a08j/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Iquique TV a XTREAM
-http://152.230.246.26:8001/play/a0bz/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",JBN
-http://200.229.147.210:9999/play/a03q/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",JN19
-http://cablemaxsigloxxi.com:8000/play/a07i/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",KANAL DE DRAMA
-http://cablemaxsigloxxi.com:8000/play/a0sq/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",L1 MAX
-http://cablemaxsigloxxi.com:8000/play/a07e/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",LA NUEVA VISION
-http://200.229.147.210:9999/play/a01j/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",La Red
-http://152.230.246.26:8001/play/a05j/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",La Red
-http://cablemaxsigloxxi.com:8000/play/a02v/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",La Red HD
-http://200.59.191.177:8000/play/a0o4/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Las Estrellas HD
-http://cablemaxsigloxxi.com:8000/play/a06x/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Las Estrellas HD R
-http://cablemaxsigloxxi.com:8000/play/a02e/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Latina HD
-http://200.59.191.177:8000/play/a0q2/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Latina HD
-http://cablemaxsigloxxi.com:8000/play/a07c/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",LIFE TIME
-http://200.229.147.210:9999/play/a030/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Mas Chic
-http://200.229.147.210:9999/play/a004/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",MAYA TV
-http://cablemaxsigloxxi.com:8000/play/a010/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",MEGA
-http://200.59.191.177:8000/play/a0pv/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",MEGA HD
-http://152.230.246.26:8001/play/a01c/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",MEGA HD
-http://cablemaxsigloxxi.com:8000/play/a02t/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",MEGA TV PASCO
-http://cablemaxsigloxxi.com:8000/play/a00z/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",METRO TV
-http://200.229.147.210:9999/play/a01e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Milenial TV
-http://cablemaxsigloxxi.com:8000/play/a0l0/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",MiMusica HD Reggaeton
-http://190.60.37.154:45000/play/a00z/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",MiMusica Popular
-http://190.60.37.154:45000/play/a010/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",MiMusica Romantica
-http://190.60.37.154:45000/play/a01u/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",MiMusica Salsa
-http://190.60.37.154:45000/play/a01t/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Multimedios
-http://200.229.147.210:9999/play/a00o/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Mx: 5 1080p
-http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9EOdsF13Hqb4Kd7dsBcTK8w
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Mx: 5 480p
-http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9Cplgzx05P0VQ3FeDfvwyQw
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Mx: Azteca 7 1080p
-http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9MwF0SNLhwAh9jvKqJaxZek
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Mx: Bitme 480p
-http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9HaaF3fdq6Wt093G6IMe-pA
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Mx: Milenio 1080p
-http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9NaaQPyRC0CJpEkfTjiCSsw
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Nativa tv
-http://cablemaxsigloxxi.com:8000/play/a08x/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",NEXT
-https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Nicarao TV
-http://200.229.147.210:9999/play/a02r/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",NTV
-http://152.230.246.26:8001/play/a0c4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Nuestra Tele
-http://cablemaxsigloxxi.com:8000/play/a03k/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Oromar (35e)
-http://200.59.191.177:8000/play/a0ls/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",OROMAR TV
-http://cablemaxsigloxxi.com:8000/play/a040/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Panamericana
-http://cablemaxsigloxxi.com:8000/play/a08e/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Paramount
-http://200.229.147.210:9999/play/a00t/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Paramount HD
-http://200.229.147.210:9999/play/a08n/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",PICOSA
-http://200.229.147.210:9999/play/a025/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",PORTAL DEL SUR
-http://200.229.147.210:9999/play/a01x/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",PXTV
-http://200.229.147.210:9999/play/a05e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",QHUBO TV
-http://200.229.147.210:9999/play/a03f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Radio  YVKE Mundial (35e)
-http://200.59.191.177:8000/play/a05x/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",RADIO ORIENTE
-http://cablemaxsigloxxi.com:8000/play/a06n/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Radio Salsa Caribe (35e)
-http://200.59.191.177:8000/play/a064/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Radio Sur (35e)
-http://200.59.191.177:8000/play/a066/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",RCN
-http://200.59.191.177:8000/play/a004/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",RCN - GUA
-http://200.229.147.210:9999/play/a06p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Red Advenir (35e)
-http://200.59.191.177:8000/play/a0me/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",RNN - RD
-http://200.229.147.210:9999/play/a00n/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",RUMBO MINERO
-http://cablemaxsigloxxi.com:8000/play/a0no/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",SANJUANERA TV
-http://cablemaxsigloxxi.com:8000/play/a0kj/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Show Ven (35e)
-http://200.59.191.177:8000/play/a0lf/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Sol Tv
-http://200.229.147.210:9999/play/a013/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",STAR
-http://200.229.147.210:9999/play/a020/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Star TVE HD
-http://200.229.147.210:9999/play/a0aq/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",SUMAC TV
-http://cablemaxsigloxxi.com:8000/play/a0od/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Sun Channel
-http://200.59.191.177:8000/play/a0ow/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Sun Channel
-http://200.229.147.210:9999/play/a059/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",SUYAI TV
-http://cablemaxsigloxxi.com:8000/play/a05s/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",SUYAPA TV
-http://200.229.147.210:9999/play/a04n/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TD+2 HD CR
-http://200.229.147.210:9999/play/a00h/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TD+HD CR
-http://200.229.147.210:9999/play/a00g/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Tele Antillas - RD
-http://200.229.147.210:9999/play/a02g/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TELEANTILLAS (35e)
-http://200.59.191.177:8000/play/a0mi/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Telearagua (35e)
-http://200.59.191.177:8000/play/a003/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TELECADENA 7/4
-http://200.229.147.210:9999/play/a01h/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Telecentro - RD
-http://200.229.147.210:9999/play/a04v/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TeleMicro - RD
-http://200.229.147.210:9999/play/a05x/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Telemundo
-http://152.230.246.26:8001/play/a070/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Telemundo
-http://200.59.191.177:8000/play/a0kz/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Telemundo
-http://cablemaxsigloxxi.com:8000/play/a01w/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TELEMUNDO
-http://200.229.147.210:9999/play/a01q/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Telemundo
-http://200.229.147.210:9999/play/a02u/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Telemundo HD
-http://200.229.147.210:9999/play/a0ak/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Telesistema RD
-http://200.229.147.210:9999/play/a02i/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TELESUR
-http://200.229.147.210:9999/play/a023/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Telesur (35e)
-http://200.59.191.177:8000/play/a0l8/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Teleunion - RD
-http://200.229.147.210:9999/play/a04w/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Teleuniverso - RD
-http://200.229.147.210:9999/play/a04s/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TELEVICTORIA
-http://200.229.147.210:9999/play/a03g/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TELEVIDA
-http://200.229.147.210:9999/play/a01k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Televida RD
-http://200.229.147.210:9999/play/a00m/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TEN 10
-http://200.229.147.210:9999/play/a02l/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TLC
-http://152.230.246.26:8001/play/a024/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TLC
-http://200.59.191.177:8000/play/a06j/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TLC
-http://cablemaxsigloxxi.com:8000/play/a038/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TLC
-http://200.229.147.210:9999/play/a06b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TLT (35e)
-http://200.59.191.177:8000/play/a0ll/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TNH8
-http://200.229.147.210:9999/play/a01c/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TOP TV
-http://cablemaxsigloxxi.com:8000/play/a01q/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TSI
-http://200.229.147.210:9999/play/a01b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TV AGRO
-http://200.229.147.210:9999/play/a03k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TV Culturas (35e)
-http://200.59.191.177:8000/play/a0mx/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TV FANB (35e)
-http://200.59.191.177:8000/play/a0le/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TV Galicia (35e)
-http://200.59.191.177:8000/play/a0p7/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TV Oriente ESA
-http://200.229.147.210:9999/play/a06n/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TV Peru SD
-http://152.230.246.26:8001/play/a067/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TV+
-http://cablemaxsigloxxi.com:8000/play/a020/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TV+ HD
-http://200.59.191.177:8000/play/a0jd/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TVChile
-http://200.229.147.210:9999/play/a006/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TVE
-http://152.230.246.26:8001/play/a05a/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TVE
-http://200.229.147.210:9999/play/a07h/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TVES (35e)
-http://200.59.191.177:8000/play/a0l7/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TVM25 -  ESA
-http://200.229.147.210:9999/play/a06u/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TVN
-http://200.59.191.177:8000/play/a0oc/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TVN HD
-http://152.230.246.26:8001/play/a015/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TVN HD
-http://cablemaxsigloxxi.com:8000/play/a02r/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TVS
-http://200.229.147.210:9999/play/TVS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",TVS
-http://200.229.147.210:9999/play/a03p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",UN24 (35e)
-http://200.59.191.177:8000/play/a00g/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",UNE TV
-http://200.229.147.210:9999/play/a01i/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",UNITEL (35e)
-http://200.59.191.177:8000/play/a0md/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",UNITEL-SCZ
-http://152.230.246.26:8001/play/a0bo/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Universal
-http://200.229.147.210:9999/play/a07a/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",UNIVERSAL CINEMA ESTE HD
-http://200.229.147.210:9999/play/a08u/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",UNIVERSAL COMEDY HD
-http://200.229.147.210:9999/play/a0b6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",UNIVERSAL CRIME HD
-http://200.229.147.210:9999/play/a0b5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",UNIVERSAL PREMIERE HD
-http://200.229.147.210:9999/play/a0b2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",UNIVERSAL PREMIERE O HD
-http://200.229.147.210:9999/play/a0b3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",UNIVERSAL REALITY HD
-http://200.229.147.210:9999/play/a0b4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Univision HD
-http://200.229.147.210:9999/play/a08s/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/679081
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/624006
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9KWR8SVEUNgPAkJszSBGYfk
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9IH0eShvAS-U5refW7jSAYg
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9Jt9mPZJ-TFddTVth83BWrM
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/83748
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/679702
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/679703
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/678158
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9LqkhzE0T6Grr3l3QewpYNs
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/6284
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/678906
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9D6boEl0xzPCWFW89ETx5vg
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9JdcnGosvbT6DfVAUEUnc4c
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/83780
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/679449
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9Kqfb9E6bgLj6TmOC6LsYvY
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/677926
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/677927
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/677930
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/677934
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9AGVmN8OiEYSt5YKx6xNLlc
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/679455
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9CKEleG22y5Bab2FLwW3CoA
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9CKEleG22y5Bab2FLwW3CoA
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/83813
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9GbbQYg8yPDXhN_PR-xLqOM
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/679454
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9CTUHb65YOrZnqryarhjlVQ
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/678045
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9DIOfMs6E3ZGJnFJUaYr6f4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9DupISwkZnZ6Jb2GhnshVgI
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Distrito_Comedia_2022.png/revision/latest/scale-to-width-down/1000?cb=20230211015512&path-prefix=es" group-title="SERIES",Distrito Comedia
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9LeAqjNbYvJnjRCoE9nUwuw
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
+#EXTINF:-1 group-title="TV GENERAL",11 - Repretel
+http://200.229.147.210:9999/play/a050/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",123 TV (35e)
+http://200.59.191.177:8000/play/a0lb/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",13 C
+http://cablemaxsigloxxi.com:8000/play/a0u5/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",13-Sinart
+http://200.229.147.210:9999/play/a00p/index.m3u8
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-logo="https://i.ibb.co/nq4s1LCm/250.webp" group-title="SERIES",Distrito Comedia
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9MlpyHZUhFI3lBFoA7VRNR0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/676957
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/676960
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9NIO9ouFvqOZajMYwSefous
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9FuVXz6uSg_jB3R07w8lrpA
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9DdskgroHN-OC49_Cmr53rU
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9Nbrdh9fpOTS8SzQsmQ5NnE
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-logo="https://pics.filmaffinity.com/251919393202173-nm_200.jpg" group-title="TV GENERAL",251919393202173 Nm 200
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/678906
+#EXTINF:-1 tvg-id="DISCOVERY FAMILIA" tvg-logo="https://static.wikia.nocookie.net/discovery-kids/images/1/19/Df.png/revision/latest/scale-to-width/360?cb=20210525191149&path-prefix=es" group-title="TV GENERAL",360
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/678158
+#EXTINF:-1 group-title="TV GENERAL",4 Repretel
+http://200.229.147.210:9999/play/a060/index.m3u8
+#EXTINF:-1 tvg-id="LA1.es" tvg-logo="https://i.ibb.co/8gzJZsJz/402-s.webp" group-title="TV GENERAL",402 S
 http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9D0M0u-eZiaHobByyYxxKeI
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9D0M0u-eZiaHobByyYxxKeI
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9AzuMdGvTygma27kCyJl77s
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9MhAILosgkaLbpG5GeTCZ04
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9PaFl_uvMc41cvfJ5qYHyME
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9EHn5BNGbe5ZM7RMg1RpLbg
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
+#EXTINF:-1 group-title="TV GENERAL",42 - Extra TV 42
+http://200.229.147.210:9999/play/a00q/index.m3u8
+#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM" tvg-logo="https://img.gruporeforma.com/imagenes/960x640/6/228/5227512.jpg" group-title="TV GENERAL",5227512
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/679455
+#EXTINF:-1 group-title="TV GENERAL",6 - Repretel
+http://200.229.147.210:9999/play/a04z/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",A&E
+http://200.59.191.177:8000/play/a00l/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",A&E HD
+http://152.230.246.26:8001/play/a00f/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",A&E HD
+http://200.229.147.210:9999/play/a0ai/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",AIRTV Santa Barbara
+http://200.229.147.210:9999/play/a03y/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Alba TV (35e)
+http://200.59.191.177:8000/play/a0lc/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",AMAZONICA TV
+http://cablemaxsigloxxi.com:8000/play/a0m4/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",AMERICA
+http://cablemaxsigloxxi.com:8000/play/a05m/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",America TV HD
+http://152.230.246.26:8001/play/a04b/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",America TV HD
+http://200.59.191.177:8000/play/a0q0/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",Antena 3
+http://200.229.147.210:9999/play/a005/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Antena 7- RD
+http://200.229.147.210:9999/play/a02h/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",ANTV (35e)
+http://200.59.191.177:8000/play/a0l9/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",ATV(MAX949092800)
+http://cablemaxsigloxxi.com:8000/play/a08f/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",ATV+
+http://cablemaxsigloxxi.com:8000/play/a0nm/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",Avila TV (35e)
+http://200.59.191.177:8000/play/a0lg/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",AZ click HD
+http://200.229.147.210:9999/play/a0ap/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",AZ CORAZON
+http://cablemaxsigloxxi.com:8000/play/a0ki/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",Azcorazon
+http://200.229.147.210:9999/play/a02v/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Azmundo
+http://200.229.147.210:9999/play/a062/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",AZTECA UN0
+http://200.229.147.210:9999/play/a01o/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",BH TV
+http://cablemaxsigloxxi.com:8000/play/a011/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",BITME
+http://200.229.147.210:9999/play/a01y/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",BNB DIGITAL
+http://cablemaxsigloxxi.com:8000/play/a0f2/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",Bolivia TV (35e)
+http://200.59.191.177:8000/play/a0m4/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",BOOMTV
+http://200.229.147.210:9999/play/a01l/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Canal 10 - ESA
+http://200.229.147.210:9999/play/a00a/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Canal 10 HD - ESA
+http://200.229.147.210:9999/play/a00e/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",CANAL 11
+http://200.229.147.210:9999/play/a01f/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Canal 11 - GUA
+http://200.229.147.210:9999/play/a04k/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Canal 11 - HON
+http://200.229.147.210:9999/play/a02f/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Canal 12 - ESA
+http://200.229.147.210:9999/play/a04m/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Canal 12 - NI
+http://200.229.147.210:9999/play/a02j/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Canal 13
+http://200.59.191.177:8000/play/a0qc/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",CANAL 13 - NI
+http://200.229.147.210:9999/play/a04u/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Canal 13 HD
+http://152.230.246.26:8001/play/a00d/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Canal 13-GUA
+http://200.229.147.210:9999/play/a04j/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Canal 14 - NIC
+http://200.229.147.210:9999/play/a04p/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",CANAL 18 PURINGLA
+http://200.229.147.210:9999/play/a040/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Canal 19 ESA
+http://200.229.147.210:9999/play/a052/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Canal 2 - ESA
+http://200.229.147.210:9999/play/a05t/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Canal 2 - NIC
+http://200.229.147.210:9999/play/a05v/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Canal 21 - ESA
+http://200.229.147.210:9999/play/a06t/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Canal 3 - GUA
+http://200.229.147.210:9999/play/a05r/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Canal 3 Telesistemas HND
+http://200.229.147.210:9999/play/a06v/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Canal 4 - ESA
+http://200.229.147.210:9999/play/a05s/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Canal 4 - NIC
+http://200.229.147.210:9999/play/a06q/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Canal 4 HD ESA
+http://200.229.147.210:9999/play/a00f/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Canal 5 - HON
+http://200.229.147.210:9999/play/a0b7/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",CANAL 6
+http://200.229.147.210:9999/play/a03l/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Canal 6 - ESA
+http://200.229.147.210:9999/play/a04l/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Canal 6 - NI
+http://200.229.147.210:9999/play/a04t/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Canal 7 - GUA
+http://200.229.147.210:9999/play/a05q/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Canal 7 HD CR
+http://200.229.147.210:9999/play/a0ac/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Canal 8 - NIC
+http://200.229.147.210:9999/play/a04o/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Canal 8 TNH HN
+http://200.229.147.210:9999/play/a001/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Canal Antigua - GUA
+http://200.229.147.210:9999/play/a05o/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Canal Azteca - GUA
+http://200.229.147.210:9999/play/a05p/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Canal Claro
+http://200.229.147.210:9999/play/a02d/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Canal de las Estrellas
+http://200.59.191.177:8000/play/a0pc/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",CANAL DE LAS ESTRELLAS
+http://200.229.147.210:9999/play/a01n/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Canal del Congreso
+http://200.229.147.210:9999/play/a06o/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",CANAL I (35e)
+http://200.59.191.177:8000/play/a0lo/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",Canal Las Estrellas
+http://152.230.246.26:8001/play/a06x/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",CANAL LUZ
+http://cablemaxsigloxxi.com:8000/play/a0nl/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",Canal Publico de Argentina
+http://200.59.191.177:8000/play/a00e/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",CANAL SANTANA
+http://200.229.147.210:9999/play/a018/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Canal VTV HND
+http://200.229.147.210:9999/play/a06w/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",CanalB
+http://cablemaxsigloxxi.com:8000/play/a0b1/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",Caracol
+http://200.59.191.177:8000/play/a001/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",CCI Channel
+http://200.229.147.210:9999/play/a00v/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",CDN2- RD
+http://200.229.147.210:9999/play/a04r/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",CDN37 - RD
+http://200.229.147.210:9999/play/a05z/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",CEN49
+http://200.229.147.210:9999/play/a03u/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",CERTV
+http://200.229.147.210:9999/play/a06l/index.m3u8
+#EXTINF:-1 tvg-id="AXN.mx" tvg-logo="https://imgs.search.brave.com/cCOavkPcRDsti5ia3VnWHZQCRC8N4wGHr3CW4ePxgDw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yZHMu/bGl2ZS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMy8wMS9BWE4u/cG5n" group-title="TV GENERAL",CG5N
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/679081
+#EXTINF:-1 group-title="TV GENERAL",CGNT ESPA
+http://cablemaxsigloxxi.com:8000/play/a05q/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",CGTN (35e)
+http://200.59.191.177:8000/play/a0lq/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",CGTN Documentary (35e)
+http://200.59.191.177:8000/play/a0lr/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",CHOLUTECA TV
+http://200.229.147.210:9999/play/a027/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",CHOLUVISION
+http://200.229.147.210:9999/play/a01d/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",CHV
+http://200.59.191.177:8000/play/a0od/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",CHV HD
+http://152.230.246.26:8001/play/a016/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",CHV HD
+http://cablemaxsigloxxi.com:8000/play/a073/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",CHV HD
+http://cablemaxsigloxxi.com:8000/play/a0sa/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",Clave (35e)
+http://200.59.191.177:8000/play/a0m7/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",Coco HD
+http://200.229.147.210:9999/play/a014/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Colombeia (35e)
+http://200.59.191.177:8000/play/a0la/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",Color Vision 9 - RD
+http://200.229.147.210:9999/play/a05y/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",ConCiencia (35e)
+http://200.59.191.177:8000/play/a0ld/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",CONECTADOS TV
+http://cablemaxsigloxxi.com:8000/play/a0a5/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",CONGRESO HN
+http://200.229.147.210:9999/play/a01m/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",CORPORACION TV
+http://cablemaxsigloxxi.com:8000/play/a01p/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",CRTV
+http://200.229.147.210:9999/play/a01r/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",CVS
+http://200.229.147.210:9999/play/a03m/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",De PelŦcula
+http://cablemaxsigloxxi.com:8000/play/a04p/index.m3u8?hls
+#EXTINF:-1 tvg-id="DePelícula.mx" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/DEPELICULAS.png" group-title="TV GENERAL",DEPELICULAS
+http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9IH0eShvAS-U5refW7jSAYg
+#EXTINF:-1 tvg-id="DePelícula.mx" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/DEPELICULAS.png" group-title="TV GENERAL",DEPELICULAS
+http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9Jt9mPZJ-TFddTVth83BWrM
+#EXTINF:-1 group-title="TV GENERAL",Digital 15 - RD
+http://200.229.147.210:9999/play/a04q/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",DISC THEATHER HD
+http://200.229.147.210:9999/play/a0aw/index.m3u8
+#EXTINF:-1 tvg-logo="https://immaa.xyz/disn302.png" group-title="TV GENERAL",Disn302
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9Nhc8lMs3_ro8AS7Vk91oAo
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
+#EXTINF:-1 tvg-logo="https://immaa.xyz/disn303.png" group-title="TV GENERAL",Disn303
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9GrR-tWN051sSjX2WwulaLU
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
+#EXTINF:-1 tvg-logo="https://immaa.xyz/disn304.png" group-title="TV GENERAL",Disn304
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9EPRki-KHQVu1AYkJZv_HuA
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
+#EXTINF:-1 tvg-logo="https://immaa.xyz/disn305.png" group-title="TV GENERAL",Disn305
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9FEjAK0G1NPA1F7WQrKXl14
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
+#EXTINF:-1 tvg-logo="https://immaa.xyz/disn3replay.png" group-title="TV GENERAL",Disn3Replay
+http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9EHn5BNGbe5ZM7RMg1RpLbg
+#EXTINF:-1 group-title="TV GENERAL",DTV (35e)
+http://200.59.191.177:8000/play/a0lx/index.m3u8?
+#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://pbs.twimg.com/media/E0UcMpvXsAQkFjd.png" group-title="TV GENERAL",E0Ucmpvxsaqkfjd
+http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9Kqfb9E6bgLj6TmOC6LsYvY
+#EXTINF:-1 tvg-id="ElGourmet.ar" tvg-logo="https://imgs.search.brave.com/jliEiwleusNdTaABz3eRHRhPVnE5XK-qnEr4BXvxxVk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9ibG9n/Z2VyLmdvb2dsZXVz/ZXJjb250ZW50LmNv/bS9pbWcvYS9BVnZY/c0VqR0dacThRTlpD/YUl0MWM0LVF0dUE4/eU" group-title="TV GENERAL",EU
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/676957
+#EXTINF:-1 group-title="TV GENERAL",EURO Channel
+http://200.229.147.210:9999/play/a056/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Europa Europa
+http://152.230.246.26:8001/play/a03r/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Europa HD
+http://200.229.147.210:9999/play/a0am/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.es" tvg-logo="https://www.panoramaaudiovisual.com/wp-content/uploads/2011/04/Eurosport-logo.jpeg" group-title="TV GENERAL",Eurosport
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/677934
+#EXTINF:-1 group-title="TV GENERAL",Exa TV
+http://200.229.147.210:9999/play/a06f/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",FFAA
+http://200.229.147.210:9999/play/a02k/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Film & Arts
+http://200.229.147.210:9999/play/a00r/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Film & arts HD
+http://200.229.147.210:9999/play/a0ah/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",FOX CR
+http://200.229.147.210:9999/play/a03x/index.m3u8
+#EXTINF:-1 tvg-id="Galavision.us" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/TELEMUNDOVIP/GALAVISION.png" group-title="TV GENERAL",Galavision Los Angeles
+http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9IFZM6M4WpOEGoZsXX0GpIE
+#EXTINF:-1 group-title="TV GENERAL",Gamavision(35e)
+http://200.59.191.177:8000/play/a0mk/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",Global
+http://cablemaxsigloxxi.com:8000/play/a08g/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",GLOBOVISION (35e)
+http://200.59.191.177:8000/play/a0lh/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",Guatevision - GUA
+http://200.229.147.210:9999/play/a02e/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",HCH
+http://200.229.147.210:9999/play/a015/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",HCH (35e)
+http://200.59.191.177:8000/play/a0m6/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",HCH- HON
+http://200.229.147.210:9999/play/a02m/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",HITV
+http://200.229.147.210:9999/play/a017/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",HOLA! TV HD
+http://200.229.147.210:9999/play/a0ay/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Home & Health HD
+http://152.230.246.26:8001/play/a0bh/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Home & Health HD
+http://cablemaxsigloxxi.com:8000/play/a07q/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",Home & Health HD
+http://200.229.147.210:9999/play/a0ax/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Home Garden Latino
+http://200.229.147.210:9999/play/a007/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Hospicio TV a Xtream
+http://152.230.246.26:8001/play/a08j/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR46R5FBjfWj_wYaO7h4GpZ6wo5a5ECznvLfA&s" group-title="TV GENERAL",Images
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/677927
+#EXTINF:-1 group-title="TV GENERAL",Iquique TV a XTREAM
+http://152.230.246.26:8001/play/a0bz/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",JBN
+http://200.229.147.210:9999/play/a03q/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",JN19
+http://cablemaxsigloxxi.com:8000/play/a07i/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",KANAL DE DRAMA
+http://cablemaxsigloxxi.com:8000/play/a0sq/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",L1 MAX
+http://cablemaxsigloxxi.com:8000/play/a07e/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",LA NUEVA VISION
+http://200.229.147.210:9999/play/a01j/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",La Red
+http://152.230.246.26:8001/play/a05j/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",La Red
+http://cablemaxsigloxxi.com:8000/play/a02v/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",La Red HD
+http://200.59.191.177:8000/play/a0o4/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",Las Estrellas HD
+http://cablemaxsigloxxi.com:8000/play/a06x/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",Las Estrellas HD R
+http://cablemaxsigloxxi.com:8000/play/a02e/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",Latina HD
+http://200.59.191.177:8000/play/a0q2/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",Latina HD
+http://cablemaxsigloxxi.com:8000/play/a07c/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",LIFE TIME
+http://200.229.147.210:9999/play/a030/index.m3u8
+#EXTINF:-1 tvg-id="ESPN PREMIUM 720" tvg-logo="https://i.ytimg.com/vi/sPVnEflYrRQ/maxresdefault.jpg" group-title="TV GENERAL",Maxresdefault
+http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9JdcnGosvbT6DfVAUEUnc4c
+#EXTINF:-1 group-title="TV GENERAL",MAYA TV
+http://cablemaxsigloxxi.com:8000/play/a010/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",MEGA
+http://200.59.191.177:8000/play/a0pv/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",MEGA HD
+http://152.230.246.26:8001/play/a01c/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",MEGA HD
+http://cablemaxsigloxxi.com:8000/play/a02t/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",MEGA TV PASCO
+http://cablemaxsigloxxi.com:8000/play/a00z/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",METRO TV
+http://200.229.147.210:9999/play/a01e/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Milenial TV
+http://cablemaxsigloxxi.com:8000/play/a0l0/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",Multimedios
+http://200.229.147.210:9999/play/a00o/index.m3u8
+#EXTINF:-1 tvg-id="Canal 5.mx" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/MEXICO/5.png" group-title="TV GENERAL",Mx: 5 1080p
+http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9EOdsF13Hqb4Kd7dsBcTK8w
+#EXTINF:-1 tvg-id="Canal 5.mx" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/MEXICO/5.png" group-title="TV GENERAL",Mx: 5 480p
+http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9Cplgzx05P0VQ3FeDfvwyQw
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/MEXICO/AZTECA7.png" group-title="TV GENERAL",Mx: Azteca 7 1080p
+http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9MwF0SNLhwAh9jvKqJaxZek
+#EXTINF:-1 tvg-id="bitMe.mx" tvg-logo="https://i0.wp.com/multianime.com.mx/wp-content/uploads/2020/08/1_bitme-canal-mexico-anime-esports-2019.jpg?fit=1301%2C2048&ssl=1" group-title="TV GENERAL",Mx: Bitme 480p
+http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9HaaF3fdq6Wt093G6IMe-pA
+#EXTINF:-1 tvg-id="LasEstrellas.ar" tvg-logo="https://imgs.search.brave.com/LuRJ2nGFd4740uhFpBImzuZNSWKr6IbxRKNBqwzPQv4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9lZGl0/b3JpYWx0ZWxldmlz/YS5icmlnaHRzcG90/Y2RuLmNvbS9kaW1z/NC9kZWZhdWx0L2Zl/ZmI2MjEvMjE0NzQ4/Mz" group-title="TV GENERAL",MZ
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/676960
+#EXTINF:-1 group-title="TV GENERAL",Nativa tv
+http://cablemaxsigloxxi.com:8000/play/a08x/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",NEXT
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Nicarao TV
+http://200.229.147.210:9999/play/a02r/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",NTV
+http://152.230.246.26:8001/play/a0c4/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Nuestra Tele
+http://cablemaxsigloxxi.com:8000/play/a03k/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",Oromar (35e)
+http://200.59.191.177:8000/play/a0ls/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",OROMAR TV
+http://cablemaxsigloxxi.com:8000/play/a040/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",Panamericana
+http://cablemaxsigloxxi.com:8000/play/a08e/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",PICOSA
+http://200.229.147.210:9999/play/a025/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",PORTAL DEL SUR
+http://200.229.147.210:9999/play/a01x/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",PXTV
+http://200.229.147.210:9999/play/a05e/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",QHUBO TV
+http://200.229.147.210:9999/play/a03f/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://i.imgur.com/qkjQ40e.png" group-title="TV GENERAL",Qkjq40E
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/677926
+#EXTINF:-1 group-title="TV GENERAL",RADIO ORIENTE
+http://cablemaxsigloxxi.com:8000/play/a06n/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",Radio Salsa Caribe (35e)
+http://200.59.191.177:8000/play/a064/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",Radio Sur (35e)
+http://200.59.191.177:8000/play/a066/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",Radio YVKE Mundial (35e)
+http://200.59.191.177:8000/play/a05x/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",RCN
+http://200.59.191.177:8000/play/a004/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",RCN - GUA
+http://200.229.147.210:9999/play/a06p/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Red Advenir (35e)
+http://200.59.191.177:8000/play/a0me/index.m3u8?
+#EXTINF:-1 tvg-id="RedbullTV.us" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/DEPORTES/REDBULLTV.png" group-title="TV GENERAL",REDBULLTV
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/678045
+#EXTINF:-1 group-title="TV GENERAL",RNN - RD
+http://200.229.147.210:9999/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="CanalNU.mx" tvg-logo="https://imgs.search.brave.com/YBmJ2Vy-Toqv0MsrgQ2kpKRST2aWZufHvqoabKPLc9c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sYXZl/cmRhZG5vdGljaWFz/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyNS8wMS9OVTlW/RS5qcGc" group-title="TV GENERAL",Rs5Qcgc
+http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9NIO9ouFvqOZajMYwSefous
+#EXTINF:-1 group-title="TV GENERAL",RUMBO MINERO
+http://cablemaxsigloxxi.com:8000/play/a0no/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",SANJUANERA TV
+http://cablemaxsigloxxi.com:8000/play/a0kj/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",Show Ven (35e)
+http://200.59.191.177:8000/play/a0lf/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",Sol Tv
+http://200.229.147.210:9999/play/a013/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",STAR
+http://200.229.147.210:9999/play/a020/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Star TVE HD
+http://200.229.147.210:9999/play/a0aq/index.m3u8
+#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/STUDIOUNIVERSAL.jpg" group-title="TV GENERAL",STUDIOUNIVERSAL
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/83748
+#EXTINF:-1 tvg-id="Pasiones.ar" tvg-logo="https://imgs.search.brave.com/e-Y8MeFrUofr0KdXdo8qm2_GWQqmhhX-WJM7Gb45Qog/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9ibG9n/Z2VyLmdvb2dsZXVz/ZXJjb250ZW50LmNv/bS9pbWcvYi9SMjl2/WjJ4bC9BVnZYc0Vp/bGx6enRMOVFiQWJK/SU" group-title="TV GENERAL",SU
+http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9FuVXz6uSg_jB3R07w8lrpA
+#EXTINF:-1 group-title="TV GENERAL",SUMAC TV
+http://cablemaxsigloxxi.com:8000/play/a0od/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",Sun Channel
+http://200.59.191.177:8000/play/a0ow/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",Sun Channel
+http://200.229.147.210:9999/play/a059/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",SUYAI TV
+http://cablemaxsigloxxi.com:8000/play/a05s/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",SUYAPA TV
+http://200.229.147.210:9999/play/a04n/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",TD+2 HD CR
+http://200.229.147.210:9999/play/a00h/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",TD+HD CR
+http://200.229.147.210:9999/play/a00g/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Tele Antillas - RD
+http://200.229.147.210:9999/play/a02g/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",TELEANTILLAS (35e)
+http://200.59.191.177:8000/play/a0mi/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",Telearagua (35e)
+http://200.59.191.177:8000/play/a003/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",TELECADENA 7/4
+http://200.229.147.210:9999/play/a01h/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Telecentro - RD
+http://200.229.147.210:9999/play/a04v/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",TeleMicro - RD
+http://200.229.147.210:9999/play/a05x/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Telemundo
+http://152.230.246.26:8001/play/a070/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Telemundo
+http://200.59.191.177:8000/play/a0kz/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",Telemundo
+http://cablemaxsigloxxi.com:8000/play/a01w/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",TELEMUNDO
+http://200.229.147.210:9999/play/a01q/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Telemundo
+http://200.229.147.210:9999/play/a02u/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Telemundo HD
+http://200.229.147.210:9999/play/a0ak/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Telesistema RD
+http://200.229.147.210:9999/play/a02i/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",TELESUR
+http://200.229.147.210:9999/play/a023/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Telesur (35e)
+http://200.59.191.177:8000/play/a0l8/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",Teleunion - RD
+http://200.229.147.210:9999/play/a04w/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Teleuniverso - RD
+http://200.229.147.210:9999/play/a04s/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",TELEVICTORIA
+http://200.229.147.210:9999/play/a03g/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",TELEVIDA
+http://200.229.147.210:9999/play/a01k/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Televida RD
+http://200.229.147.210:9999/play/a00m/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",TEN 10
+http://200.229.147.210:9999/play/a02l/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",TLT (35e)
+http://200.59.191.177:8000/play/a0ll/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",TNH8
+http://200.229.147.210:9999/play/a01c/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",TOP TV
+http://cablemaxsigloxxi.com:8000/play/a01q/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",TSI
+http://200.229.147.210:9999/play/a01b/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",TV AGRO
+http://200.229.147.210:9999/play/a03k/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",TV Culturas (35e)
+http://200.59.191.177:8000/play/a0mx/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",TV FANB (35e)
+http://200.59.191.177:8000/play/a0le/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",TV Galicia (35e)
+http://200.59.191.177:8000/play/a0p7/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",TV Oriente ESA
+http://200.229.147.210:9999/play/a06n/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",TV Peru SD
+http://152.230.246.26:8001/play/a067/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",TV+
+http://cablemaxsigloxxi.com:8000/play/a020/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",TV+ HD
+http://200.59.191.177:8000/play/a0jd/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",TVChile
+http://200.229.147.210:9999/play/a006/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",TVE
+http://152.230.246.26:8001/play/a05a/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",TVE
+http://200.229.147.210:9999/play/a07h/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",TVES (35e)
+http://200.59.191.177:8000/play/a0l7/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",TVM25 - ESA
+http://200.229.147.210:9999/play/a06u/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",TVN
+http://200.59.191.177:8000/play/a0oc/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",TVN HD
+http://152.230.246.26:8001/play/a015/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",TVN HD
+http://cablemaxsigloxxi.com:8000/play/a02r/index.m3u8?hls
+#EXTINF:-1 group-title="TV GENERAL",TVS
+http://200.229.147.210:9999/play/TVS/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",TVS
+http://200.229.147.210:9999/play/a03p/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",UN24 (35e)
+http://200.59.191.177:8000/play/a00g/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",UNE TV
+http://200.229.147.210:9999/play/a01i/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",UNITEL (35e)
+http://200.59.191.177:8000/play/a0md/index.m3u8?
+#EXTINF:-1 group-title="TV GENERAL",UNITEL-SCZ
+http://152.230.246.26:8001/play/a0bo/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Universal
+http://200.229.147.210:9999/play/a07a/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",UNIVERSAL COMEDY HD
+http://200.229.147.210:9999/play/a0b6/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",UNIVERSAL CRIME HD
+http://200.229.147.210:9999/play/a0b5/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",UNIVERSAL PREMIERE HD
+http://200.229.147.210:9999/play/a0b2/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",UNIVERSAL PREMIERE O HD
+http://200.229.147.210:9999/play/a0b3/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",UNIVERSAL REALITY HD
+http://200.229.147.210:9999/play/a0b4/index.m3u8
+#EXTINF:-1 group-title="TV GENERAL",Univision HD
+http://200.229.147.210:9999/play/a08s/index.m3u8
+#EXTINF:-1 tvg-id="mundial.senales.ppv.cable" tvg-logo="https://i.ibb.co/YQbC2xd/QQQ.png" group-title="TV GENERAL",Unknown
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9FvHgoY4-Et5ClqzXZcFkk0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
+#EXTINF:-1 tvg-id="mundial.senales.ppv.cable" tvg-logo="https://i.ibb.co/YQbC2xd/QQQ.png" group-title="TV GENERAL",Unknown
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9CtOKsIrSaQCCGpy9_eQxm0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
+#EXTINF:-1 tvg-id="mundial.senales.ppv.cable" tvg-logo="https://i.ibb.co/YQbC2xd/QQQ.png" group-title="TV GENERAL",Unknown
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9NlC9HJabbJSEIxgoyq0DCc
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
+#EXTINF:-1 tvg-id="mundial.senales.ppv.cable" tvg-logo="https://i.ibb.co/YQbC2xd/QQQ.png" group-title="TV GENERAL",Unknown
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9LI9JvP0vajmhUcOFSnzzu8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
+#EXTINF:-1 tvg-id="mundial.senales.ppv.cable" tvg-logo="https://i.ibb.co/YQbC2xd/QQQ.png" group-title="TV GENERAL",Unknown
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9L0wb3jpJbDpKlnU27SIG7s
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
+#EXTINF:-1 tvg-id="mundial.senales.ppv.cable" tvg-logo="https://i.ibb.co/YQbC2xd/QQQ.png" group-title="TV GENERAL",Unknown
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9ISPSNNSOK1rhL8yOwqkHLs
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
+#EXTINF:-1 tvg-id="mundial.senales.ppv.cable" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="TV GENERAL",Unknown
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9FEP5b0Jx8-oiZbRoS6QwS4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
+#EXTINF:-1 tvg-id="mundial.senales.ppv.cable" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="TV GENERAL",Unknown
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9CbtdzeRr7-GlLZo9oZs2As
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
+#EXTINF:-1 tvg-id="mundial.senales.ppv.cable" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="TV GENERAL",Unknown
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9PyJxF5QtEeqWssLStlitW8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
+#EXTINF:-1 tvg-id="mundial.senales.ppv.cable" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="TV GENERAL",Unknown
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9CEHzca-WpyFPMefguX8pFU
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9HI7eCdohArwCSQxcbAhpLQ
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9OAlzA1heDIRmMt9SAGs7Gc
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9P5czyJrVLbUyhuGZkN2ZA8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9ASgDjJWTQda4rF14xStMMQ
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9OGozzXDV-vwL_6HkokOe1U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9JKLeo9KGTW5EMLPsr5cHLo
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Unknown
-http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9KKMjPCte7ZpsGOY0TVsg60
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",USA
+#EXTINF:-1 group-title="TV GENERAL",USA
 http://200.59.191.177:8000/play/a0qd/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",USA SD
+#EXTINF:-1 group-title="TV GENERAL",USA SD
 http://152.230.246.26:8001/play/a05d/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Venevision (35e)
+#EXTINF:-1 group-title="TV GENERAL",Venevision (35e)
 http://200.59.191.177:8000/play/a0li/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",ViaX
+#EXTINF:-1 group-title="TV GENERAL",ViaX
 http://152.230.246.26:8001/play/a06w/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",VIVA TV
+#EXTINF:-1 group-title="TV GENERAL",VIVA TV
 http://200.229.147.210:9999/play/a01s/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",ViVe (35e)
+#EXTINF:-1 group-title="TV GENERAL",ViVe (35e)
 http://200.59.191.177:8000/play/a0l6/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",VPACO (35e)
+#EXTINF:-1 group-title="TV GENERAL",VPACO (35e)
 http://200.59.191.177:8000/play/a0lm/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",VTV
+#EXTINF:-1 group-title="TV GENERAL",VTV
 http://200.229.147.210:9999/play/a016/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",VTV (35e)
+#EXTINF:-1 group-title="TV GENERAL",VTV (35e)
 http://200.59.191.177:8000/play/a0l5/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",VTV Canal 35 ESA
+#EXTINF:-1 group-title="TV GENERAL",VTV Canal 35 ESA
 http://200.229.147.210:9999/play/a051/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Willax
+#EXTINF:-1 group-title="TV GENERAL",Willax
 http://cablemaxsigloxxi.com:8000/play/a08c/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Zona Latina
+#EXTINF:-1 group-title="TV GENERAL",Zona Latina
 http://152.230.246.26:8001/play/a053/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV GENERAL",Zoom (35e)
+#EXTINF:-1 group-title="TV GENERAL",Zoom (35e)
 http://200.59.191.177:8000/play/a0mb/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",24 HORAS
+#EXTINF:-1 tvg-id="TLNovelas.ar" tvg-logo="https://imgs.search.brave.com/BzllKsdMbjEtZkkeWkEaxPp875OhmFUjoTmQZrtzAFc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9ibG9n/Z2VyLmdvb2dsZXVz/ZXJjb250ZW50LmNv/bS9pbWcvYi9SMjl2/WjJ4bC9BVnZYc0Vn/QWo3WTVqZUdiU3V4/ZT" group-title="TV GENERAL",ZT
+http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9DdskgroHN-OC49_Cmr53rU
+#EXTINF:-1 group-title="NOTICIAS",24 HORAS
 http://152.230.246.26:8001/play/a05v/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",ARTEMUSA TV
+#EXTINF:-1 group-title="NOTICIAS",ARTEMUSA TV
 http://cablemaxsigloxxi.com:8000/play/a017/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",BBC News
+#EXTINF:-1 group-title="NOTICIAS",BBC News
 http://200.229.147.210:9999/play/a038/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",Canal 24 Horas
+#EXTINF:-1 group-title="NOTICIAS",Canal 24 Horas
 http://cablemaxsigloxxi.com:8000/play/a02w/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",Canal 24 Horas HD
+#EXTINF:-1 group-title="NOTICIAS",Canal 24 Horas HD
 http://200.59.191.177:8000/play/a0ki/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",Canal N
+#EXTINF:-1 group-title="NOTICIAS",Canal N
 http://cablemaxsigloxxi.com:8000/play/a08r/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",CNBC
+#EXTINF:-1 group-title="NOTICIAS",CNBC
 http://200.229.147.210:9999/play/a07g/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",CNN Chile
+#EXTINF:-1 group-title="NOTICIAS",CNN Chile
 http://152.230.246.26:8001/play/a01e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",CNN Chile
+#EXTINF:-1 group-title="NOTICIAS",CNN Chile
 http://200.59.191.177:8000/play/a0qi/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",CNN Chile
+#EXTINF:-1 group-title="NOTICIAS",CNN Chile
 http://cablemaxsigloxxi.com:8000/play/a02u/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",CNN Espaæol
+#EXTINF:-1 group-title="NOTICIAS",CNN Espaæol
 http://152.230.246.26:8001/play/a01y/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",CNN Espaæol
+#EXTINF:-1 group-title="NOTICIAS",CNN Espaæol
 http://cablemaxsigloxxi.com:8000/play/a0u7/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",CNN Español
+#EXTINF:-1 group-title="NOTICIAS",CNN Español
 http://200.59.191.177:8000/play/a009/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",CNN Internacional
+#EXTINF:-1 group-title="NOTICIAS",CNN Internacional
 http://200.229.147.210:9999/play/a00d/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",CNNE
+#EXTINF:-1 group-title="NOTICIAS",CNNE
 http://200.229.147.210:9999/play/a037/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",E Entertainment
+#EXTINF:-1 group-title="NOTICIAS",E Entertainment
 http://152.230.246.26:8001/play/a04l/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",E! Entertainment TV
+#EXTINF:-1 group-title="NOTICIAS",E! Entertainment TV
 http://cablemaxsigloxxi.com:8000/play/a039/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",Film&Arts
+#EXTINF:-1 group-title="NOTICIAS",Film&Arts
 http://200.59.191.177:8000/play/a0qr/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",Film&Arts
+#EXTINF:-1 group-title="NOTICIAS",Film&Arts
 http://cablemaxsigloxxi.com:8000/play/a03n/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",France24
+#EXTINF:-1 group-title="NOTICIAS",France24
 http://200.229.147.210:9999/play/a039/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",Noticias: Cnn En Español
+#EXTINF:-1 tvg-id="Cablenoticias.gt" tvg-logo="https://alba-gt-tn23.cdn.mediatiquepress.com/wp-content/uploads/2022/12/cropped-Logo-TN23-01-e1679410540114-256x256.png" group-title="NOTICIAS",GT: TN23 [HD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/95206
+#EXTINF:-1 tvg-id="MilenioTV.mx" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/MEXICO/MILENIO.png" group-title="NOTICIAS",Mx: Milenio 1080p
+http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9NaaQPyRC0CJpEkfTjiCSsw
+#EXTINF:-1 tvg-id="CNNenEspanol.ar" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/NOTICIAS/CNNENESPANOL.png" group-title="NOTICIAS",Noticias: Cnn En Español
 http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9PtDH6TMYZuSbD6IkQx32xY
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",NTN24
+#EXTINF:-1 group-title="NOTICIAS",NTN24
 http://200.59.191.177:8000/play/a008/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",NTN24
+#EXTINF:-1 group-title="NOTICIAS",NTN24
 http://cablemaxsigloxxi.com:8000/play/a03r/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",RT Noticias
+#EXTINF:-1 group-title="NOTICIAS",RT Noticias
 http://cablemaxsigloxxi.com:8000/play/a083/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",Stingray Concerts HD
+#EXTINF:-1 group-title="NOTICIAS",Stingray Concerts HD
 http://200.59.191.177:8000/play/a0k3/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",Stingray Concerts HD
+#EXTINF:-1 group-title="NOTICIAS",Stingray Concerts HD
 http://cablemaxsigloxxi.com:8000/play/a0qx/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",TELEMUNDO NOTICIAS
+#EXTINF:-1 group-title="NOTICIAS",TELEMUNDO NOTICIAS
 http://cablemaxsigloxxi.com:8000/play/a05t/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",Via X Esports
+#EXTINF:-1 group-title="NOTICIAS",Via X Esports
 http://152.230.246.26:8001/play/a03m/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",Via X Esports
+#EXTINF:-1 group-title="NOTICIAS",Via X Esports
 http://cablemaxsigloxxi.com:8000/play/a03t/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",Claro Sports 3 HD
+#EXTINF:-1 tvg-id="FOX SPORT 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",1280Px Fox Sports 3
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/679454
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png" group-title="DEPORTES",Ar Fox Sports 2 M
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/83813
+#EXTINF:-1 tvg-id="CLARO SPORTS" tvg-logo="https://holatelcel.com/wp-content/uploads/2016/08/logo-claro-sports.png" group-title="DEPORTES",Claro Sports
+http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9D6boEl0xzPCWFW89ETx5vg
+#EXTINF:-1 group-title="DEPORTES",Claro Sports 3 HD
 http://200.229.147.210:9999/play/a00w/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",Dep: Bein Sports 1080p
+#EXTINF:-1 tvg-id="LA1.es" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" group-title="DEPORTES",DAZN LI
+http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9AzuMdGvTygma27kCyJl77s
+#EXTINF:-1 tvg-id="beINSportsEnEspanol.us" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/DEPORTES/BEINSPORTS.png" group-title="DEPORTES",Dep: Bein Sports 1080p
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/677914
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",Dep: Espn Premium 480p
+#EXTINF:-1 tvg-id="programacion.ppv" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/DEPORTES/ESPNPREMIUM.png" group-title="DEPORTES",Dep: Espn Premium 480p
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/945
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",Dep: Sky Sports 720p
+#EXTINF:-1 tvg-id="programacion.ppv" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b6b490f9-d83d-416e-959a-6e403e5ab9c4/dh4g7a0-b080e4a1-f094-426d-ad78-d61ab4a5f6d3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c" group-title="DEPORTES",Dep: Sky Sports 720p
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9Iww8TSgG3wlaPt175x8uaM
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",Dep: Tudn Usa 720p
+#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/TUDN/TUDN.png" group-title="DEPORTES",Dep: Tudn Usa 720p
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9MTe2KdcUA_9c5LGQSY5zzo
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",Dep: Ufc 1080p
+#EXTINF:-1 tvg-id="UFCNetwork.co" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/UFC/UFC.png" group-title="DEPORTES",Dep: Ufc 1080p
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9LE136VzHXQbY9T8piCaL1Y
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",DEPORTES TVC
+#EXTINF:-1 group-title="DEPORTES",DEPORTES TVC
 http://200.229.147.210:9999/play/a01a/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN
+#EXTINF:-1 tvg-id="Fox Sports Racing" tvg-logo="https://images.ctfassets.net/8utyj17y1gom/TeOcvtUGTn2Bq4viKghR8/82b2592ac4ef7203038a6fef383abd47/Desktop_TVChannelPage_Fox_Sports_Racing.png" group-title="DEPORTES",Desktop Tvchannelpage Fox Sports Racing
+http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9CTUHb65YOrZnqryarhjlVQ
+#EXTINF:-1 group-title="DEPORTES",ESPN
 http://200.229.147.210:9999/play/a0ba/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN  4 HD
-http://200.229.147.210:9999/play/a03e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN 2
+#EXTINF:-1 group-title="DEPORTES",ESPN 2
 http://200.229.147.210:9999/play/a0bb/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN 2 HD
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 HD
 http://152.230.246.26:8001/play/a019/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN 2 HD
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 HD
 http://200.59.191.177:8000/play/a0o1/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN 2 HD
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 HD
 http://200.229.147.210:9999/play/a08j/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN 2 HD R
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 HD R
 http://cablemaxsigloxxi.com:8000/play/a02a/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN 3
+#EXTINF:-1 group-title="DEPORTES",ESPN 3
 http://200.59.191.177:8000/play/a0oh/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN 3
+#EXTINF:-1 group-title="DEPORTES",ESPN 3
 http://200.229.147.210:9999/play/a05c/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN 3 HD
+#EXTINF:-1 group-title="DEPORTES",ESPN 3 HD
 http://152.230.246.26:8001/play/a00x/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN 3 HD
+#EXTINF:-1 group-title="DEPORTES",ESPN 3 HD
 http://200.229.147.210:9999/play/a08k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN 4
+#EXTINF:-1 group-title="DEPORTES",ESPN 4
 http://200.229.147.210:9999/play/a05d/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN 4 HD
+#EXTINF:-1 group-title="DEPORTES",ESPN 4 HD
+http://200.229.147.210:9999/play/a03e/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 4 HD
 http://152.230.246.26:8001/play/a02x/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN 4 HD
+#EXTINF:-1 group-title="DEPORTES",ESPN 4 HD
 http://200.59.191.177:8000/play/a0pz/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN 4 R
+#EXTINF:-1 group-title="DEPORTES",ESPN 4 R
 http://cablemaxsigloxxi.com:8000/play/a075/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN 5
+#EXTINF:-1 group-title="DEPORTES",ESPN 5
 http://200.59.191.177:8000/play/a0p1/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN 5
+#EXTINF:-1 group-title="DEPORTES",ESPN 5
 http://200.229.147.210:9999/play/a077/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN 5  HD
+#EXTINF:-1 group-title="DEPORTES",ESPN 5 HD
 http://200.229.147.210:9999/play/a07l/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN 6
+#EXTINF:-1 group-title="DEPORTES",ESPN 6
 http://200.59.191.177:8000/play/a0oi/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN 6
+#EXTINF:-1 group-title="DEPORTES",ESPN 6
 http://200.229.147.210:9999/play/a031/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN 6 HD
+#EXTINF:-1 group-title="DEPORTES",ESPN 6 HD
 http://200.229.147.210:9999/play/a08l/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN 7
+#EXTINF:-1 group-title="DEPORTES",ESPN 7
 http://200.59.191.177:8000/play/a0p2/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN HD
+#EXTINF:-1 tvg-id="ESPN 7" tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-7-logo-png_seeklogo-522718.png" group-title="DEPORTES",Espn 7
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/677930
+#EXTINF:-1 group-title="DEPORTES",ESPN HD
 http://152.230.246.26:8001/play/a01h/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN HD
+#EXTINF:-1 group-title="DEPORTES",ESPN HD
 http://200.59.191.177:8000/play/a0o2/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN HD
+#EXTINF:-1 group-title="DEPORTES",ESPN HD
 http://200.229.147.210:9999/play/a08i/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN HD R
+#EXTINF:-1 group-title="DEPORTES",ESPN HD R
 http://cablemaxsigloxxi.com:8000/play/a02d/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN Premium HD
+#EXTINF:-1 group-title="DEPORTES",ESPN Premium HD
 http://200.59.191.177:8000/play/a0ko/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN Premium HD
+#EXTINF:-1 group-title="DEPORTES",ESPN Premium HD
 http://cablemaxsigloxxi.com:8000/play/a05g/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN PREMIUM HD
+#EXTINF:-1 group-title="DEPORTES",ESPN PREMIUM HD
 http://181.205.130.194:4000/play/a0fk
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",FUTV CR
+#EXTINF:-1 tvg-id="ESPN MX" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-Símbolo.jpg" group-title="DEPORTES",Espn Símbolo
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/83780
+#EXTINF:-1 tvg-id="mundial.senales.ppv.cable" tvg-logo="https://static.epg.best/ar/ESPN2.ar.png" group-title="DEPORTES",Espn2.Ar
+http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9HI7eCdohArwCSQxcbAhpLQ
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg" group-title="DEPORTES",Espn24510
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/679449
+#EXTINF:-1 tvg-id="programacion.ppv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="DEPORTES",Fox Sports Premium Argentina 2020
+http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9AGVmN8OiEYSt5YKx6xNLlc
+#EXTINF:-1 tvg-id="FOXSports.mx" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/DEPORTES/FOXSPORTS1.png" group-title="DEPORTES",FOXSPORTS1
+http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9CKEleG22y5Bab2FLwW3CoA
+#EXTINF:-1 tvg-id="FOXSports.mx" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/DEPORTES/FOXSPORTS1.png" group-title="DEPORTES",FOXSPORTS1
+http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9CKEleG22y5Bab2FLwW3CoA
+#EXTINF:-1 tvg-id="FOXSports3.mx" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/DEPORTES/FOXSPORTS3.png" group-title="DEPORTES",FOXSPORTS3
+http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9GbbQYg8yPDXhN_PR-xLqOM
+#EXTINF:-1 group-title="DEPORTES",FUTV CR
 http://200.229.147.210:9999/play/a06m/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",FUTV HD CR
+#EXTINF:-1 group-title="DEPORTES",FUTV HD CR
 http://200.229.147.210:9999/play/a08h/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",Golf Channel
+#EXTINF:-1 group-title="DEPORTES",Golf Channel
 http://cablemaxsigloxxi.com:8000/play/a03s/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",Golf Channel
+#EXTINF:-1 group-title="DEPORTES",Golf Channel
 http://200.229.147.210:9999/play/a00c/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",Golf Channel HD
+#EXTINF:-1 group-title="DEPORTES",Golf Channel HD
 http://200.229.147.210:9999/play/a0ar/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",Latin America Sport
+#EXTINF:-1 group-title="DEPORTES",Latin America Sport
 http://200.229.147.210:9999/play/a05f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",LIGA 1
+#EXTINF:-1 group-title="DEPORTES",LIGA 1
 http://cablemaxsigloxxi.com:8000/play/a07s/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",Movistar Deportes
+#EXTINF:-1 group-title="DEPORTES",Movistar Deportes
 http://cablemaxsigloxxi.com:8000/play/a08o/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",Mx: Espn 4 1080p
+#EXTINF:-1 tvg-id="LA1.es" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MVF1.png" group-title="DEPORTES",Movistar F1
+http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9D0M0u-eZiaHobByyYxxKeI
+#EXTINF:-1 tvg-id="programacion.ppv" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4%5B2%5D.png" group-title="DEPORTES",Mx: Espn 4 1080p
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9Cpc6Zqbb321ny_oaljoxAA
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",Mx: Espn 480p
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="DEPORTES",Mx: Espn 480p
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/679448
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",Mx: Tudn Mexico 1080p
+#EXTINF:-1 tvg-id="programacion.ppv" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/TUDN/TUDN.png" group-title="DEPORTES",Mx: Tudn Mexico 1080p
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9JhntvaXLQh6ByHuiNALdVQ
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",Mx: Tudn Mexico 480p
+#EXTINF:-1 tvg-id="programacion.ppv" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/TUDN/TUDN.png" group-title="DEPORTES",Mx: Tudn Mexico 480p
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9K_pwZ9vJ3ZHlxxvTJDiZBY
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",REAL MADRID
+#EXTINF:-1 group-title="DEPORTES",REAL MADRID
 http://cablemaxsigloxxi.com:8000/play/a00x/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",Tigo Sports HD
+#EXTINF:-1 group-title="DEPORTES",Tigo Sports HD
 http://200.229.147.210:9999/play/a0as/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",TNT SPORTS
+#EXTINF:-1 tvg-id="mundial.senales.ppv.cable" tvg-logo="https://static.epg.best/py/TigoSports.py.png" group-title="DEPORTES",Tigosports.Py
+http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9OAlzA1heDIRmMt9SAGs7Gc
+#EXTINF:-1 tvg-id="mundial.senales.ppv.cable" tvg-logo="https://static.epg.best/py/TigoSports.py.png" group-title="DEPORTES",Tigosports.Py
+http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9P5czyJrVLbUyhuGZkN2ZA8
+#EXTINF:-1 tvg-id="mundial.senales.ppv.cable" tvg-logo="https://static.epg.best/py/TigoSports.py.png" group-title="DEPORTES",Tigosports.Py
+http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9ASgDjJWTQda4rF14xStMMQ
+#EXTINF:-1 tvg-id="mundial.senales.ppv.cable" tvg-logo="https://static.epg.best/py/TigoSports.py.png" group-title="DEPORTES",Tigosports.Py
+http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9OGozzXDV-vwL_6HkokOe1U
+#EXTINF:-1 group-title="DEPORTES",TNT SPORTS
 http://152.230.246.26:8001/play/a00b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",TNT Sports Premium
+#EXTINF:-1 group-title="DEPORTES",TNT Sports Premium
 http://152.230.246.26:8001/play/a05o/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",TNT Sports Premiun HD
+#EXTINF:-1 group-title="DEPORTES",TNT Sports Premiun HD
 http://152.230.246.26:8001/play/a018/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",TNT Sports Premiun HD
+#EXTINF:-1 group-title="DEPORTES",TNT Sports Premiun HD
 http://200.59.191.177:8000/play/a0o9/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",TNT Sports Premiun HD
+#EXTINF:-1 group-title="DEPORTES",TNT Sports Premiun HD
 http://cablemaxsigloxxi.com:8000/play/a0rb/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",TUDN
+#EXTINF:-1 group-title="DEPORTES",TUDN
 http://200.229.147.210:9999/play/a01v/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",Us: Mlb Network
+#EXTINF:-1 tvg-id="mundial.senales.ppv.cable" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/TUDN/TUDN.png" group-title="DEPORTES",TUDN
+http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9KKMjPCte7ZpsGOY0TVsg60
+#EXTINF:-1 tvg-id="UFCNetwork.co" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/UFC/UFC.png" group-title="DEPORTES",UFC
+http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9DIOfMs6E3ZGJnFJUaYr6f4
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/MLB/MLBNETWORK.png" group-title="DEPORTES",Us: Mlb Network
 http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9GxvGrJTKfmZjxdQMuuP9xQ
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",VVD ESPN 1
+#EXTINF:-1 group-title="DEPORTES",VVD ESPN 1
 http://cablemaxsigloxxi.com:8000/play/a0t6/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",VVD ESPN 2
+#EXTINF:-1 group-title="DEPORTES",VVD ESPN 2
 http://cablemaxsigloxxi.com:8000/play/a0t5/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",VVD ESPN 3
+#EXTINF:-1 group-title="DEPORTES",VVD ESPN 3
 http://cablemaxsigloxxi.com:8000/play/a0t4/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",VVD ESPN 4
+#EXTINF:-1 group-title="DEPORTES",VVD ESPN 4
 http://cablemaxsigloxxi.com:8000/play/a0t3/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",VVD ESPN 5
+#EXTINF:-1 group-title="DEPORTES",VVD ESPN 5
 http://cablemaxsigloxxi.com:8000/play/a0t2/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",VVD ESPN 6
+#EXTINF:-1 group-title="DEPORTES",VVD ESPN 6
 http://cablemaxsigloxxi.com:8000/play/a0t1/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",VVD ESPN 7
+#EXTINF:-1 group-title="DEPORTES",VVD ESPN 7
 http://cablemaxsigloxxi.com:8000/play/a0l5/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",AMC
+#EXTINF:-1 tvg-id="mundial.senales.ppv.cable" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/COLOMBIA/WINSPORTS.png" group-title="DEPORTES",Win Sports
+http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9JKLeo9KGTW5EMLPsr5cHLo
+#EXTINF:-1 group-title="PELICULAS",AMC
 http://200.229.147.210:9999/play/a036/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",AMC HD
+#EXTINF:-1 group-title="PELICULAS",AMC HD
 http://152.230.246.26:8001/play/a00p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",AMC HD
+#EXTINF:-1 group-title="PELICULAS",AMC HD
 http://200.59.191.177:8000/play/a0ji/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",AMC HD
+#EXTINF:-1 group-title="PELICULAS",AMC HD
 http://200.229.147.210:9999/play/a0aj/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",AMC Series
+#EXTINF:-1 group-title="PELICULAS",AMC Series
 http://152.230.246.26:8001/play/a03h/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",AMC Series
+#EXTINF:-1 group-title="PELICULAS",AMC Series
 http://200.59.191.177:8000/play/a0ql/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",AMC Series
+#EXTINF:-1 group-title="PELICULAS",AMC Series
 http://cablemaxsigloxxi.com:8000/play/a03p/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Cine Latino
+#EXTINF:-1 group-title="PELICULAS",CCS Movies
+http://200.59.191.177:8000/play/a005/index.m3u8?
+#EXTINF:-1 group-title="PELICULAS",Cine Latino
 http://200.229.147.210:9999/play/a07c/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Cine: A&e 720p
+#EXTINF:-1 tvg-id="A&E.cl" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/AE.png" group-title="PELICULAS",Cine: A&e 720p
 http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9D7UGRivGzpyjH8bR1v-bmQ
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Cine: Amc 1080p
+#EXTINF:-1 tvg-id="AMC.ar" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/AMC.png" group-title="PELICULAS",Cine: Amc 1080p
 http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9GzvLzUli9Vy_-14L8dNKGM
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Cine: Axn 1080p
+#EXTINF:-1 tvg-id="AXN.ar" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/AXN.png" group-title="PELICULAS",Cine: Axn 1080p
 http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9BVdborGEq0caPKV14q-skY
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",CINE: CINEAR [HD]
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-logo="https://m.media-amazon.com/images/I/31GKs92OAAL.png" group-title="PELICULAS",CINE: CINEAR [HD]
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9KoTu2DRKSjV--ZVkcK6r7E
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Cine: Cinecanal 1080p
+#EXTINF:-1 tvg-id="Cinecanal.ar" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/CINECANAL.png" group-title="PELICULAS",Cine: Cinecanal 1080p
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9MnAD-uLRiUQD0W_RqMopIM
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Cine: Cinelatino 1080p
+#EXTINF:-1 tvg-id="Cinelatino.ar" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/CINELATINO.jpeg" group-title="PELICULAS",Cine: Cinelatino 1080p
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9MSHCtBshEN41QH8jHc1PTU
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Cine: Cinemax 480p
+#EXTINF:-1 tvg-id="Cinemax.ar" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/CINEMAX.png" group-title="PELICULAS",Cine: Cinemax 480p
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9IORwRSbr7uekICl23D-ff8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Cine: Cinemax 720p
+#EXTINF:-1 tvg-id="Cinemax.ar" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/CINEMAX.png" group-title="PELICULAS",Cine: Cinemax 720p
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9DVzLpxRFmhEbRDrPBPkXDQ
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Cine: Dhe 1080p
+#EXTINF:-1 tvg-id="DHE.cl" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/DHE.jpg" group-title="PELICULAS",Cine: Dhe 1080p
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/109160
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Cine: Film & 720p
+#EXTINF:-1 tvg-id="filmAndarts.ar" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/FILM-ARTS.png" group-title="PELICULAS",Cine: Film & 720p
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/624004
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Cine: Hbo 2 480p
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/HBO2.png" group-title="PELICULAS",Cine: Hbo 2 480p
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9Gnzoy8nHphPG1XgQNqFEic
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Cine: Hbo 2 720p
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/HBO2.png" group-title="PELICULAS",Cine: Hbo 2 720p
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9NqGsm4uiQsXges8ZeNWLmE
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Cine: Hbo Family 720p
+#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/HBOFAMILY.png" group-title="PELICULAS",Cine: Hbo Family 720p
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/624005
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Cine: Hbo Plus 1080p
+#EXTINF:-1 tvg-id="HBOPlusMéxico.mx" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/HBOPLUS.png" group-title="PELICULAS",Cine: Hbo Plus 1080p
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/624007
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Cine: Hbo Plus 720p
+#EXTINF:-1 tvg-id="HBOPlusMéxico.mx" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/HBOPLUS.png" group-title="PELICULAS",Cine: Hbo Plus 720p
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/679430
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Cine: Hbo Pop 1080p
+#EXTINF:-1 tvg-id="HBOPOP.mx" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/HBOPOP.png" group-title="PELICULAS",Cine: Hbo Pop 1080p
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/624008
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Cine: Hbo Signature 1080p
+#EXTINF:-1 tvg-id="HBOSignature.mx" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/HBOSIGNATURE.png" group-title="PELICULAS",Cine: Hbo Signature 1080p
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/624009
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Cine: Hbo Xtreme 1080p
+#EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/HBOXTREME.png" group-title="PELICULAS",Cine: Hbo Xtreme 1080p
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/624010
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Cine: Hbo Xtreme 480p
+#EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/HBOXTREME.png" group-title="PELICULAS",Cine: Hbo Xtreme 480p
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9HLzRyicLWjFc7-KlYWMqZw
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Cine: Sony 480p
+#EXTINF:-1 tvg-id="Sony.ar" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/SONY.png" group-title="PELICULAS",Cine: Sony 480p
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/679434
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Cine: Sony Movies 1080p
+#EXTINF:-1 tvg-id="programacion.ppv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png" group-title="PELICULAS",Cine: Sony Movies 1080p
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9GzKIDlPIAPrc0luyMumOqw
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Cine: Tnt 720p
+#EXTINF:-1 tvg-id="TNT.ar" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/TNT.png" group-title="PELICULAS",Cine: Tnt 720p
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/6247
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Cine: Tnt Series 1080p
+#EXTINF:-1 tvg-id="TNTSeries.ar" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/TNTSERIES.png" group-title="PELICULAS",Cine: Tnt Series 1080p
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9HLM1e9IuYudNkzqPuqOGxE
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Cine: Universal Cinema 1080p
+#EXTINF:-1 tvg-id="UniversalCinema.mx" tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png" group-title="PELICULAS",Cine: Universal Cinema 1080p
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9Denk5PSDFltYjAvfynGvfI
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Cine: Universal Comedy 1080p
+#EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-logo="https://www.universalplus.com/assets/logo_comedy_hero.png" group-title="PELICULAS",Cine: Universal Comedy 1080p
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/83639
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Cine: Universal Crime 1080p
+#EXTINF:-1 tvg-id="UniversalCrime.mx" tvg-logo="https://www.universalplus.com/assets/logo_crime_hero.png" group-title="PELICULAS",Cine: Universal Crime 1080p
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/109174
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Cine: Universal Premiere 1080p
+#EXTINF:-1 tvg-id="UniversalPremiere.mx" tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png" group-title="PELICULAS",Cine: Universal Premiere 1080p
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/83658
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Cine: Universal Reality 1080p
+#EXTINF:-1 tvg-id="UniversalReality.mx" tvg-logo="https://www.universalplus.com/assets/logo_reality_hero.png" group-title="PELICULAS",Cine: Universal Reality 1080p
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/83625
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Cine: Usa 720p
+#EXTINF:-1 tvg-id="USANetwork.bo" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/USA.png" group-title="PELICULAS",Cine: Usa 720p
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9HEA9Wye3_Fb4bLj3MIC9YY
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Cine: Warner Channel 1080p
+#EXTINF:-1 tvg-id="WarnerChannel.ar" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TNT.png" group-title="PELICULAS",Cine: Warner Channel 1080p
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9OGxjIZfAXBb7YSvwcIJCSM
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",CineCanal
+#EXTINF:-1 group-title="PELICULAS",CineCanal
 http://200.229.147.210:9999/play/a07f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Cinecanal HD
+#EXTINF:-1 group-title="PELICULAS",Cinecanal HD
 http://152.230.246.26:8001/play/a02o/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Cinecanal HD
+#EXTINF:-1 group-title="PELICULAS",Cinecanal HD
 http://200.59.191.177:8000/play/a0px/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",CINECANAL HD
+#EXTINF:-1 group-title="PELICULAS",CINECANAL HD
 http://200.229.147.210:9999/play/a06j/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Cinemax
+#EXTINF:-1 group-title="PELICULAS",Cinemax
 http://152.230.246.26:8001/play/a06a/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Cinemax
+#EXTINF:-1 group-title="PELICULAS",Cinemax
 http://cablemaxsigloxxi.com:8000/play/a01u/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",CineMax
+#EXTINF:-1 group-title="PELICULAS",CineMax
 http://200.229.147.210:9999/play/a07d/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Cinemax HD
+#EXTINF:-1 group-title="PELICULAS",Cinemax HD
 http://200.59.191.177:8000/play/a0pk/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",De Pelicula
+#EXTINF:-1 group-title="PELICULAS",De Pelicula
 http://152.230.246.26:8001/play/a011/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",DE PELICULAS
+#EXTINF:-1 group-title="PELICULAS",DE PELICULAS
 http://200.59.191.177:8000/play/a0qa/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",DE PELICULAS
+#EXTINF:-1 group-title="PELICULAS",DE PELICULAS
 http://200.229.147.210:9999/play/a021/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",DHE
+#EXTINF:-1 group-title="PELICULAS",DHE
 http://200.229.147.210:9999/play/a00s/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",DHE HD
+#EXTINF:-1 group-title="PELICULAS",DHE HD
 http://200.59.191.177:8000/play/a0km/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",DHE HD
+#EXTINF:-1 group-title="PELICULAS",DHE HD
 http://cablemaxsigloxxi.com:8000/play/a05h/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",DHE HD
+#EXTINF:-1 group-title="PELICULAS",DHE HD
 http://200.229.147.210:9999/play/a0ao/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",ENCORE STAR
+#EXTINF:-1 group-title="PELICULAS",ENCORE STAR
 http://200.229.147.210:9999/play/a022/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",FX
+#EXTINF:-1 group-title="PELICULAS",FX
 http://200.59.191.177:8000/play/a0p5/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",FX
+#EXTINF:-1 group-title="PELICULAS",FX
 http://200.229.147.210:9999/play/a054/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",FX HD
+#EXTINF:-1 group-title="PELICULAS",FX HD
 http://cablemaxsigloxxi.com:8000/play/a02i/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",FX HD
+#EXTINF:-1 group-title="PELICULAS",FX HD
 http://200.229.147.210:9999/play/a0al/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Golden
+#EXTINF:-1 group-title="PELICULAS",Golden
 http://200.229.147.210:9999/play/a05i/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",GOLDEN EDGE
+#EXTINF:-1 group-title="PELICULAS",GOLDEN EDGE
 http://200.59.191.177:8000/play/a0q8/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Golden Edge
+#EXTINF:-1 group-title="PELICULAS",Golden Edge
 http://cablemaxsigloxxi.com:8000/play/a03v/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Golden HD
+#EXTINF:-1 group-title="PELICULAS",Golden HD
 http://152.230.246.26:8001/play/a03b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Golden HD R
+#EXTINF:-1 group-title="PELICULAS",Golden HD R
 http://cablemaxsigloxxi.com:8000/play/a027/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Golden Premiere 2 HD
+#EXTINF:-1 group-title="PELICULAS",Golden Premiere 2 HD
 http://200.229.147.210:9999/play/a00l/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Golden Premiere HD
+#EXTINF:-1 group-title="PELICULAS",Golden Premiere HD
 http://200.229.147.210:9999/play/a00k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",HBO Family
+#EXTINF:-1 group-title="PELICULAS",HBO Family
 http://152.230.246.26:8001/play/a01m/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",HBO Family HD
+#EXTINF:-1 group-title="PELICULAS",HBO Family HD
 http://200.59.191.177:8000/play/a0pq/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",HBO Family HD
+#EXTINF:-1 group-title="PELICULAS",HBO Family HD
 http://cablemaxsigloxxi.com:8000/play/a07x/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",HBO Family HD
+#EXTINF:-1 group-title="PELICULAS",HBO Family HD
 http://200.229.147.210:9999/play/a011/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",HBO HD
+#EXTINF:-1 group-title="PELICULAS",HBO HD
 http://152.230.246.26:8001/play/a00u/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",HBO HD
+#EXTINF:-1 group-title="PELICULAS",HBO HD
 http://200.59.191.177:8000/play/a0py/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",HBO HD
+#EXTINF:-1 group-title="PELICULAS",HBO HD
 http://200.229.147.210:9999/play/a00y/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",HBO Mundi
+#EXTINF:-1 group-title="PELICULAS",HBO Mundi
 http://cablemaxsigloxxi.com:8000/play/a084/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",HBO PLUS
+#EXTINF:-1 group-title="PELICULAS",HBO PLUS
 http://200.59.191.177:8000/play/a00m/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",HBO Plus
+#EXTINF:-1 group-title="PELICULAS",HBO Plus
 http://cablemaxsigloxxi.com:8000/play/a00s/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",HBO Plus HD
+#EXTINF:-1 group-title="PELICULAS",HBO Plus HD
 http://200.229.147.210:9999/play/a010/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",HBO POP
+#EXTINF:-1 group-title="PELICULAS",HBO POP
 http://200.59.191.177:8000/play/a0qv/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",HBO POP HD
+#EXTINF:-1 group-title="PELICULAS",HBO POP HD
 http://cablemaxsigloxxi.com:8000/play/a0ts/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",HBO Signature
+#EXTINF:-1 group-title="PELICULAS",HBO Signature
 http://cablemaxsigloxxi.com:8000/play/a082/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",HBO XTREME
+#EXTINF:-1 group-title="PELICULAS",HBO XTREME
 http://200.229.147.210:9999/play/a012/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",HBO Xtreme HD
+#EXTINF:-1 group-title="PELICULAS",HBO Xtreme HD
 http://152.230.246.26:8001/play/a01n/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",HBO XTREME HD
+#EXTINF:-1 group-title="PELICULAS",HBO XTREME HD
 http://200.59.191.177:8000/play/a0pr/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",HBO Xtreme HD
+#EXTINF:-1 group-title="PELICULAS",HBO Xtreme HD
 http://cablemaxsigloxxi.com:8000/play/a00p/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",HBO2 HD
+#EXTINF:-1 group-title="PELICULAS",HBO2 HD
 http://200.229.147.210:9999/play/a00z/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Multicinema
+#EXTINF:-1 tvg-id="HBOMundi.mx" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/HBOMUNDI.png" group-title="PELICULAS",HBOMUNDI
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/624006
+#EXTINF:-1 group-title="PELICULAS",Multicinema
 http://200.229.147.210:9999/play/a05k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Multipremier
+#EXTINF:-1 group-title="PELICULAS",Multipremier
 http://200.229.147.210:9999/play/a07b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Mx: Axn 1080p
+#EXTINF:-1 tvg-id="Multipremier.co" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/MULTIPREMIER.png" group-title="PELICULAS",MULTIPREMIER
+http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9KWR8SVEUNgPAkJszSBGYfk
+#EXTINF:-1 tvg-id="AXN.mx" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/AXN.png" group-title="PELICULAS",Mx: Axn 1080p
 http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9Awkj4peLy7IGabzm-CFneo
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Mx: Fx 1080p
+#EXTINF:-1 tvg-id="FX.mx" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/FX.png" group-title="PELICULAS",Mx: Fx 1080p
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9J2HSG6ht-qEOUUNkG1Nbbg
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Mx: Fx 480p
+#EXTINF:-1 tvg-id="FX.mx" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/FX.png" group-title="PELICULAS",Mx: Fx 480p
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9E0GwnpQK2ebG_UmnUXewmM
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Mx: Golden 1080p
+#EXTINF:-1 tvg-id="Golden.mx" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/GOLDEN.png" group-title="PELICULAS",Mx: Golden 1080p
 http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9P58uMWSawrPq72lhijNgjc
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Mx: Golden Edge 1080p
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/GOLDENEDGE.png" group-title="PELICULAS",Mx: Golden Edge 1080p
 http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9CxMjGXtMCrtvGqR3Iu4AI4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Mx: Golden Edge 480p
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/GOLDENEDGE.png" group-title="PELICULAS",Mx: Golden Edge 480p
 http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9CJ2qb0UEN6DpjLjGLRy-JI
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Mx: Golden Premiere 480p
+#EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/GOLDENPREMIERE.png" group-title="PELICULAS",Mx: Golden Premiere 480p
 http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9MJ9usZQTcQMLOwMxmIFpYo
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Mx: Hbo 480p
+#EXTINF:-1 tvg-id="HBO.mx" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/HBO.png" group-title="PELICULAS",Mx: Hbo 480p
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9DHBbPQzT6GaveWm0yTxeKo
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Mx: Hbo Pop 1080p
+#EXTINF:-1 tvg-id="HBOPOP.mx" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/HBOPOP.png" group-title="PELICULAS",Mx: Hbo Pop 1080p
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9MWrsdDxFEHa3GkpPkxeT2o
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Mx: Sony 1080p
+#EXTINF:-1 tvg-id="Sony.mx" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/SONY.png" group-title="PELICULAS",Mx: Sony 1080p
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9M9jsWdTq7LQRmOmegSZ500
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Mx: Sony 480p
+#EXTINF:-1 tvg-id="Sony.mx" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/SONY.png" group-title="PELICULAS",Mx: Sony 480p
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9AL6yGIs5ZZ79MLjzqe4Y_I
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Mx: Space 1080p
+#EXTINF:-1 tvg-id="Space.mx" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/SPACE.png" group-title="PELICULAS",Mx: Space 1080p
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/83709
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Mx: Universal Tv 1080p
+#EXTINF:-1 tvg-id="UniversalTV.mx" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/UNIVERSALTV.png" group-title="PELICULAS",Mx: Universal Tv 1080p
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9AK3zu0A9lk7LZugRDPWIAc
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Sony Movies
+#EXTINF:-1 group-title="PELICULAS",Sony Movies
 http://200.59.191.177:8000/play/a00a/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Sony Movies
+#EXTINF:-1 group-title="PELICULAS",Sony Movies
 http://cablemaxsigloxxi.com:8000/play/a07l/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Sony Movies HD
+#EXTINF:-1 group-title="PELICULAS",Sony Movies HD
 http://200.229.147.210:9999/play/a0an/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",SPACE
+#EXTINF:-1 group-title="PELICULAS",SPACE
 http://200.229.147.210:9999/play/a02w/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Space HD
+#EXTINF:-1 group-title="PELICULAS",Space HD
 http://152.230.246.26:8001/play/a02v/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Space HD
+#EXTINF:-1 group-title="PELICULAS",Space HD
 http://200.59.191.177:8000/play/a0o7/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Space HD
+#EXTINF:-1 group-title="PELICULAS",Space HD
 http://cablemaxsigloxxi.com:8000/play/a0u2/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",SPACE HD
+#EXTINF:-1 group-title="PELICULAS",SPACE HD
 http://200.229.147.210:9999/play/a07k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",STAR CHANNEL
+#EXTINF:-1 group-title="PELICULAS",STAR CHANNEL
 http://200.229.147.210:9999/play/a070/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",STAR CHANNEL HD
+#EXTINF:-1 group-title="PELICULAS",STAR CHANNEL HD
 http://200.59.191.177:8000/play/a0pj/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",STAR CHANNEL HD
+#EXTINF:-1 group-title="PELICULAS",STAR CHANNEL HD
 http://200.229.147.210:9999/play/a0bc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Studio Universal
+#EXTINF:-1 group-title="PELICULAS",Studio Universal
 http://200.229.147.210:9999/play/a07e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Studio Universal HD
+#EXTINF:-1 group-title="PELICULAS",Studio Universal HD
 http://152.230.246.26:8001/play/a040/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Studio Universal HD
+#EXTINF:-1 group-title="PELICULAS",Studio Universal HD
 http://200.59.191.177:8000/play/a0jo/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Studio Universal HD
+#EXTINF:-1 group-title="PELICULAS",Studio Universal HD
 http://cablemaxsigloxxi.com:8000/play/a06e/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",TCM
+#EXTINF:-1 tvg-id="SYFY.es" tvg-logo="https://versusmedia.mx/wp-content/uploads/2022/08/SyFy.png" group-title="PELICULAS",SyFy
+http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9Nbrdh9fpOTS8SzQsmQ5NnE
+#EXTINF:-1 group-title="PELICULAS",TCM
 http://200.229.147.210:9999/play/a05j/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",TNT
+#EXTINF:-1 group-title="PELICULAS",TNT
 http://200.59.191.177:8000/play/a0og/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",TNT
+#EXTINF:-1 group-title="PELICULAS",TNT
 http://200.229.147.210:9999/play/a035/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",TNT HD
+#EXTINF:-1 group-title="PELICULAS",TNT HD
 http://152.230.246.26:8001/play/a02n/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",TNT HD
+#EXTINF:-1 group-title="PELICULAS",TNT HD
 http://cablemaxsigloxxi.com:8000/play/a06y/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",TNT HD
+#EXTINF:-1 group-title="PELICULAS",TNT HD
 http://200.229.147.210:9999/play/a0av/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",TNT Novelas
+#EXTINF:-1 group-title="PELICULAS",TNT Novelas
 http://200.59.191.177:8000/play/a0pf/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",TNT Novelas
+#EXTINF:-1 group-title="PELICULAS",TNT Novelas
 http://200.229.147.210:9999/play/a02y/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",TNT Novelas HD
+#EXTINF:-1 group-title="PELICULAS",TNT Novelas HD
 http://152.230.246.26:8001/play/a00w/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",TNT Novelas HD
+#EXTINF:-1 group-title="PELICULAS",TNT Novelas HD
 http://cablemaxsigloxxi.com:8000/play/a08p/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",TNT Series
+#EXTINF:-1 group-title="PELICULAS",TNT Series
 http://200.59.191.177:8000/play/a06z/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",TNT Series
+#EXTINF:-1 group-title="PELICULAS",TNT Series
 http://200.229.147.210:9999/play/a02x/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",TNT Series HD
+#EXTINF:-1 group-title="PELICULAS",TNT Series HD
 http://152.230.246.26:8001/play/a00q/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",TNT Series HD
+#EXTINF:-1 group-title="PELICULAS",TNT Series HD
 http://200.229.147.210:9999/play/a08o/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",VVD CINECANAL
+#EXTINF:-1 tvg-id="programacion.ppv" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/DEPORTES/TNTSPORTS.png" group-title="PELICULAS",TNT Sports
+http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9PaFl_uvMc41cvfJ5qYHyME
+#EXTINF:-1 group-title="PELICULAS",UNIVERSAL CINEMA ESTE HD
+http://200.229.147.210:9999/play/a08u/index.m3u8
+#EXTINF:-1 group-title="PELICULAS",VVD CINECANAL
 http://cablemaxsigloxxi.com:8000/play/a0t0/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",VVD FX
+#EXTINF:-1 group-title="PELICULAS",VVD FX
 http://cablemaxsigloxxi.com:8000/play/a0sz/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",VVD STAR CHANNEL
+#EXTINF:-1 group-title="PELICULAS",VVD STAR CHANNEL
 http://cablemaxsigloxxi.com:8000/play/a0sy/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",Atres Series
+#EXTINF:-1 group-title="SERIES",Atres Series
+http://152.230.246.26:8001/play/a00m/index.m3u8
+#EXTINF:-1 group-title="SERIES",Atres Series
 http://200.229.147.210:9999/play/a00b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",AXN
+#EXTINF:-1 group-title="SERIES",AXN
 http://200.229.147.210:9999/play/a034/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",AXN HD
+#EXTINF:-1 group-title="SERIES",AXN HD
 http://152.230.246.26:8001/play/a02t/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",AXN HD
+#EXTINF:-1 group-title="SERIES",AXN HD
 http://200.59.191.177:8000/play/a0nz/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",AXN HD
+#EXTINF:-1 group-title="SERIES",AXN HD
 http://cablemaxsigloxxi.com:8000/play/a00r/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",AXN HD
+#EXTINF:-1 group-title="SERIES",AXN HD
 http://200.229.147.210:9999/play/a07j/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",Lifetime
+#EXTINF:-1 tvg-id="ComedyCentral.es" tvg-logo="https://www.paramountshop.com/cdn/shop/files/comedy-central-logo-die-cut-sticker-552629_1000x.png?v=1718289087" group-title="SERIES",Comedy Central
+http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9DupISwkZnZ6Jb2GhnshVgI
+#EXTINF:-1 group-title="SERIES",Comedy Central HD
+http://152.230.246.26:8001/play/a00g/index.m3u8
+#EXTINF:-1 group-title="SERIES",Comedy Central HD
+http://200.59.191.177:8000/play/a0pn/index.m3u8?
+#EXTINF:-1 group-title="SERIES",Comedy Central HD
+http://cablemaxsigloxxi.com:8000/play/a07t/index.m3u8?hls
+#EXTINF:-1 group-title="SERIES",Comedy Central HD
+http://200.229.147.210:9999/play/a0az/index.m3u8
+#EXTINF:-1 group-title="SERIES",Distrito Comedia
+http://200.59.191.177:8000/play/a00b/index.m3u8?
+#EXTINF:-1 group-title="SERIES",DISTRITO COMEDIA
+http://200.229.147.210:9999/play/a01z/index.m3u8
+#EXTINF:-1 group-title="SERIES",E!
+http://200.229.147.210:9999/play/a065/index.m3u8
+#EXTINF:-1 group-title="SERIES",E! Entertairment HD
+http://200.229.147.210:9999/play/a0ag/index.m3u8
+#EXTINF:-1 group-title="SERIES",E! HD
+http://200.59.191.177:8000/play/a0k1/index.m3u8?
+#EXTINF:-1 group-title="SERIES",El Gourmet
+http://cablemaxsigloxxi.com:8000/play/a07u/index.m3u8?hls
+#EXTINF:-1 group-title="SERIES",El Gourmet
+http://200.229.147.210:9999/play/a058/index.m3u8
+#EXTINF:-1 group-title="SERIES",El Gourmet HD
+http://152.230.246.26:8001/play/a00h/index.m3u8
+#EXTINF:-1 group-title="SERIES",El Gourmet HD
+http://200.59.191.177:8000/play/a0pa/index.m3u8?
+#EXTINF:-1 tvg-id="TNTNovelas.bo" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/ENTRETENIMIENTOS/TNTNOVELAS.png" group-title="SERIES",Entret: Tnt Novelas 1080p
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/679576
+#EXTINF:-1 group-title="SERIES",Food Network HD
+http://200.59.191.177:8000/play/a0k4/index.m3u8?
+#EXTINF:-1 group-title="SERIES",Food Network HD
+http://cablemaxsigloxxi.com:8000/play/a07r/index.m3u8?hls
+#EXTINF:-1 group-title="SERIES",HGTV
+http://cablemaxsigloxxi.com:8000/play/a03b/index.m3u8?hls
+#EXTINF:-1 group-title="SERIES",Hola Tv
+http://200.59.191.177:8000/play/a007/index.m3u8?
+#EXTINF:-1 group-title="SERIES",HOLA TV
+http://cablemaxsigloxxi.com:8000/play/a062/index.m3u8?hls
+#EXTINF:-1 group-title="SERIES",Hola!TV
+http://200.229.147.210:9999/play/a009/index.m3u8
+#EXTINF:-1 group-title="SERIES",Lifetime
 http://152.230.246.26:8001/play/a05c/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",Lifetime
+#EXTINF:-1 group-title="SERIES",Lifetime
 http://200.59.191.177:8000/play/a0qe/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",Lifetime
+#EXTINF:-1 group-title="SERIES",Lifetime
 http://cablemaxsigloxxi.com:8000/play/a03d/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",Pasiones HD
+#EXTINF:-1 group-title="SERIES",Mas Chic
+http://200.229.147.210:9999/play/a004/index.m3u8
+#EXTINF:-1 group-title="SERIES",Paramount
+http://200.229.147.210:9999/play/a00t/index.m3u8
+#EXTINF:-1 group-title="SERIES",Paramount HD
+http://200.229.147.210:9999/play/a08n/index.m3u8
+#EXTINF:-1 group-title="SERIES",Pasiones HD
 http://152.230.246.26:8001/play/a017/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",Pasiones HD
+#EXTINF:-1 group-title="SERIES",Pasiones HD
 http://200.59.191.177:8000/play/a0pl/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",Pasiones HD
+#EXTINF:-1 group-title="SERIES",Pasiones HD
 http://cablemaxsigloxxi.com:8000/play/a0st/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",Pasiones HD
+#EXTINF:-1 group-title="SERIES",Pasiones HD
 http://200.229.147.210:9999/play/a08r/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",RCN Novelas
+#EXTINF:-1 group-title="SERIES",RCN Novelas
 http://152.230.246.26:8001/play/a062/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",RCN Novelas
+#EXTINF:-1 group-title="SERIES",RCN Novelas
 http://200.229.147.210:9999/play/a055/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",SONY
+#EXTINF:-1 group-title="SERIES",SONY
 http://200.229.147.210:9999/play/a063/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",Sony HD
+#EXTINF:-1 group-title="SERIES",Sony HD
 http://152.230.246.26:8001/play/a02r/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",Sony HD
+#EXTINF:-1 group-title="SERIES",Sony HD
 http://cablemaxsigloxxi.com:8000/play/a00q/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",SONY HD
+#EXTINF:-1 group-title="SERIES",SONY HD
 http://200.229.147.210:9999/play/a06i/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",Telenovelas
+#EXTINF:-1 group-title="SERIES",Telenovelas
 http://200.59.191.177:8000/play/a0qo/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",Telenovelas
+#EXTINF:-1 group-title="SERIES",Telenovelas
 http://cablemaxsigloxxi.com:8000/play/a04o/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",TELENOVELAS
+#EXTINF:-1 group-title="SERIES",TELENOVELAS
 http://200.229.147.210:9999/play/a01p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",Tlnovelas
+#EXTINF:-1 group-title="SERIES",TLC
+http://152.230.246.26:8001/play/a024/index.m3u8
+#EXTINF:-1 group-title="SERIES",TLC
+http://200.59.191.177:8000/play/a06j/index.m3u8?
+#EXTINF:-1 group-title="SERIES",TLC
+http://cablemaxsigloxxi.com:8000/play/a038/index.m3u8?hls
+#EXTINF:-1 group-title="SERIES",TLC
+http://200.229.147.210:9999/play/a06b/index.m3u8
+#EXTINF:-1 group-title="SERIES",Tlnovelas
 http://152.230.246.26:8001/play/a010/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",Universal
+#EXTINF:-1 group-title="SERIES",Universal
 http://152.230.246.26:8001/play/a051/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",UNIVERSAL CHANNEL HD
+#EXTINF:-1 group-title="SERIES",UNIVERSAL CHANNEL HD
 http://200.59.191.177:8000/play/a0pg/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",UNIVERSAL CHANNEL HD
+#EXTINF:-1 group-title="SERIES",UNIVERSAL CHANNEL HD
 http://cablemaxsigloxxi.com:8000/play/a07w/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",Warner
+#EXTINF:-1 group-title="SERIES",Warner
 http://200.229.147.210:9999/play/a064/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",Warner Channel
+#EXTINF:-1 group-title="SERIES",Warner Channel
 http://cablemaxsigloxxi.com:8000/play/a08b/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",Warner Channel HD
+#EXTINF:-1 group-title="SERIES",Warner Channel HD
 http://200.59.191.177:8000/play/a0oa/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",WARNER HD
+#EXTINF:-1 group-title="SERIES",WARNER HD
 http://200.229.147.210:9999/play/a0bd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",Warner TV HD
+#EXTINF:-1 group-title="SERIES",Warner TV HD
 http://152.230.246.26:8001/play/a02s/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",Warner TV HD
+#EXTINF:-1 group-title="SERIES",Warner TV HD
 http://cablemaxsigloxxi.com:8000/play/a02p/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Adult Swim
+#EXTINF:-1 group-title="INFANTILES",Adult Swim
+http://152.230.246.26:8001/play/a02e/index.m3u8
+#EXTINF:-1 group-title="INFANTILES",Adult Swim
+http://cablemaxsigloxxi.com:8000/play/a03e/index.m3u8?hls
+#EXTINF:-1 group-title="INFANTILES",Adult Swim
 http://200.229.147.210:9999/play/a02t/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Baby First
+#EXTINF:-1 group-title="INFANTILES",Baby First
 http://152.230.246.26:8001/play/a05b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Baby First
+#EXTINF:-1 group-title="INFANTILES",Baby First
 http://200.229.147.210:9999/play/a053/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Baby TV
+#EXTINF:-1 group-title="INFANTILES",Baby TV
 http://200.59.191.177:8000/play/a00f/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Baby TV
+#EXTINF:-1 group-title="INFANTILES",Baby TV
 http://cablemaxsigloxxi.com:8000/play/a0u3/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Baby TV
+#EXTINF:-1 group-title="INFANTILES",Baby TV
 http://200.229.147.210:9999/play/a002/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Cartoon Network
+#EXTINF:-1 group-title="INFANTILES",Cartoon Network
 http://200.229.147.210:9999/play/a02n/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Cartoon Network HD
+#EXTINF:-1 group-title="INFANTILES",Cartoon Network HD
 http://152.230.246.26:8001/play/a0bj/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Cartoon Network HD
+#EXTINF:-1 group-title="INFANTILES",Cartoon Network HD
 http://200.59.191.177:8000/play/a0jm/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Cartoon Network HD
+#EXTINF:-1 group-title="INFANTILES",Cartoon Network HD
 http://cablemaxsigloxxi.com:8000/play/a07j/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",CARTOON NETWORK HD
+#EXTINF:-1 group-title="INFANTILES",CARTOON NETWORK HD
 http://200.229.147.210:9999/play/a00x/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Cartoonito
+#EXTINF:-1 group-title="INFANTILES",Cartoonito
 http://152.230.246.26:8001/play/a0c3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Cartoonito
+#EXTINF:-1 group-title="INFANTILES",Cartoonito
 http://200.59.191.177:8000/play/a0qj/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Cartoonito
+#EXTINF:-1 group-title="INFANTILES",Cartoonito
 http://cablemaxsigloxxi.com:8000/play/a08k/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Cartoonito
+#EXTINF:-1 group-title="INFANTILES",Cartoonito
 http://200.229.147.210:9999/play/a02p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Discovery Kids
+#EXTINF:-1 group-title="INFANTILES",Discovery Kids
 http://200.59.191.177:8000/play/a0ox/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Discovery Kids HD
+#EXTINF:-1 group-title="INFANTILES",Discovery Kids HD
 http://152.230.246.26:8001/play/a0bg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Discovery Kids HD
+#EXTINF:-1 group-title="INFANTILES",Discovery Kids HD
 http://cablemaxsigloxxi.com:8000/play/a07k/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Disney
+#EXTINF:-1 group-title="INFANTILES",Disney
 http://200.229.147.210:9999/play/a06z/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",DISNEY CH
+#EXTINF:-1 group-title="INFANTILES",DISNEY CH
 http://200.59.191.177:8000/play/a0qu/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Disney JR
+#EXTINF:-1 group-title="INFANTILES",Disney JR
 http://200.229.147.210:9999/play/a02q/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Disney Jr. R
+#EXTINF:-1 group-title="INFANTILES",Disney Jr. R
 http://cablemaxsigloxxi.com:8000/play/a028/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Disney Junior
+#EXTINF:-1 group-title="INFANTILES",Disney Junior
 http://200.59.191.177:8000/play/a00c/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Inf: Disney Channel 480p
+#EXTINF:-1 tvg-id="DisneyChannel.ar" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/USAKIDS/DISNEYCHANNEL.png" group-title="INFANTILES",Inf: Disney Channel 480p
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9B92h556JXWMEMY0zQGXZ0Q
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",INF: DREAMWORKS [HD]
+#EXTINF:-1 tvg-id="Dreamworks.mx" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DWSP.png" group-title="INFANTILES",INF: DREAMWORKS [HD]
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9Hds_tya1IyWpkmnq1K7oOU
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Inf: Tooncast 1080p
+#EXTINF:-1 tvg-id="Tooncast.ar" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/INFANTILES/TOONCAST.png" group-title="INFANTILES",Inf: Tooncast 1080p
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9AnFuHtWRYaBgCtpio4bvls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Nick HD
+#EXTINF:-1 group-title="INFANTILES",Nick HD
 http://200.59.191.177:8000/play/a0o5/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Nick HD
+#EXTINF:-1 group-title="INFANTILES",Nick HD
 http://cablemaxsigloxxi.com:8000/play/a0tt/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Nick Jr
+#EXTINF:-1 group-title="INFANTILES",Nick Jr
 http://152.230.246.26:8001/play/a06g/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Nick Jr
+#EXTINF:-1 group-title="INFANTILES",Nick Jr
 http://200.229.147.210:9999/play/a02o/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Nick Jr.
+#EXTINF:-1 group-title="INFANTILES",Nick Jr.
 http://cablemaxsigloxxi.com:8000/play/a081/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Nickelodeon
+#EXTINF:-1 group-title="INFANTILES",Nickelodeon
 http://200.229.147.210:9999/play/a06y/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Nickelodeon HD
+#EXTINF:-1 group-title="INFANTILES",Nickelodeon HD
 http://152.230.246.26:8001/play/a01b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Nickelodeon HD
+#EXTINF:-1 group-title="INFANTILES",Nickelodeon HD
 http://cablemaxsigloxxi.com:8000/play/a02s/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",SEMILLITAS
+#EXTINF:-1 group-title="INFANTILES",SEMILLITAS
 http://200.229.147.210:9999/play/a02s/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Teen Nick
+#EXTINF:-1 group-title="INFANTILES",Teen Nick
 http://cablemaxsigloxxi.com:8000/play/a03m/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Tooncast
+#EXTINF:-1 group-title="INFANTILES",Tooncast
 http://152.230.246.26:8001/play/a028/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Tooncast
+#EXTINF:-1 group-title="INFANTILES",Tooncast
 http://200.59.191.177:8000/play/a0qp/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Tooncast
+#EXTINF:-1 group-title="INFANTILES",Tooncast
 http://cablemaxsigloxxi.com:8000/play/a03a/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",Tooncast
+#EXTINF:-1 group-title="INFANTILES",Tooncast
 http://200.229.147.210:9999/play/a061/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",VVD DISNEY CHANNEL
+#EXTINF:-1 group-title="INFANTILES",VVD DISNEY CHANNEL
 http://cablemaxsigloxxi.com:8000/play/a0sx/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",VVD DISNEY JUNIOR
+#EXTINF:-1 group-title="INFANTILES",VVD DISNEY JUNIOR
 http://cablemaxsigloxxi.com:8000/play/a0tg/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTILES",ZooMoo
+#EXTINF:-1 group-title="INFANTILES",ZooMoo
 http://200.229.147.210:9999/play/a003/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Animal Planet
+#EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="DOCUMENTALES",1200Px Discovery Turbo
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/679702
+#EXTINF:-1 tvg-id="HISTORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="DOCUMENTALES",1200Px History
+http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9LqkhzE0T6Grr3l3QewpYNs
+#EXTINF:-1 tvg-id="HISTORY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="DOCUMENTALES",1200Px History
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/6284
+#EXTINF:-1 tvg-id="DISCOVERY WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="DOCUMENTALES",1200Px World Discovery Hd
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/679703
+#EXTINF:-1 group-title="DOCUMENTALES",Animal Planet
 http://200.229.147.210:9999/play/a0b8/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Animal Planet HD
+#EXTINF:-1 group-title="DOCUMENTALES",Animal Planet HD
 http://152.230.246.26:8001/play/a02j/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Animal Planet HD
+#EXTINF:-1 group-title="DOCUMENTALES",Animal Planet HD
 http://200.59.191.177:8000/play/a0js/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Animal Planet HD
+#EXTINF:-1 group-title="DOCUMENTALES",Animal Planet HD
 http://cablemaxsigloxxi.com:8000/play/a06v/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Animal Planet HD
+#EXTINF:-1 group-title="DOCUMENTALES",Animal Planet HD
 http://200.229.147.210:9999/play/a0af/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Cult: Animal Planet 1080p
+#EXTINF:-1 tvg-id="AnimalPlanet.ar" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CULTURALES/ANIMALPLANET.png" group-title="DOCUMENTALES",Cult: Animal Planet 1080p
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/118866
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Cult: Animal Planet 720p
+#EXTINF:-1 tvg-id="AnimalPlanet.ar" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CULTURALES/ANIMALPLANET.png" group-title="DOCUMENTALES",Cult: Animal Planet 720p
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/6270
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Cult: H2 1080p
+#EXTINF:-1 tvg-id="History2.mx" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CULTURALES/H2.png" group-title="DOCUMENTALES",Cult: H2 1080p
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9CzgyM05JmKFMGVubhivKI0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery Channel
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery Channel
 http://200.229.147.210:9999/play/a068/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery Channel  HD
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery Channel HD
 http://cablemaxsigloxxi.com:8000/play/a0u1/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery Channel HD
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery Channel HD
 http://152.230.246.26:8001/play/a02k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery Channel HD
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery Channel HD
 http://200.229.147.210:9999/play/a08p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery H&H
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery H&H
 http://200.59.191.177:8000/play/a04w/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery H&H
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery H&H
 http://cablemaxsigloxxi.com:8000/play/a080/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery HD
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery HD
 http://200.59.191.177:8000/play/a0pb/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery Home & Health
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery Home & Health
 http://200.229.147.210:9999/play/a072/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery ID HD
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery ID HD
 http://200.229.147.210:9999/play/a08t/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery Kids
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery Kids
 http://200.229.147.210:9999/play/a06x/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery Kids HD
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery Kids HD
 http://200.229.147.210:9999/play/a00i/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery Science
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery Science
 http://200.59.191.177:8000/play/a0qk/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery Science
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery Science
 http://cablemaxsigloxxi.com:8000/play/a00g/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery Science
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery Science
 http://200.229.147.210:9999/play/a008/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery Theater
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery Theater
 http://200.59.191.177:8000/play/a0p6/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery Theater HD
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery Theater HD
 http://152.230.246.26:8001/play/a014/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery Theater HD
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery Theater HD
 http://cablemaxsigloxxi.com:8000/play/a06w/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery Turbo
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery Turbo
 http://152.230.246.26:8001/play/a06h/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery Turbo
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery Turbo
 http://200.59.191.177:8000/play/a0qs/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery Turbo
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery Turbo
 http://cablemaxsigloxxi.com:8000/play/a0u9/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery Turbo
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery Turbo
 http://200.229.147.210:9999/play/a071/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery World HD
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery World HD
 http://152.230.246.26:8001/play/a00v/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery World HD
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery World HD
 http://200.59.191.177:8000/play/a0pw/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Discovery World HD
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery World HD
 http://200.229.147.210:9999/play/a08q/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",History 2
+#EXTINF:-1 group-title="DOCUMENTALES",H2
+http://200.229.147.210:9999/play/a057/index.m3u8
+#EXTINF:-1 group-title="DOCUMENTALES",History 2
 http://152.230.246.26:8001/play/a03d/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",History 2
+#EXTINF:-1 group-title="DOCUMENTALES",History 2
 http://cablemaxsigloxxi.com:8000/play/a0tk/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",History 2 HD
+#EXTINF:-1 group-title="DOCUMENTALES",History 2 HD
 http://200.59.191.177:8000/play/a0kp/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",History Channel
+#EXTINF:-1 group-title="DOCUMENTALES",History Channel
 http://cablemaxsigloxxi.com:8000/play/a068/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",History Channel
+#EXTINF:-1 group-title="DOCUMENTALES",History Channel
 http://200.229.147.210:9999/play/a06a/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",History Channel HD
+#EXTINF:-1 group-title="DOCUMENTALES",History Channel HD
 http://152.230.246.26:8001/play/a02l/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",History HD
+#EXTINF:-1 group-title="DOCUMENTALES",History HD
 http://200.229.147.210:9999/play/a03c/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",ID
+#EXTINF:-1 group-title="DOCUMENTALES",ID
 http://200.229.147.210:9999/play/a073/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",ID HD
+#EXTINF:-1 group-title="DOCUMENTALES",ID HD
 http://152.230.246.26:8001/play/a02u/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",ID HD
+#EXTINF:-1 group-title="DOCUMENTALES",ID HD
 http://200.59.191.177:8000/play/a0po/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",ID HD
+#EXTINF:-1 group-title="DOCUMENTALES",ID HD
 http://cablemaxsigloxxi.com:8000/play/a08a/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Meridiano (35e)
+#EXTINF:-1 group-title="DOCUMENTALES",Meridiano (35e)
 http://200.59.191.177:8000/play/a0lj/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Mx: Discovery Id 1080p
+#EXTINF:-1 tvg-id="InvestigationDiscovery.mx" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CULTURALES/DISCOVERYID.jpg" group-title="DOCUMENTALES",Mx: Discovery Id 1080p
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/118878
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Mx: Discovery Id 480p
+#EXTINF:-1 tvg-id="InvestigationDiscovery.mx" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CULTURALES/DISCOVERYID.jpg" group-title="DOCUMENTALES",Mx: Discovery Id 480p
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/679699
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Mx: Discovery Science 1080p
+#EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CULTURALES/DISCOVERYSCIENCE.png" group-title="DOCUMENTALES",Mx: Discovery Science 1080p
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/624107
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Mx: Discovery Theater 1080p
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CULTURALES/DISCOVERYTHEATER.png" group-title="DOCUMENTALES",Mx: Discovery Theater 1080p
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/679701
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Mx: Discovery Turbo 1080p
+#EXTINF:-1 tvg-id="DiscoveryTurbo.mx" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CULTURALES/DISCOVERYTURBO.png" group-title="DOCUMENTALES",Mx: Discovery Turbo 1080p
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/624108
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Nat Geo HD
+#EXTINF:-1 group-title="DOCUMENTALES",Nat Geo HD
 http://200.59.191.177:8000/play/a0jf/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",Nat Geo HD
+#EXTINF:-1 group-title="DOCUMENTALES",Nat Geo HD
 http://200.229.147.210:9999/play/a08m/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",National Geographic
+#EXTINF:-1 group-title="DOCUMENTALES",National Geographic
 http://200.229.147.210:9999/play/a02z/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTALES",VVD NAT GEO CABLE MAX
+#EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CULTURALES/NATIONALGEOGRAPHIC.png" group-title="DOCUMENTALES",National Geographic
+http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9MhAILosgkaLbpG5GeTCZ04
+#EXTINF:-1 group-title="DOCUMENTALES",VVD NAT GEO CABLE MAX
 http://cablemaxsigloxxi.com:8000/play/a0su/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",BANDAMAX
+#EXTINF:-1 group-title="MUSICA",BANDAMAX
 http://200.229.147.210:9999/play/a024/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",Concert Channel
+#EXTINF:-1 group-title="MUSICA",Concert Channel
 http://200.229.147.210:9999/play/a079/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",HTV
+#EXTINF:-1 group-title="MUSICA",HTV
 http://152.230.246.26:8001/play/a03i/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",HTV
+#EXTINF:-1 group-title="MUSICA",HTV
 http://200.59.191.177:8000/play/a00n/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",HTV
+#EXTINF:-1 group-title="MUSICA",HTV
 http://cablemaxsigloxxi.com:8000/play/a03q/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",HTV
+#EXTINF:-1 group-title="MUSICA",HTV
 http://200.229.147.210:9999/play/a05h/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",KARIBENA
+#EXTINF:-1 group-title="MUSICA",KARIBENA
 http://cablemaxsigloxxi.com:8000/play/a0hw/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",MTV
+#EXTINF:-1 group-title="MUSICA",MiMusica HD Reggaeton
+http://190.60.37.154:45000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="MUSICA",MiMusica Popular
+http://190.60.37.154:45000/play/a010/index.m3u8
+#EXTINF:-1 group-title="MUSICA",MiMusica Romantica
+http://190.60.37.154:45000/play/a01u/index.m3u8
+#EXTINF:-1 group-title="MUSICA",MiMusica Salsa
+http://190.60.37.154:45000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="MUSICA",MTV
 http://200.59.191.177:8000/play/a0pd/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",MTV HD
+#EXTINF:-1 group-title="MUSICA",MTV HD
 http://152.230.246.26:8001/play/a00y/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",MTV HD
+#EXTINF:-1 group-title="MUSICA",MTV HD
 http://cablemaxsigloxxi.com:8000/play/a087/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",TCM
+#EXTINF:-1 group-title="MUSICA",TCM
 http://152.230.246.26:8001/play/a056/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",TCM
+#EXTINF:-1 group-title="MUSICA",TCM
 http://200.59.191.177:8000/play/a0qh/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",TCM
+#EXTINF:-1 group-title="MUSICA",TCM
 http://cablemaxsigloxxi.com:8000/play/a03w/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",TELEHIT
+#EXTINF:-1 group-title="MUSICA",TELEHIT
 http://200.229.147.210:9999/play/a026/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",TELEHIT MUSICA
+#EXTINF:-1 group-title="MUSICA",TELEHIT MUSICA
 http://200.229.147.210:9999/play/a028/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",Us: Vh1
+#EXTINF:-1 tvg-id="VH1.us" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/USAMUSIC/VH1.png" group-title="MUSICA",Us: Vh1
 http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9EXueiHcyTlLEB7hW2FfZeo
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RELIGIOSOS",(HCO) BETHEL TV
+#EXTINF:-1 group-title="RELIGIOSOS",(HCO) BETHEL TV
 http://cablemaxsigloxxi.com:8000/play/a0tp/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RELIGIOSOS",Bethel One Second
+#EXTINF:-1 group-title="RELIGIOSOS",Bethel One Second
 http://cablemaxsigloxxi.com:8000/play/a02n/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RELIGIOSOS",BETHEL TV
+#EXTINF:-1 group-title="RELIGIOSOS",BETHEL TV
 http://cablemaxsigloxxi.com:8000/play/a02h/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RELIGIOSOS",Daystar
+#EXTINF:-1 group-title="RELIGIOSOS",Daystar
 http://200.59.191.177:8000/play/a00d/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RELIGIOSOS",ELIM TV - ESA
+#EXTINF:-1 group-title="RELIGIOSOS",ELIM TV - ESA
 http://200.229.147.210:9999/play/a04i/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RELIGIOSOS",Enlace
+#EXTINF:-1 group-title="RELIGIOSOS",Enlace
 http://152.230.246.26:8001/play/a059/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RELIGIOSOS",Enlace
+#EXTINF:-1 group-title="RELIGIOSOS",Enlace
 http://200.59.191.177:8000/play/a0l3/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RELIGIOSOS",Enlace
+#EXTINF:-1 group-title="RELIGIOSOS",Enlace
 http://cablemaxsigloxxi.com:8000/play/a00h/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RELIGIOSOS",ENLACE JUVENIL
+#EXTINF:-1 group-title="RELIGIOSOS",ENLACE JUVENIL
 http://200.229.147.210:9999/play/a02b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RELIGIOSOS",Esne
+#EXTINF:-1 group-title="RELIGIOSOS",Esne
 http://152.230.246.26:8001/play/a06i/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RELIGIOSOS",EWTN
+#EXTINF:-1 group-title="RELIGIOSOS",EWTN
 http://cablemaxsigloxxi.com:8000/play/a0u4/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RELIGIOSOS",EWTN
+#EXTINF:-1 group-title="RELIGIOSOS",EWTN
 http://200.229.147.210:9999/play/a03b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RELIGIOSOS",EWTN (35e)
+#EXTINF:-1 group-title="RELIGIOSOS",EWTN (35e)
 http://200.59.191.177:8000/play/a0m5/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RELIGIOSOS",La voz de Maria
+#EXTINF:-1 group-title="RELIGIOSOS",La voz de Maria
 http://200.229.147.210:9999/play/a076/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RELIGIOSOS",RHEMA TV
+#EXTINF:-1 group-title="RELIGIOSOS",RHEMA TV
 http://200.229.147.210:9999/play/a07i/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RELIGIOSOS",Sembrador
+#EXTINF:-1 group-title="RELIGIOSOS",Sembrador
 http://200.229.147.210:9999/play/a05l/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RELIGIOSOS",TBN Enlace
+#EXTINF:-1 group-title="RELIGIOSOS",TBN Enlace
 http://200.229.147.210:9999/play/a03a/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ADULTOS",Playboy
+#EXTINF:-1 group-title="ADULTOS",Playboy
 http://200.59.191.177:8000/play/a0p3/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ADULTOS",Playboy
+#EXTINF:-1 group-title="ADULTOS",Playboy
 http://200.229.147.210:9999/play/a02c/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ADULTOS",Venus
+#EXTINF:-1 group-title="ADULTOS",Venus
 http://200.59.191.177:8000/play/a0kw/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ADULTOS",VENUS
+#EXTINF:-1 group-title="ADULTOS",VENUS
 http://200.229.147.210:9999/play/a05m/index.m3u8
