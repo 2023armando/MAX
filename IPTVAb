@@ -1489,6 +1489,9 @@ http://cablemaxsigloxxi.com:8000/play/a00h/index.m3u8?hls
 http://200.229.147.210:9999/play/a02b/index.m3u8
 #EXTINF:-1 group-title="RELIGIOSOS",Esne
 http://152.230.246.26:8001/play/a06i/index.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS",Esne
+http://190.124.20.69/ESNE/index.m3u8
+
 #EXTINF:-1 group-title="RELIGIOSOS",EWTN
 http://cablemaxsigloxxi.com:8000/play/a0u4/index.m3u8?hls
 #EXTINF:-1 group-title="RELIGIOSOS",EWTN
