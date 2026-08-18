@@ -1507,3 +1507,79 @@ http://200.229.147.210:9999/play/a05l/index.m3u8
 #EXTINF:-1 group-title="RELIGIOSOS",TBN Enlace
 http://200.229.147.210:9999/play/a03a/index.m3u8
 
+#EXTINF:-1 tvg-id="603dtv.pe" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/L1/EXPORTACION_WEB/SS/L1_t-290x163.png" group-title="Deportes", 3 | L 1
+https://pebpktstvhls-3.clarovideo.com/bpk-tv/LIGA1/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/L1MAX/EXPORTACION_WEB/SS/L1MAX_t-290x163.png" group-title="Deportes", 10 | L1MAX
+https://pebpktstvhls-3.clarovideo.com/bpk-tv/LIGA1MAX/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="553" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CLAROSPORTS/EXPORTACION_WEB/SS/CLAROSPORTS_t-290x163.png" group-title="Deportes", 60 | CLARO SPORTS
+https://pebpktstvhls-3.clarovideo.com/bpk-tv/CLAROSPORTSHD/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="621dtv.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/ESPN/EXPORTACION_WEB/SS/ESPN_t-290x163.png" group-title="Deportes", 61 | ESPN
+https://cablered.iptvperu.tv:1936/cablered/espn_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="622dtv.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/ESPN2/EXPORTACION_WEB/SS/ESPN2_t-290x163.png" group-title="Deportes", 62 | ESPN 2
+https://cablered.iptvperu.tv:1936/cablered/espn2_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1075dtv.cl" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/ESPN3/EXPORTACION_WEB/SS/ESPN3_t-290x163.png" group-title="Deportes", 63 | ESPN 3
+https://cablered.iptvperu.tv:1936/cablered/espn3_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1620dtv.cl" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/ESPN4/EXPORTACION_WEB/SS/ESPN4_t-290x163.png" group-title="Deportes", 64 | ESPN 4
+https://cablered.iptvperu.tv:1936/cablered/espn4_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="624dtv.co" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/ESPN5/EXPORTACION_WEB/SS/ESPN5_t-290x163.png" group-title="Deportes", 65 | ESPN 5
+https://cablered.iptvperu.tv:1936/cablered/espn5_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3081dtv.cl" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/ESPN6/EXPORTACION_WEB/SS/ESPN6_t-290x163.png" group-title="Deportes", 66 | ESPN 6
+https://cablered.iptvperu.tv:1936/cablered/espn6_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="655" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/ESPN7/EXPORTACION_WEB/SS/ESPN7_t-290x163.png" group-title="Deportes", 67 | ESPN 7
+https://cablered.iptvperu.tv:1936/cablered/espn7_new/playlist.m3u8
+
+#EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml"
+
+#EXTINF:-1 tvg-id="553" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CLAROSPORTS/EXPORTACION_WEB/SS/CLAROSPORTS_t-290x163.png" group-title="⚽ DEPORTES 📺", D | Claro Sports
+http://181.119.215.61:8000/play/a07o/index.m3u8
+
+#EXTINF:-1 tvg-id="610dtv.pe" tvg-logo="https://i.imgur.com/yithfOa.png" group-title="⚽ DEPORTES 📺", D | DSports Peru
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GEDqYmawe7xbhY0iskZHDPw/m3u8
+
+#EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://i.imgur.com/OLput6t.png" group-title="⚽ DEPORTES 📺", D | DSports 2
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GFDfbAM1IWJ5CBnxwIAbLms/m3u8
+
+#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://i.imgur.com/cjS9mQi.png" group-title="⚽ DEPORTES 📺", D | DSports+ Plus
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GH12-ghA0PpamStI7HLxPoI/m3u8
+
+#EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="⚽ DEPORTES 📺", D | M. Deportes Peru
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GHlZZq5IkIY4WHxBIw9Uh4w/m3u8
+
+#EXTINF:-1 tvg-id="553" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FOVACION.png&width=300" group-title="⚽ DEPORTES 📺", D | Ovacion Peru
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="603dtv.pe" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/L1/EXPORTACION_WEB/SS/L1_t-290x163.png" group-title="⚽ DEPORTES 📺", D | L1 Peru
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/40294.m3u8
+
+#EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/L1MAX/EXPORTACION_WEB/SS/L1MAX_t-290x163.png" group-title="⚽ DEPORTES 📺", D | L1 Max Peru
+http://redworld.pro:8880/live/pjxwzsticy/Cm7hRpuqVpBv/533403.m3u8
+
+#EXTINF:-1 tvg-id="553" tvg-logo="http://s0lc.net:8080/images/dep_tudn.png" group-title="⚽ DEPORTES 📺", D | TUDN Mexico
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/5412.m3u8
+
+#EXTINF:-1 tvg-id="629dtv.cl" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/TYCSPORTS/EXPORTACION_WEB/SS/TYCSPORTS_t-290x163.png" group-title="⚽ DEPORTES 📺", D | TyC Sports Int.
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GH7EZuRAKaicpgmJsEZlsLM/m3u8
+
+#EXTINF:-1 tvg-id="tigo-sports.py" tvg-logo="http://s0lc.net:8080/images/dep_tigo_sports.png" group-title="⚽ DEPORTES 📺", D | Tigo Sports Paraguay
+https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/0fd608d0807c48edb4713da6b80e8c34/index_6.m3u8?z=b
+
+#EXTINF:-1 tvg-id="553" tvg-logo="http://s0lc.net:8080/images/dep_ecdf.png" group-title="⚽ DEPORTES 📺", D | ECDF Ecuador
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/19288.m3u8
+
+#EXTINF:-1 tvg-id="553" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/white/zappingsportsec.png" group-title="⚽ DEPORTES 📺", D | Zapping Sports Ecuador
+http://tvdirect.pro:8080/live/rafatv24/rafa2024/289873.m3u
+
+#EXTINF:-1 tvg-id="8158mvstr.pe" tvg-logo="https://i.imgur.com/bRTYm5O.png" group-title="⚽ DEPORTES 📺", E | Via X Esports
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GI8jYGb9FBDi-Vh7uBUdrHo/m3u8
+
+#EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/BtAIwAD.png" group-title="⚽ DEPORTES 📺", E | Esports Max (DVE -3h)
+https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
