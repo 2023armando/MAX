@@ -2209,6 +2209,6 @@ http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9DdskgroHN-OC49_Cm
 
 
 #EXTINF:-1 tvg-id="107637" tvg-name="DAZN HD [ LIVEEVENT]" tvg-logo="http://103.176.90.95/images/107637.png" group-title="ES| DAZN ESPAÑA",DAZN HD [ LIVEEVENT]
-ffmpeg http://mag.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:45:E0&stream=107637&extension=ts&play_token=k1e1e8qIPM
+http://mag.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:45:E0&stream=107637&extension=ts&play_token=k1e1e8qIPM
 #EXTINF:-1 tvg-id="107638" tvg-name="DAZN 1 HD" tvg-logo="http://103.176.90.95/images/107638.png" group-title="ES| DAZN ESPAÑA",DAZN 1 HD
-ffmpeg http://mag.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:45:E0&stream=107638&extension=ts&play_token=tXjUBdjoBf
+http://mag.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:45:E0&stream=107638&extension=ts&play_token=tXjUBdjoBf
