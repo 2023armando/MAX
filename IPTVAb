@@ -2203,3 +2203,136 @@ http://200.59.191.177:8000/play/a0mb/index.m3u8?
 http://200.229.147.210:9999/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="TLNovelas.ar" tvg-logo="https://imgs.search.brave.com/BzllKsdMbjEtZkkeWkEaxPp875OhmFUjoTmQZrtzAFc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9ibG9n/Z2VyLmdvb2dsZXVz/ZXJjb250ZW50LmNv/bS9pbWcvYi9SMjl2/WjJ4bC9BVnZYc0Vn/QWo3WTVqZUdiU3V4/ZT" group-title="SERIES",ZT
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9DdskgroHN-OC49_Cmr53rU
+
+
+
+
+
+#EXTINF:-1 tvg-id="M+#Vamos.es" tvg-name="ES: #VAMOS por M+ [FHD]" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VAMOSD.png" group-title="ESP DEPORTES",ES: #VAMOS por M+ [FHD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/66305
+#EXTINF:-1 tvg-id="M+#Vamos.es" tvg-name="ES: #VAMOS por M+ [SD]" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VAMOSD.png" group-title="ESP DEPORTES",ES: #VAMOS por M+ [SD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/678910
+#EXTINF:-1 tvg-id="DAZN1.es" tvg-name="ES: DAZN 1 [FHD]" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M1SD.png" group-title="ESP DEPORTES",ES: DAZN 1 [FHD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/109230
+#EXTINF:-1 tvg-id="DAZN1.es" tvg-name="ES: DAZN 1 [SD]" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M1SD.png" group-title="ESP DEPORTES",ES: DAZN 1 [SD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/678911
+#EXTINF:-1 tvg-id="DAZN2.es" tvg-name="ES: DAZN 2 [FHD]" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M2SD.png" group-title="ESP DEPORTES",ES: DAZN 2 [FHD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/83381
+#EXTINF:-1 tvg-id="DAZN3.es" tvg-name="ES: DAZN 3 [FHD]" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZN3.png" group-title="ESP DEPORTES",ES: DAZN 3 [FHD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/83382
+#EXTINF:-1 tvg-id="DAZN4.es" tvg-name="ES: DAZN 4 [FHD]" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZN4.png" group-title="ESP DEPORTES",ES: DAZN 4 [FHD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/83383
+#EXTINF:-1 tvg-id="DAZNF1.es" tvg-name="ES: DAZN F1 [FHD]" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MVF1.png" group-title="ESP DEPORTES",ES: DAZN F1 [FHD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/66301
+#EXTINF:-1 tvg-id="DAZNF1.es" tvg-name="ES: DAZN F1 [SD]" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MVF1.png" group-title="ESP DEPORTES",ES: DAZN F1 [SD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/680464
+#EXTINF:-1 tvg-id="DAZNLaLiga.es" tvg-name="ES: DAZN LA LIGA [FHD]" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" group-title="ESP DEPORTES",ES: DAZN LA LIGA [FHD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/124832
+#EXTINF:-1 tvg-id="DAZNLaLiga.es" tvg-name="ES: DAZN LA LIGA [SD]" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" group-title="ESP DEPORTES",ES: DAZN LA LIGA [SD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/678912
+#EXTINF:-1 tvg-id="programacion.ppv" tvg-name="ES: DAZN LA LIGA 2 [FHD]" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNL2.png" group-title="ESP DEPORTES",ES: DAZN LA LIGA 2 [FHD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/124833
+#EXTINF:-1 tvg-id="programacion.ppv" tvg-name="ES: DBIKE [FHD]" tvg-logo="https://dbikechannel.es/wp-content/uploads/2024/04/logodbike2020.png" group-title="ESP DEPORTES",ES: DBIKE [FHD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/650306
+#EXTINF:-1 tvg-id="programacion.ppv" tvg-name="ES: DBIKE [SD]" tvg-logo="https://dbikechannel.es/wp-content/uploads/2024/04/logodbike2020.png" group-title="ESP DEPORTES",ES: DBIKE [SD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/678913
+#EXTINF:-1 tvg-id="M+Deportes.es" tvg-name="ES: DEPORTES por M+ [FHD]" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPDEP.png" group-title="ESP DEPORTES",ES: DEPORTES por M+ [FHD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/87702
+#EXTINF:-1 tvg-id="M+Deportes.es" tvg-name="ES: DEPORTES por M+ [SD]" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPDEP.png" group-title="ESP DEPORTES",ES: DEPORTES por M+ [SD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/678914
+#EXTINF:-1 tvg-id="M+Deportes2.es" tvg-name="ES: DEPORTES 2 por M+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ARTHUR.png" group-title="ESP DEPORTES",ES: DEPORTES 2 por M+
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/112578
+#EXTINF:-1 tvg-id="M+Deportes3.es" tvg-name="ES: DEPORTES 3 por M+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/USOP2.png" group-title="ESP DEPORTES",ES: DEPORTES 3 por M+
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/112579
+#EXTINF:-1 tvg-id="ElToroTV.es" tvg-name="ES: EL TOROS TV [FHD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png" group-title="ESP DEPORTES",ES: EL TOROS TV [FHD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/150700
+#EXTINF:-1 tvg-id="ElToroTV.es" tvg-name="ES: EL TOROS TV [SD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png" group-title="ESP DEPORTES",ES: EL TOROS TV [SD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/678915
+#EXTINF:-1 tvg-id="MovistarEllasVamos.es" tvg-name="ES: ELLAS #V por M+ [FHD]" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MELLAV.png" group-title="ESP DEPORTES",ES: ELLAS #V por M+ [FHD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/124867
+#EXTINF:-1 tvg-id="MovistarEllasVamos.es" tvg-name="ES: ELLAS #V por M+ [SD]" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MELLAV.png" group-title="ESP DEPORTES",ES: ELLAS #V por M+ [SD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/678916
+#EXTINF:-1 tvg-id="Eurosport1.es" tvg-name="ES: EUROSPORT 1 [FHD]" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP.png" group-title="ESP DEPORTES",ES: EUROSPORT 1 [FHD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/66349
+#EXTINF:-1 tvg-id="Eurosport1.es" tvg-name="ES: EUROSPORT 1 [SD]" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP.png" group-title="ESP DEPORTES",ES: EUROSPORT 1 [SD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/678917
+#EXTINF:-1 tvg-id="Eurosport2.es" tvg-name="ES: EUROSPORT 2 [FHD]" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP2.png" group-title="ESP DEPORTES",ES: EUROSPORT 2 [FHD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/66350
+#EXTINF:-1 tvg-id="Eurosport2.es" tvg-name="ES: EUROSPORT 2 [SD]" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP2.png" group-title="ESP DEPORTES",ES: EUROSPORT 2 [SD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/678918
+#EXTINF:-1 tvg-id="GOL.es" tvg-name="ES: GOL PLAY [FHD]" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GOL.png" group-title="ESP DEPORTES",ES: GOL PLAY [FHD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/87731
+#EXTINF:-1 tvg-id="GOL.es" tvg-name="ES: GOL PLAY [SD]" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GOL.png" group-title="ESP DEPORTES",ES: GOL PLAY [SD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/678919
+#EXTINF:-1 tvg-id="M+Golf.es" tvg-name="ES: GOLF por M+ [FHD]" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GOLF+.png" group-title="ESP DEPORTES",ES: GOLF por M+ [FHD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/87710
+#EXTINF:-1 tvg-id="M+Golf.es" tvg-name="ES: GOLF por M+ [SD]" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GOLF+.png" group-title="ESP DEPORTES",ES: GOLF por M+ [SD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/678920
+#EXTINF:-1 tvg-id="M+Golf2.es" tvg-name="ES: GOLF 2 por M+ [FHD]" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF2.png" group-title="ESP DEPORTES",ES: GOLF 2 por M+ [FHD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/664107
+#EXTINF:-1 tvg-id="LA1.es" tvg-name="ES: LA LIGA TV por M+ [FHD]" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png" group-title="ESP DEPORTES",ES: LA LIGA TV por M+ [FHD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/66306
+#EXTINF:-1 tvg-id="LA1.es" tvg-name="ES: LA LIGA TV por M+ [FHD]" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png" group-title="ESP DEPORTES",ES: LA LIGA TV por M+ [FHD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/66308
+#EXTINF:-1 tvg-id="M+LaLigaTV.es" tvg-name="ES: LA LIGA TV por M+ [SD]" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png" group-title="ESP DEPORTES",ES: LA LIGA TV por M+ [SD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/678921
+#EXTINF:-1 tvg-id="M+LaLigaTV2.es" tvg-name="ES: LA LIGA TV 2 por M+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG1.png" group-title="ESP DEPORTES",ES: LA LIGA TV 2 por M+
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/87745
+#EXTINF:-1 tvg-id="M+LaLigaTV3.es" tvg-name="ES: LA LIGA TV 3 por M+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG2.png" group-title="ESP DEPORTES",ES: LA LIGA TV 3 por M+
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/87746
+#EXTINF:-1 tvg-id="M+LaLigaTV4.es" tvg-name="ES: LA LIGA TV 4 por M+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG3.png" group-title="ESP DEPORTES",ES: LA LIGA TV 4 por M+
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/112581
+#EXTINF:-1 tvg-id="LaLigaSmartbankTV.es" tvg-name="ES: LALIGA TV HYPERMOTION [FHD]" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS.png" group-title="ESP DEPORTES",ES: LALIGA TV HYPERMOTION [FHD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/125095
+#EXTINF:-1 tvg-id="LaLigaSmartbankTV.es" tvg-name="ES: LALIGA TV HYPERMOTION [SD]" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS.png" group-title="ESP DEPORTES",ES: LALIGA TV HYPERMOTION [SD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/678922
+#EXTINF:-1 tvg-id="LaLigaSmartbankTV2.es" tvg-name="ES: LALIGA TV HYPERMOTION 2 [FHD]" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS2.png" group-title="ESP DEPORTES",ES: LALIGA TV HYPERMOTION 2 [FHD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/125096
+#EXTINF:-1 tvg-id="M+LigadeCampeones.es" tvg-name="ES: LIGA DE CAMPEONES por M+ [FHD]" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png" group-title="ESP DEPORTES",ES: LIGA DE CAMPEONES por M+ [FHD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/66310
+#EXTINF:-1 tvg-id="M+LigadeCampeones.es" tvg-name="ES: LIGA DE CAMPEONES por M+ [FHD]" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png" group-title="ESP DEPORTES",ES: LIGA DE CAMPEONES por M+ [FHD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/913
+#EXTINF:-1 tvg-id="M+LigadeCampeones.es" tvg-name="ES: LIGA DE CAMPEONES por M+ [SD]" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png" group-title="ESP DEPORTES",ES: LIGA DE CAMPEONES por M+ [SD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/678923
+#EXTINF:-1 tvg-id="M+LigadeCampeones2.es" tvg-name="ES: LIGA DE CAMPEONES 2 por M+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP1.png" group-title="ESP DEPORTES",ES: LIGA DE CAMPEONES 2 por M+
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/66313
+#EXTINF:-1 tvg-id="M+LigadeCampeones3.es" tvg-name="ES: LIGA DE CAMPEONES 3 por M+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP2.png" group-title="ESP DEPORTES",ES: LIGA DE CAMPEONES 3 por M+
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/66314
+#EXTINF:-1 tvg-id="M+LigadeCampeones4.es" tvg-name="ES: LIGA DE CAMPEONES 4 por M+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP3.png" group-title="ESP DEPORTES",ES: LIGA DE CAMPEONES 4 por M+
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/66315
+#EXTINF:-1 tvg-id="M+LigadeCampeones5.es" tvg-name="ES: LIGA DE CAMPEONES 5 por M+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP4.png" group-title="ESP DEPORTES",ES: LIGA DE CAMPEONES 5 por M+
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/66316
+#EXTINF:-1 tvg-id="M+LigadeCampeones6.es" tvg-name="ES: LIGA DE CAMPEONES 6 por M+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP5.png" group-title="ESP DEPORTES",ES: LIGA DE CAMPEONES 6 por M+
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/66317
+#EXTINF:-1 tvg-id="M+LigadeCampeones7.es" tvg-name="ES: LIGA DE CAMPEONES 7 por M+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP6.png" group-title="ESP DEPORTES",ES: LIGA DE CAMPEONES 7 por M+
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/66318
+#EXTINF:-1 tvg-id="M+LigadeCampeones8.es" tvg-name="ES: LIGA DE CAMPEONES 8 por M+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP7.png" group-title="ESP DEPORTES",ES: LIGA DE CAMPEONES 8 por M+
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/126137
+#EXTINF:-1 tvg-id="M+LigadeCampeones9.es" tvg-name="ES: LIGA DE CAMPEONES 9 por M+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP8.png" group-title="ESP DEPORTES",ES: LIGA DE CAMPEONES 9 por M+
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/126138
+#EXTINF:-1 tvg-id="M+LigadeCampeones10.es" tvg-name="ES: LIGA DE CAMPEONES 10 por M+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP9.png" group-title="ESP DEPORTES",ES: LIGA DE CAMPEONES 10 por M+
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/126139
+#EXTINF:-1 tvg-id="M+LigadeCampeones11.es" tvg-name="ES: LIGA DE CAMPEONES 11 por M+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP10.png" group-title="ESP DEPORTES",ES: LIGA DE CAMPEONES 11 por M+
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/126140
+#EXTINF:-1 tvg-id="M+LigadeCampeones12.es" tvg-name="ES: LIGA DE CAMPEONES 12 por M+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP11.png" group-title="ESP DEPORTES",ES: LIGA DE CAMPEONES 12 por M+
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/126141
+#EXTINF:-1 tvg-id="M+LigadeCampeones13.es" tvg-name="ES: LIGA DE CAMPEONES 13 por M+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP12.png" group-title="ESP DEPORTES",ES: LIGA DE CAMPEONES 13 por M+
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/126142
+#EXTINF:-1 tvg-id="MovistarPlus+.es" tvg-name="ES: MOVISTAR PLUS+ por M+ [FHD]" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/ficha_m/MPLUS.png" group-title="ESP DEPORTES",ES: MOVISTAR PLUS+ por M+ [FHD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/674759
+#EXTINF:-1 tvg-id="MovistarPlus+.es" tvg-name="ES: MOVISTAR PLUS+ por M+ [SD]" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/ficha_m/MPLUS.png" group-title="ESP DEPORTES",ES: MOVISTAR PLUS+ por M+ [SD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/678924
+#EXTINF:-1 tvg-id="MovistarPlus+2.es" tvg-name="ES: MOVISTAR PLUS+2 por M+ [FHD]" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/ficha_m/MPLUS2.png" group-title="ESP DEPORTES",ES: MOVISTAR PLUS+2 por M+ [FHD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/674760
+#EXTINF:-1 tvg-id="NauticalChannel.es" tvg-name="ES: NAUTICA TV [FHD]" tvg-logo="https://nauticatv.es/wp-content/uploads/2022/08/nauticatv.png" group-title="ESP DEPORTES",ES: NAUTICA TV [FHD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/650455
+#EXTINF:-1 tvg-id="NauticalChannel.es" tvg-name="ES: NAUTICA TV [SD]" tvg-logo="https://nauticatv.es/wp-content/uploads/2022/08/nauticatv.png" group-title="ESP DEPORTES",ES: NAUTICA TV [SD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/678925
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="ES: REAL MADRID TV [FHD]" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/REALM.png" group-title="ESP DEPORTES",ES: REAL MADRID TV [FHD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/7227
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="ES: REAL MADRID TV [SD]" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/REALM.png" group-title="ESP DEPORTES",ES: REAL MADRID TV [SD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/678926
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="ES: TELEDEPORTE [FHD]" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TDEP.png" group-title="ESP DEPORTES",ES: TELEDEPORTE [FHD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/87706
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="ES: TELEDEPORTE [SD]" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TDEP.png" group-title="ESP DEPORTES",ES: TELEDEPORTE [SD]
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/678927
