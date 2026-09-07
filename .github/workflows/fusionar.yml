@@ -1,0 +1,40 @@
+name: Actualizar IPTVAb (A + B)
+
+on:
+  schedule:
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+
+jobs:
+  actualizar-iptvab:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v3
+
+      - name: Descargar Lista B (externa de antonio-bravo)
+        run: |
+          echo "Descargando lista externa..."
+          curl -L -o ipfs_io.m3u https://raw.githubusercontent.com/antonio-bravo/m3u/refs/heads/main/ipfs_io.m3u
+          echo "Descarga completada."
+
+      - name: Generar IPTVAb (A + B)
+        run: |
+          echo "Generando IPTVAb combinada..."
+          echo "#EXTM3U" > IPTVAb
+          grep "^https://epg" IPTVAboriginal >> IPTVAb || true
+          echo "# -------- CANALES IPTVAboriginal --------" >> IPTVAb
+          grep -v "^#EXTM3U" IPTVAboriginal | grep -v "^https://epg" >> IPTVAb || true
+          echo "# -------- CANALES EXTERNOS (ipfs_io) --------" >> IPTVAb
+          grep -v "^#EXTM3U" ipfs_io.m3u >> IPTVAb || true
+          echo "IPTVAb actualizada con éxito."
+
+      - name: Subir cambios a GitHub
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add IPTVAb ipfs_io.m3u
+          git diff --staged --quiet || git commit -m "Actualización automática diaria de IPTVAb"
+          git push origin main
