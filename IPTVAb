@@ -2629,13 +2629,13 @@ http://31.43.191.125:8080/restream/restream/767
 
 
 #EXTM3U
-#EXTINF:-1 group-title="dazones2",Dazn 1 es
+#EXTINF:-1 group-title="dazones2",Dazn1 es
 http://195.178.110.110/dazn1/index.m3u8
-#EXTINF:-1 group-title="dazones2",Dazn 1 es
+#EXTINF:-1 group-title="dazones2",Dazn2 es
 http://195.178.110.110/dazn2/index.m3u8
-#EXTINF:-1 group-title="dazones2",Dazn 1 es
+#EXTINF:-1 group-title="dazones2",Dazn3 es
 http://195.178.110.110/dazn3/index.m3u8
-#EXTINF:-1 group-title="dazones2",Dazn 1 es
+#EXTINF:-1 group-title="dazones2",Dazn4 es
 http://195.178.110.110/dazn4/index.m3u8
 #EXTINF:-1 group-title="dazones2",Dazn f1 es
 http://195.178.110.110/daznf1/index.m3u8
