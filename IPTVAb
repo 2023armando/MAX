@@ -2755,3 +2755,81 @@ http://195.178.110.110/univision/index.m3u8
 http://195.178.110.110/universo/index.m3u8
 #EXTINF:-1 group-title="dazones2",Disney 3
 http://195.178.110.110/disney3/index.m3u8
+
+# ===== MOVISTAR+ / FÚTBOL ESPAÑA =====
+#EXTINF:-1 group-title="dazones2",M+ LaLiga HD ES
+http://hjbk1wfq.virelloso.top/iptv/5DT8E33C48GD4K/31853/index.m3u8
+#EXTINF:-1 group-title="dazones2",M+ LaLiga 2 HD ES
+http://hjbk1wfq.virelloso.top/iptv/5DT8E33C48GD4K/31854/index.m3u8
+#EXTINF:-1 group-title="dazones2",M+ LaLiga 3 HD ES
+http://hjbk1wfq.virelloso.top/iptv/5DT8E33C48GD4K/31858/index.m3u8
+#EXTINF:-1 group-title="dazones2",M+ LaLiga 4 HD ES
+http://hjbk1wfq.virelloso.top/iptv/5DT8E33C48GD4K/31822/index.m3u8
+#EXTINF:-1 group-title="dazones2",M+ Liga de Campeones HD ES
+http://hjbk1wfq.virelloso.top/iptv/5DT8E33C48GD4K/31842/index.m3u8
+#EXTINF:-1 group-title="dazones2",M+ Liga de Campeones 2 HD ES
+http://hjbk1wfq.virelloso.top/iptv/5DT8E33C48GD4K/31860/index.m3u8
+#EXTINF:-1 group-title="dazones2",M+ Liga de Campeones 4 HD ES
+http://hjbk1wfq.virelloso.top/iptv/5DT8E33C48GD4K/31864/index.m3u8
+#EXTINF:-1 group-title="dazones2",M+ Liga de Campeones 5 HD ES
+http://hjbk1wfq.virelloso.top/iptv/5DT8E33C48GD4K/31821/index.m3u8
+
+# ===== DAZN ESPAÑA =====
+#EXTINF:-1 group-title="dazones2",DAZN 1 Bar HD ES
+http://hjbk1wfq.virelloso.top/iptv/5DT8E33C48GD4K/31831/index.m3u8
+#EXTINF:-1 group-title="dazones2",DAZN 2 Bar HD ES
+http://hjbk1wfq.virelloso.top/iptv/5DT8E33C48GD4K/31832/index.m3u8
+#EXTINF:-1 group-title="dazones2",DAZN 3 Bar HD ES
+http://hjbk1wfq.virelloso.top/iptv/5DT8E33C48GD4K/31861/index.m3u8
+#EXTINF:-1 group-title="dazones2",DAZN 4 Bar HD ES
+http://hjbk1wfq.virelloso.top/iptv/5DT8E33C48GD4K/31862/index.m3u8
+#EXTINF:-1 group-title="dazones2",DAZN F1 HD ES
+http://hjbk1wfq.virelloso.top/iptv/5DT8E33C48GD4K/31834/index.m3u8
+#EXTINF:-1 group-title="dazones2",DAZN LaLiga HD ES
+http://hjbk1wfq.virelloso.top/iptv/5DT8E33C48GD4K/31856/index.m3u8
+#EXTINF:-1 group-title="dazones2",DAZN LaLiga 2 HD ES
+http://hjbk1wfq.virelloso.top/iptv/5DT8E33C48GD4K/31855/index.m3u8
+
+# ===== MOVISTAR+ DEPORTES =====
+#EXTINF:-1 group-title="dazones2",M+ Deportes HD ES
+http://hjbk1wfq.virelloso.top/iptv/5DT8E33C48GD4K/31830/index.m3u8
+#EXTINF:-1 group-title="dazones2",M+ Deportes 2 HD ES
+http://hjbk1wfq.virelloso.top/iptv/5DT8E33C48GD4K/31835/index.m3u8
+#EXTINF:-1 group-title="dazones2",M+ Deportes 3 HD ES
+http://hjbk1wfq.virelloso.top/iptv/5DT8E33C48GD4K/31849/index.m3u8
+#EXTINF:-1 group-title="dazones2",M+ Deportes 4 HD ES
+http://hjbk1wfq.virelloso.top/iptv/5DT8E33C48GD4K/31850/index.m3u8
+#EXTINF:-1 group-title="dazones2",M+ Deportes 5 HD ES
+http://hjbk1wfq.virelloso.top/iptv/5DT8E33C48GD4K/31851/index.m3u8
+#EXTINF:-1 group-title="dazones2",M+ Deportes 6 HD ES
+http://hjbk1wfq.virelloso.top/iptv/5DT8E33C48GD4K/31874/index.m3u8
+#EXTINF:-1 group-title="dazones2",M+ Vamos HD ES
+http://hjbk1wfq.virelloso.top/iptv/5DT8E33C48GD4K/31867/index.m3u8
+
+# ===== LALIGA HYPERMOTION =====
+#EXTINF:-1 group-title="dazones2",LaLiga TV Hypermotion HD ES
+http://hjbk1wfq.virelloso.top/iptv/5DT8E33C48GD4K/31823/index.m3u8
+#EXTINF:-1 group-title="dazones2",LaLiga TV Hypermotion 2 HD ES
+http://hjbk1wfq.virelloso.top/iptv/5DT8E33C48GD4K/31859/index.m3u8
+#EXTINF:-1 group-title="dazones2",LaLiga TV Hypermotion 3 HD ES
+http://hjbk1wfq.virelloso.top/iptv/5DT8E33C48GD4K/31865/index.m3u8
+
+# ===== GOLF =====
+#EXTINF:-1 group-title="dazones2",M+ Golf HD ES
+http://hjbk1wfq.virelloso.top/iptv/5DT8E33C48GD4K/31844/index.m3u8
+#EXTINF:-1 group-title="dazones2",M+ Golf 2 HD ES
+http://hjbk1wfq.virelloso.top/iptv/5DT8E33C48GD4K/31878/index.m3u8
+
+# ===== EUROSPORT =====
+#EXTINF:-1 group-title="dazones2",Eurosport 1 HD ES
+http://hjbk1wfq.virelloso.top/iptv/5DT8E33C48GD4K/31845/index.m3u8
+#EXTINF:-1 group-title="dazones2",Eurosport 2 HD ES
+http://hjbk1wfq.virelloso.top/iptv/5DT8E33C48GD4K/31848/index.m3u8
+
+# ===== FÚTBOL / OTROS =====
+#EXTINF:-1 group-title="dazones2",Real Madrid TV ES
+http://hjbk1wfq.virelloso.top/iptv/5DT8E33C48GD4K/31847/index.m3u8
+#EXTINF:-1 group-title="dazones2",Teledeporte HD ES
+http://hjbk1wfq.virelloso.top/iptv/5DT8E33C48GD4K/31857/index.m3u8
+#EXTINF:-1 group-title="dazones2",Gol HD ES
+http://hjbk1wfq.virelloso.top/iptv/5DT8E33C48GD4K/31863/index.m3u8
