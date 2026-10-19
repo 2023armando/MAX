@@ -2870,3 +2870,16 @@ http://b7d46914.ottolok.net/iptv/EHF55SW2TTSDUN/31857/index.m3u8
 #EXTINF:-1 group-title="dazones2",Gol HD ES
 http://b7d46914.ottolok.net/iptv/EHF55SW2TTSDUN/31863/index.m3u8
 
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="|ES|  DAZN 1*" tvg-logo="" group-title="DAZN CASA*",|ES|  DAZN 1*
+http://9.95856.org:2052/09746171/15445345/3447
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| DAZN 2 HD*" tvg-logo="" group-title="DAZN CASA*",|ES| DAZN 2 HD*
+http://9.95856.org:2052/09746171/15445345/3443
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| DAZN 3 HD*" tvg-logo="" group-title="DAZN CASA*",|ES| DAZN 3 HD*
+http://9.95856.org:2052/09746171/15445345/3434
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| DAZN 4 HD*" tvg-logo="" group-title="DAZN CASA*",|ES| DAZN 4 HD*
+http://9.95856.org:2052/09746171/15445345/3548
